@@ -1,0 +1,58 @@
+name: Build lookup packs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'seeds/**'
+      - 'scripts/**'
+      - '.github/workflows/build.yml'
+  pull_request:
+    paths:
+      - 'seeds/**'
+      - 'scripts/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build packs
+        run: npm run build
+
+      - name: Check for changes
+        if: github.event_name == 'push'
+        id: diff
+        run: |
+          if git diff --quiet lookup/; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit regenerated packs
+        if: github.event_name == 'push' && steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add lookup/
+          git commit -m "chore(build): regenerate lookup packs from seeds"
+          git push
+
+      - name: Verify packs are up-to-date (PR)
+        if: github.event_name == 'pull_request'
+        run: |
+          if ! git diff --quiet lookup/; then
+            echo "::error::lookup/ is out of sync with seeds/. Run 'npm run build' locally and commit."
+            git diff lookup/
+            exit 1
+          fi

@@ -1,0 +1,26 @@
+{
+  "indexVersion": 1,
+  "replacement_host": null,
+  "packs": [
+    {
+      "id": "core",
+      "displayName": {
+        "nl": "Basisproducten",
+        "fr": "Produits de base",
+        "en": "Core staples",
+        "de": "Grundnahrungsmittel"
+      },
+      "languages": [
+        "en",
+        "nl",
+        "fr",
+        "de"
+      ],
+      "schemaVersion": 1,
+      "dataVersion": "2026-05-19",
+      "url": "lookup/v1/core.json",
+      "sizeBytes": 13162,
+      "sha256": "48fcd33ae5432f32d1d26a5544931a7e6b71df380fde7b1b488568b1a8d08cff"
+    }
+  ]
+}
