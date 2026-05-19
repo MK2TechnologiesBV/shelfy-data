@@ -1,0 +1,33 @@
+{
+  "id": "NL",
+  "country": "NL",
+  "displayName": {
+    "nl": "Nederland",
+    "en": "Netherlands",
+    "de": "Niederlande",
+    "fr": "Pays-Bas"
+  },
+  "languages": ["nl"],
+  "products": [
+    { "names": { "nl": "Hagelslag" }, "aliases": ["hagelslag", "muisjes"], "category": "snacksSweets", "shelfLifeDays": 365, "daysAfterOpening": 180 },
+    { "names": { "nl": "Vla" }, "aliases": ["vla", "vanillevla", "chocoladevla"], "category": "dairy", "shelfLifeDays": 21, "daysAfterOpening": 4 },
+    { "names": { "nl": "Stroopwafel" }, "aliases": ["stroopwafel", "stroopwafels"], "category": "snacksSweets", "shelfLifeDays": 90, "daysAfterOpening": 14 },
+    { "names": { "nl": "Edammer kaas" }, "aliases": ["edammer", "edam"], "category": "cheese", "shelfLifeDays": 60, "daysAfterOpening": 14 },
+    { "names": { "nl": "Goudse kaas" }, "aliases": ["goudse kaas", "gouda"], "category": "cheese", "shelfLifeDays": 60, "daysAfterOpening": 14 },
+    { "names": { "nl": "Beemster kaas" }, "aliases": ["beemster"], "category": "cheese", "shelfLifeDays": 60, "daysAfterOpening": 14 },
+    { "names": { "nl": "Bitterballen" }, "aliases": ["bitterballen", "bitterbal"], "category": "frozenMeals", "shelfLifeDays": 270, "daysAfterOpening": 2 },
+    { "names": { "nl": "Frikandel" }, "aliases": ["frikandel", "frikandellen"], "category": "frozenMeals", "shelfLifeDays": 270, "daysAfterOpening": 2 },
+    { "names": { "nl": "Drop" }, "aliases": ["drop", "salmiak"], "category": "snacksSweets", "shelfLifeDays": 365, "daysAfterOpening": 90 },
+    { "names": { "nl": "Boerenkool" }, "aliases": ["boerenkool"], "category": "vegetables", "shelfLifeDays": 7, "daysAfterOpening": 3 },
+    { "names": { "nl": "Rookworst" }, "aliases": ["rookworst", "unox"], "category": "meat", "shelfLifeDays": 30, "daysAfterOpening": 4 },
+    { "names": { "nl": "Heineken" }, "aliases": ["heineken"], "category": "alcohol", "shelfLifeDays": 270, "daysAfterOpening": 1 },
+    { "names": { "nl": "Amstel" }, "aliases": ["amstel"], "category": "alcohol", "shelfLifeDays": 270, "daysAfterOpening": 1 },
+    { "names": { "nl": "Grolsch" }, "aliases": ["grolsch"], "category": "alcohol", "shelfLifeDays": 270, "daysAfterOpening": 1 },
+    { "names": { "nl": "Pindakaas Calvé" }, "aliases": ["calve", "calve pindakaas"], "category": "saucesCondiments", "shelfLifeDays": 365, "daysAfterOpening": 90 },
+    { "names": { "nl": "Appelstroop" }, "aliases": ["appelstroop"], "category": "saucesCondiments", "shelfLifeDays": 365, "daysAfterOpening": 365 },
+    { "names": { "nl": "Roggebrood" }, "aliases": ["roggebrood"], "category": "bread", "shelfLifeDays": 14, "daysAfterOpening": 7 },
+    { "names": { "nl": "Krentenbol" }, "aliases": ["krentenbol", "krentenbollen"], "category": "bread", "shelfLifeDays": 4, "daysAfterOpening": 2 },
+    { "names": { "nl": "Pepernoten" }, "aliases": ["pepernoten", "kruidnoten"], "category": "snacksSweets", "shelfLifeDays": 180, "daysAfterOpening": 30 },
+    { "names": { "nl": "Speculoos" }, "aliases": ["speculaas", "speculoos"], "category": "snacksSweets", "shelfLifeDays": 180, "daysAfterOpening": 30 }
+  ]
+}

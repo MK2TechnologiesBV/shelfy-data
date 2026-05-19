@@ -3,6 +3,42 @@
   "replacement_host": null,
   "packs": [
     {
+      "id": "BE",
+      "displayName": {
+        "nl": "België",
+        "fr": "Belgique",
+        "en": "Belgium",
+        "de": "Belgien"
+      },
+      "languages": [
+        "nl",
+        "fr",
+        "de"
+      ],
+      "schemaVersion": 1,
+      "dataVersion": "2026-05-19",
+      "url": "lookup/v1/locale-BE.json",
+      "sizeBytes": 5057,
+      "sha256": "1f2a69bfb9daf3d81f7a84efdc272c740a8d9f1b92b0c79b5a1241d8eec8763b"
+    },
+    {
+      "id": "NL",
+      "displayName": {
+        "nl": "Nederland",
+        "en": "Netherlands",
+        "de": "Niederlande",
+        "fr": "Pays-Bas"
+      },
+      "languages": [
+        "nl"
+      ],
+      "schemaVersion": 1,
+      "dataVersion": "2026-05-19",
+      "url": "lookup/v1/locale-NL.json",
+      "sizeBytes": 4439,
+      "sha256": "860fc785884a3fab584e2b5a41971de80f5cd66dc079163d2872e74ba2a40673"
+    },
+    {
       "id": "core",
       "displayName": {
         "nl": "Basisproducten",
