@@ -1,0 +1,50 @@
+{
+  "content_sha256": "d466deb32a7246425d8acd85c95ed7da095cfa16e242fc9d3650595511b0cdfb",
+  "currency": "EUR",
+  "data_version": "2026-06-14",
+  "market": "BE",
+  "prices": [
+    {
+      "observation_count": 4,
+      "price_cents": 126,
+      "product_key": "be-bread-500g"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 499,
+      "product_key": "be-butter-250g"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 402,
+      "product_key": "be-coffee-250g"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 227,
+      "product_key": "be-eggs-12"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 489,
+      "product_key": "be-milk-1l"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 152,
+      "product_key": "be-pasta-500g"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 462,
+      "product_key": "be-rice-1kg"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 188,
+      "product_key": "be-sugar-1kg"
+    }
+  ],
+  "provenance": "synthetic",
+  "schema_version": 1
+}

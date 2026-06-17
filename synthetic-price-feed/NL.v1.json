@@ -1,0 +1,50 @@
+{
+  "content_sha256": "56349a293b49851062d0bf25db7f5e0de709d3e18258059a018c986d3c8dfb34",
+  "currency": "EUR",
+  "data_version": "2026-06-14",
+  "market": "NL",
+  "prices": [
+    {
+      "observation_count": 4,
+      "price_cents": 89,
+      "product_key": "nl-bread-500g"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 326,
+      "product_key": "nl-butter-250g"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 275,
+      "product_key": "nl-coffee-250g"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 207,
+      "product_key": "nl-eggs-12"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 115,
+      "product_key": "nl-milk-1l"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 489,
+      "product_key": "nl-pasta-500g"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 480,
+      "product_key": "nl-rice-1kg"
+    },
+    {
+      "observation_count": 4,
+      "price_cents": 312,
+      "product_key": "nl-sugar-1kg"
+    }
+  ],
+  "provenance": "synthetic",
+  "schema_version": 1
+}

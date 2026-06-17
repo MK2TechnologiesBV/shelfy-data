@@ -1,0 +1,20 @@
+{
+  "data_version": "2026-06-14",
+  "entries": [
+    {
+      "content_sha256": "d466deb32a7246425d8acd85c95ed7da095cfa16e242fc9d3650595511b0cdfb",
+      "market": "BE",
+      "path": "synthetic-price-feed/BE.v1.json",
+      "provenance": "synthetic",
+      "schema_version": 1
+    },
+    {
+      "content_sha256": "56349a293b49851062d0bf25db7f5e0de709d3e18258059a018c986d3c8dfb34",
+      "market": "NL",
+      "path": "synthetic-price-feed/NL.v1.json",
+      "provenance": "synthetic",
+      "schema_version": 1
+    }
+  ],
+  "schema_version": 1
+}
