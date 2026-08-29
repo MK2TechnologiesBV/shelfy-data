@@ -1,0 +1,14 @@
+{
+  "data_version": "",
+  "entries": [
+    {
+      "content_sha256": "7aa87cc5501eb94f13d6c58ee4f7a5652d47069505e63c32478818c33e0b8757",
+      "market": "BE",
+      "path": "promo-feiten/BE.v1.json",
+      "provenance": "scraped",
+      "schema_version": 1,
+      "size_bytes": 235
+    }
+  ],
+  "schema_version": 1
+}
