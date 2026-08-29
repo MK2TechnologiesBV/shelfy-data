@@ -1,5 +1,5 @@
 {
-  "content_sha256": "8c69920b528f7a4f849eca745c079baeeb1a6d0a636333487b26c2a6afbaef7d",
+  "content_sha256": "0dd0a2a533b04eef37588be7582a7de0887a13906178777be637e6247c3c8ad0",
   "data_version": "2026-08-28",
   "market": "BE",
   "provenance": "scraped",
@@ -261884,78 +261884,15 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:0007",
-      "last_seen": "2026-08-28",
-      "median": 2.625,
-      "n": 2,
-      "p25": 2.0575,
-      "p75": 3.1925,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:0010",
       "last_seen": "2026-08-28",
       "median": 3.41,
-      "n": 4,
-      "p25": 3.32,
-      "p75": 3.57,
+      "n": 2,
+      "p25": 3.375,
+      "p75": 3.445,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0012",
-      "last_seen": "2026-08-28",
-      "median": 4.375,
-      "n": 2,
-      "p25": 4.0775,
-      "p75": 4.6725,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0030",
-      "last_seen": "2026-08-28",
-      "median": 17.04,
-      "n": 2,
-      "p25": 12.79,
-      "p75": 21.29,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -262031,75 +261968,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:0115",
-      "last_seen": "2026-08-28",
-      "median": 1.56,
-      "n": 2,
-      "p25": 1.365,
-      "p75": 1.755,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0199",
-      "last_seen": "2026-08-28",
-      "median": 0.0435,
-      "n": 2,
-      "p25": 0.0372,
-      "p75": 0.0498,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:0217",
       "last_seen": "2026-08-28",
-      "median": 1.49,
-      "n": 3,
-      "p25": 1.345,
-      "p75": 4.735,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0222",
-      "last_seen": "2026-08-28",
-      "median": 4.7,
-      "n": 3,
-      "p25": 3.34,
-      "p75": 6.745,
+      "median": 4.735,
+      "n": 2,
+      "p25": 3.1125,
+      "p75": 6.3575,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -262138,34 +262012,13 @@
       "currency": "EUR",
       "key": "be:grp:0244",
       "last_seen": "2026-08-28",
-      "median": 8.98,
-      "n": 4,
-      "p25": 6.98,
-      "p75": 11.15,
+      "median": 5.98,
+      "n": 2,
+      "p25": 4.98,
+      "p75": 6.98,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0252",
-      "last_seen": "2026-08-28",
-      "median": 4.305,
-      "n": 2,
-      "p25": 3.9725,
-      "p75": 4.6375,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -262241,48 +262094,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:0354",
-      "last_seen": "2026-08-28",
-      "median": 3.105,
-      "n": 2,
-      "p25": 2.4425,
-      "p75": 3.7675,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0357",
-      "last_seen": "2026-08-28",
-      "median": 0.85,
-      "n": 3,
-      "p25": 0.85,
-      "p75": 1.225,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:0371",
       "last_seen": "2026-08-28",
       "median": 10.26,
@@ -262327,10 +262138,10 @@
       "currency": "EUR",
       "key": "be:grp:0375",
       "last_seen": "2026-08-28",
-      "median": 1.67,
-      "n": 3,
-      "p25": 1.26,
-      "p75": 1.97,
+      "median": 1.97,
+      "n": 2,
+      "p25": 1.82,
+      "p75": 2.12,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -262355,174 +262166,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0405",
-      "last_seen": "2026-08-28",
-      "median": 4.92,
-      "n": 2,
-      "p25": 4.73,
-      "p75": 5.11,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0431",
-      "last_seen": "2026-08-28",
-      "median": 4.615,
-      "n": 2,
-      "p25": 3.1275,
-      "p75": 6.1025,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0433",
-      "last_seen": "2026-08-28",
-      "median": 2.87,
-      "n": 4,
-      "p25": 2.1805,
-      "p75": 3.49,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0435",
-      "last_seen": "2026-08-28",
-      "median": 1.955,
-      "n": 2,
-      "p25": 1.8375,
-      "p75": 2.0725,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0449",
-      "last_seen": "2026-08-28",
-      "median": 7.485,
-      "n": 2,
-      "p25": 5.9375,
-      "p75": 9.0325,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0464",
-      "last_seen": "2026-08-28",
-      "median": 0.087,
-      "n": 3,
-      "p25": 0.0745,
-      "p75": 0.102,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "M",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0471",
-      "last_seen": "2026-08-28",
-      "median": 2.09,
-      "n": 2,
-      "p25": 1.74,
-      "p75": 2.44,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0480",
-      "last_seen": "2026-08-28",
-      "median": 17.21,
-      "n": 2,
-      "p25": 13.965,
-      "p75": 20.455,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -262598,33 +262241,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:0622",
-      "last_seen": "2026-08-28",
-      "median": 5.14,
-      "n": 2,
-      "p25": 4.72,
-      "p75": 5.56,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:0626",
       "last_seen": "2026-08-28",
-      "median": 2.24,
-      "n": 3,
-      "p25": 2.215,
-      "p75": 3.86,
+      "median": 2.215,
+      "n": 2,
+      "p25": 2.2025,
+      "p75": 2.2275,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -262642,52 +262264,10 @@
       "currency": "EUR",
       "key": "be:grp:0627",
       "last_seen": "2026-08-28",
-      "median": 2.29,
-      "n": 3,
-      "p25": 1.91,
-      "p75": 2.805,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0639",
-      "last_seen": "2026-08-28",
-      "median": 2.75,
+      "median": 2.805,
       "n": 2,
-      "p25": 2.255,
-      "p75": 3.245,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0640",
-      "last_seen": "2026-08-28",
-      "median": 2.91,
-      "n": 2,
-      "p25": 2.49,
-      "p75": 3.33,
+      "p25": 2.5475,
+      "p75": 3.0625,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -262705,76 +262285,13 @@
       "currency": "EUR",
       "key": "be:grp:0644",
       "last_seen": "2026-08-28",
-      "median": 1.49,
-      "n": 3,
-      "p25": 1.035,
-      "p75": 1.69,
+      "median": 1.035,
+      "n": 2,
+      "p25": 0.8075,
+      "p75": 1.2625,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0676",
-      "last_seen": "2026-08-28",
-      "median": 12.69,
-      "n": 2,
-      "p25": 7.48,
-      "p75": 17.9,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0701",
-      "last_seen": "2026-08-28",
-      "median": 3.71,
-      "n": 2,
-      "p25": 2.88,
-      "p75": 4.54,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0705",
-      "last_seen": "2026-08-28",
-      "median": 2.84,
-      "n": 2,
-      "p25": 2.795,
-      "p75": 2.885,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -262789,55 +262306,13 @@
       "currency": "EUR",
       "key": "be:grp:0706",
       "last_seen": "2026-08-28",
-      "median": 3.87,
-      "n": 3,
-      "p25": 3.585,
-      "p75": 4.305,
+      "median": 3.585,
+      "n": 2,
+      "p25": 3.4425,
+      "p75": 3.7275,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0733",
-      "last_seen": "2026-08-28",
-      "median": 1.305,
-      "n": 2,
-      "p25": 1.1125,
-      "p75": 1.4975,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0792",
-      "last_seen": "2026-08-28",
-      "median": 8.11,
-      "n": 2,
-      "p25": 7.175,
-      "p75": 9.045,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -262871,27 +262346,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:0832",
-      "last_seen": "2026-08-28",
-      "median": 12.69,
-      "n": 2,
-      "p25": 9.56,
-      "p75": 15.82,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:0849",
       "last_seen": "2026-08-28",
       "median": 11.87,
@@ -262901,90 +262355,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0866",
-      "last_seen": "2026-08-28",
-      "median": 1.25,
-      "n": 3,
-      "p25": 1.2,
-      "p75": 1.92,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0900",
-      "last_seen": "2026-08-28",
-      "median": 5.445,
-      "n": 2,
-      "p25": 3.8525,
-      "p75": 7.0375,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0974",
-      "last_seen": "2026-08-28",
-      "median": 20.77,
-      "n": 2,
-      "p25": 18.185,
-      "p75": 23.355,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:0989",
-      "last_seen": "2026-08-28",
-      "median": 4.995,
-      "n": 2,
-      "p25": 4.5725,
-      "p75": 5.4175,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -263039,75 +262409,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:10066",
-      "last_seen": "2026-08-28",
-      "median": 1.68,
-      "n": 2,
-      "p25": 1.405,
-      "p75": 1.955,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10076",
-      "last_seen": "2026-08-28",
-      "median": 7.11,
-      "n": 3,
-      "p25": 5.305,
-      "p75": 10.505,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:10078",
       "last_seen": "2026-08-28",
       "median": 4.255,
       "n": 2,
       "p25": 3.9175,
       "p75": 4.5925,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10083",
-      "last_seen": "2026-08-28",
-      "median": 2.22,
-      "n": 3,
-      "p25": 1.85,
-      "p75": 2.225,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -263188,10 +262495,10 @@
       "currency": "EUR",
       "key": "be:grp:10109",
       "last_seen": "2026-08-28",
-      "median": 16.235,
-      "n": 4,
-      "p25": 9.935,
-      "p75": 22.26,
+      "median": 22.52,
+      "n": 2,
+      "p25": 22.26,
+      "p75": 22.78,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -263249,27 +262556,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:10114",
-      "last_seen": "2026-08-28",
-      "median": 34.14,
-      "n": 2,
-      "p25": 32.035,
-      "p75": 36.245,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:10116",
       "last_seen": "2026-08-28",
       "median": 33.915,
@@ -263279,69 +262565,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10127",
-      "last_seen": "2026-08-28",
-      "median": 9.23,
-      "n": 3,
-      "p25": 7.215,
-      "p75": 16.115,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10133",
-      "last_seen": "2026-08-28",
-      "median": 11.2,
-      "n": 2,
-      "p25": 9.23,
-      "p75": 13.17,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1020",
-      "last_seen": "2026-08-28",
-      "median": 9.955,
-      "n": 2,
-      "p25": 8.3075,
-      "p75": 11.6025,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -263375,54 +262598,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:10226",
-      "last_seen": "2026-08-28",
-      "median": 5.275,
-      "n": 2,
-      "p25": 5.0175,
-      "p75": 5.5325,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10244",
-      "last_seen": "2026-08-28",
-      "median": 263.01,
-      "n": 2,
-      "p25": 193.39,
-      "p75": 332.63,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:10255",
       "last_seen": "2026-08-28",
-      "median": 2.48,
-      "n": 6,
-      "p25": 1.71,
-      "p75": 3.2425,
+      "median": 2.98,
+      "n": 3,
+      "p25": 2.285,
+      "p75": 3.38,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -263447,48 +262628,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10318",
-      "last_seen": "2026-08-28",
-      "median": 1.29,
-      "n": 3,
-      "p25": 1.285,
-      "p75": 1.445,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10375",
-      "last_seen": "2026-08-28",
-      "median": 31.495,
-      "n": 2,
-      "p25": 26.4475,
-      "p75": 36.5425,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -263543,390 +262682,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:10384",
-      "last_seen": "2026-08-28",
-      "median": 0.451,
-      "n": 2,
-      "p25": 0.45,
-      "p75": 0.452,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10385",
-      "last_seen": "2026-08-28",
-      "median": 0.155,
-      "n": 3,
-      "p25": 0.1075,
-      "p75": 0.283,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10391",
-      "last_seen": "2026-08-28",
-      "median": 14.655,
-      "n": 2,
-      "p25": 13.3225,
-      "p75": 15.9875,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10403",
-      "last_seen": "2026-08-28",
-      "median": 1.195,
-      "n": 2,
-      "p25": 1.1925,
-      "p75": 1.1975,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10416",
-      "last_seen": "2026-08-28",
-      "median": 11.44,
-      "n": 2,
-      "p25": 9.72,
-      "p75": 13.16,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10445",
-      "last_seen": "2026-08-28",
-      "median": 14.285,
-      "n": 2,
-      "p25": 10.6175,
-      "p75": 17.9525,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1046",
-      "last_seen": "2026-08-28",
-      "median": 7.25,
-      "n": 2,
-      "p25": 5.535,
-      "p75": 8.965,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:10466",
       "last_seen": "2026-08-28",
       "median": 11.875,
       "n": 2,
       "p25": 11.5725,
       "p75": 12.1775,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10509",
-      "last_seen": "2026-08-28",
-      "median": 3.755,
-      "n": 2,
-      "p25": 3.7425,
-      "p75": 3.7675,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10510",
-      "last_seen": "2026-08-28",
-      "median": 4.6,
-      "n": 3,
-      "p25": 3.94,
-      "p75": 6.82,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10519",
-      "last_seen": "2026-08-28",
-      "median": 8.295,
-      "n": 2,
-      "p25": 6.7825,
-      "p75": 9.8075,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10526",
-      "last_seen": "2026-08-28",
-      "median": 6.46,
-      "n": 2,
-      "p25": 4.87,
-      "p75": 8.05,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10531",
-      "last_seen": "2026-08-28",
-      "median": 6.16,
-      "n": 2,
-      "p25": 4.72,
-      "p75": 7.6,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10533",
-      "last_seen": "2026-08-28",
-      "median": 5.855,
-      "n": 2,
-      "p25": 4.5675,
-      "p75": 7.1425,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10550",
-      "last_seen": "2026-08-28",
-      "median": 0.021,
-      "n": 2,
-      "p25": 0.0165,
-      "p75": 0.0255,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "M",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10582",
-      "last_seen": "2026-08-28",
-      "median": 5.54,
-      "n": 3,
-      "p25": 4.985,
-      "p75": 5.65,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10587",
-      "last_seen": "2026-08-28",
-      "median": 4.87,
-      "n": 2,
-      "p25": 3.98,
-      "p75": 5.76,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10631",
-      "last_seen": "2026-08-28",
-      "median": 579.19,
-      "n": 2,
-      "p25": 369.495,
-      "p75": 788.885,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10667",
-      "last_seen": "2026-08-28",
-      "median": 6.03,
-      "n": 2,
-      "p25": 5.595,
-      "p75": 6.465,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -264005,117 +262766,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:10728",
-      "last_seen": "2026-08-28",
-      "median": 20.7,
-      "n": 3,
-      "p25": 18.2,
-      "p75": 20.9,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10729",
-      "last_seen": "2026-08-28",
-      "median": 46.42,
-      "n": 2,
-      "p25": 37.49,
-      "p75": 55.35,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10752",
-      "last_seen": "2026-08-28",
-      "median": 11.135,
-      "n": 2,
-      "p25": 9.0625,
-      "p75": 13.2075,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10754",
-      "last_seen": "2026-08-28",
-      "median": 7.73,
-      "n": 2,
-      "p25": 6.355,
-      "p75": 9.105,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10773",
-      "last_seen": "2026-08-28",
-      "median": 1.64,
-      "n": 3,
-      "p25": 1.625,
-      "p75": 1.715,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:10775",
       "last_seen": "2026-08-28",
-      "median": 1.74,
-      "n": 3,
-      "p25": 1.415,
-      "p75": 2.09,
+      "median": 2.09,
+      "n": 2,
+      "p25": 1.915,
+      "p75": 2.265,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -264215,48 +262871,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:10821",
-      "last_seen": "2026-08-28",
-      "median": 9.855,
-      "n": 2,
-      "p25": 9.6475,
-      "p75": 10.0625,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10828",
-      "last_seen": "2026-08-28",
-      "median": 19.375,
-      "n": 2,
-      "p25": 17.6625,
-      "p75": 21.0875,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:10837",
       "last_seen": "2026-08-28",
       "median": 11.09,
@@ -264299,54 +262913,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:1085",
-      "last_seen": "2026-08-28",
-      "median": 6.43,
-      "n": 2,
-      "p25": 5.545,
-      "p75": 7.315,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:10850",
-      "last_seen": "2026-08-28",
-      "median": 13.13,
-      "n": 2,
-      "p25": 11.145,
-      "p75": 15.115,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:10939",
       "last_seen": "2026-08-28",
-      "median": 0.011,
-      "n": 3,
-      "p25": 0.0075,
-      "p75": 0.0145,
+      "median": 0.0145,
+      "n": 2,
+      "p25": 0.0128,
+      "p75": 0.0162,
       "pack_unit": null,
       "pack_value": null,
       "unit": "S",
@@ -264383,27 +262955,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:10991",
-      "last_seen": "2026-08-28",
-      "median": 9.425,
-      "n": 2,
-      "p25": 9.4075,
-      "p75": 9.4425,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:11015",
       "last_seen": "2026-08-28",
       "median": 9.1,
@@ -264413,48 +262964,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:11023",
-      "last_seen": "2026-08-28",
-      "median": 6.255,
-      "n": 2,
-      "p25": 5.7875,
-      "p75": 6.7225,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:11043",
-      "last_seen": "2026-08-28",
-      "median": 55.675,
-      "n": 4,
-      "p25": 52.4475,
-      "p75": 58.9025,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -264530,111 +263039,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:11115",
-      "last_seen": "2026-08-28",
-      "median": 5.44,
-      "n": 2,
-      "p25": 5.02,
-      "p75": 5.86,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:11124",
-      "last_seen": "2026-08-28",
-      "median": 4.78,
-      "n": 3,
-      "p25": 4.535,
-      "p75": 6.805,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:11125",
-      "last_seen": "2026-08-28",
-      "median": 3.055,
-      "n": 2,
-      "p25": 2.5575,
-      "p75": 3.5525,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:11128",
-      "last_seen": "2026-08-28",
-      "median": 4.285,
-      "n": 2,
-      "p25": 4.0775,
-      "p75": 4.4925,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:11130",
-      "last_seen": "2026-08-28",
-      "median": 25.865,
-      "n": 2,
-      "p25": 21.2975,
-      "p75": 30.4325,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:11133",
       "last_seen": "2026-08-28",
       "median": 4.735,
@@ -264656,96 +263060,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:11134",
-      "last_seen": "2026-08-28",
-      "median": 2.03,
-      "n": 2,
-      "p25": 2.0,
-      "p75": 2.06,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:11185",
       "last_seen": "2026-08-28",
       "median": 3.645,
       "n": 2,
       "p25": 3.4875,
       "p75": 3.8025,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:11199",
-      "last_seen": "2026-08-28",
-      "median": 0.88,
-      "n": 4,
-      "p25": 0.67,
-      "p75": 1.24,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1121",
-      "last_seen": "2026-08-28",
-      "median": 10.96,
-      "n": 2,
-      "p25": 10.06,
-      "p75": 11.86,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1123",
-      "last_seen": "2026-08-28",
-      "median": 11.68,
-      "n": 2,
-      "p25": 9.82,
-      "p75": 13.54,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -264805,52 +263125,10 @@
       "currency": "EUR",
       "key": "be:grp:11256",
       "last_seen": "2026-08-28",
-      "median": 5.23,
-      "n": 3,
-      "p25": 4.505,
-      "p75": 5.24,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:11278",
-      "last_seen": "2026-08-28",
-      "median": 2.495,
+      "median": 5.24,
       "n": 2,
-      "p25": 2.1125,
-      "p75": 2.8775,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:11280",
-      "last_seen": "2026-08-28",
-      "median": 2.585,
-      "n": 2,
-      "p25": 2.2825,
-      "p75": 2.8875,
+      "p25": 5.235,
+      "p75": 5.245,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -264869,9 +263147,9 @@
       "key": "be:grp:11284",
       "last_seen": "2026-08-28",
       "median": 6.09,
-      "n": 4,
-      "p25": 4.3125,
-      "p75": 8.485,
+      "n": 2,
+      "p25": 5.395,
+      "p75": 6.785,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -264889,10 +263167,10 @@
       "currency": "EUR",
       "key": "be:grp:11302",
       "last_seen": "2026-08-28",
-      "median": 2.78,
-      "n": 3,
-      "p25": 2.535,
-      "p75": 3.24,
+      "median": 2.995,
+      "n": 2,
+      "p25": 2.6425,
+      "p75": 3.3475,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -264994,10 +263272,10 @@
       "currency": "EUR",
       "key": "be:grp:11419",
       "last_seen": "2026-08-28",
-      "median": 2.59,
-      "n": 8,
-      "p25": 1.725,
-      "p75": 3.525,
+      "median": 2.44,
+      "n": 7,
+      "p25": 1.67,
+      "p75": 3.2,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -265118,54 +263396,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:11462",
-      "last_seen": "2026-08-28",
-      "median": 8.66,
-      "n": 2,
-      "p25": 5.72,
-      "p75": 11.6,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:11463",
       "last_seen": "2026-08-28",
       "median": 3.335,
       "n": 2,
       "p25": 3.2325,
       "p75": 3.4375,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:11470",
-      "last_seen": "2026-08-28",
-      "median": 158.93,
-      "n": 2,
-      "p25": 125.395,
-      "p75": 192.465,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -265190,27 +263426,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:11525",
-      "last_seen": "2026-08-28",
-      "median": 6.785,
-      "n": 2,
-      "p25": 5.8875,
-      "p75": 7.6825,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -265288,31 +263503,10 @@
       "currency": "EUR",
       "key": "be:grp:1177",
       "last_seen": "2026-08-28",
-      "median": 6.99,
-      "n": 4,
-      "p25": 4.96,
-      "p75": 8.5475,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:11776",
-      "last_seen": "2026-08-28",
-      "median": 3.49,
+      "median": 4.16,
       "n": 2,
-      "p25": 3.24,
-      "p75": 3.74,
+      "p25": 3.36,
+      "p75": 4.96,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -265349,162 +263543,15 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:1184",
-      "last_seen": "2026-08-28",
-      "median": 5.865,
-      "n": 2,
-      "p25": 4.3225,
-      "p75": 7.4075,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:1198",
       "last_seen": "2026-08-28",
-      "median": 16.82,
-      "n": 4,
-      "p25": 14.875,
-      "p75": 19.08,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1222",
-      "last_seen": "2026-08-28",
-      "median": 1.67,
-      "n": 2,
-      "p25": 1.01,
-      "p75": 2.33,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1229",
-      "last_seen": "2026-08-28",
-      "median": 1.44,
+      "median": 15.64,
       "n": 3,
-      "p25": 1.39,
-      "p75": 1.72,
+      "p25": 14.11,
+      "p75": 16.82,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1233",
-      "last_seen": "2026-08-28",
-      "median": 2.69,
-      "n": 2,
-      "p25": 2.24,
-      "p75": 3.14,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1237",
-      "last_seen": "2026-08-28",
-      "median": 5.275,
-      "n": 2,
-      "p25": 4.2125,
-      "p75": 6.3375,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1240",
-      "last_seen": "2026-08-28",
-      "median": 21.75,
-      "n": 4,
-      "p25": 21.35,
-      "p75": 22.225,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1245",
-      "last_seen": "2026-08-28",
-      "median": 4.805,
-      "n": 2,
-      "p25": 4.0275,
-      "p75": 5.5825,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -265519,10 +263566,10 @@
       "currency": "EUR",
       "key": "be:grp:1260",
       "last_seen": "2026-08-28",
-      "median": 5.05,
-      "n": 3,
-      "p25": 4.755,
-      "p75": 6.155,
+      "median": 5.86,
+      "n": 2,
+      "p25": 5.16,
+      "p75": 6.56,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -265601,111 +263648,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:1317",
-      "last_seen": "2026-08-28",
-      "median": 8.76,
-      "n": 2,
-      "p25": 8.755,
-      "p75": 8.765,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1322",
-      "last_seen": "2026-08-28",
-      "median": 2.78,
-      "n": 2,
-      "p25": 2.485,
-      "p75": 3.075,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1326",
-      "last_seen": "2026-08-28",
-      "median": 7.47,
-      "n": 3,
-      "p25": 6.575,
-      "p75": 10.385,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1337",
-      "last_seen": "2026-08-28",
-      "median": 16.24,
-      "n": 2,
-      "p25": 13.61,
-      "p75": 18.87,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1341",
-      "last_seen": "2026-08-28",
-      "median": 24.49,
-      "n": 2,
-      "p25": 23.24,
-      "p75": 25.74,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:1343",
       "last_seen": "2026-08-28",
       "median": 10.985,
@@ -265750,10 +263692,10 @@
       "currency": "EUR",
       "key": "be:grp:1366",
       "last_seen": "2026-08-28",
-      "median": 9.99,
-      "n": 5,
-      "p25": 9.06,
-      "p75": 9.99,
+      "median": 9.665,
+      "n": 2,
+      "p25": 9.3625,
+      "p75": 9.9675,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -265793,9 +263735,51 @@
       "key": "be:grp:1411",
       "last_seen": "2026-08-28",
       "median": 8.92,
-      "n": 3,
+      "n": 2,
       "p25": 8.92,
-      "p75": 10.45,
+      "p75": 8.92,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "K",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:14260",
+      "last_seen": "2026-08-28",
+      "median": 4.235,
+      "n": 2,
+      "p25": 2.9625,
+      "p75": 5.5075,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "K",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:14265",
+      "last_seen": "2026-08-28",
+      "median": 3.34,
+      "n": 2,
+      "p25": 2.66,
+      "p75": 4.02,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -265832,6 +263816,48 @@
         "scraped"
       ],
       "currency": "EUR",
+      "key": "be:grp:14289",
+      "last_seen": "2026-08-28",
+      "median": 4.69,
+      "n": 3,
+      "p25": 4.09,
+      "p75": 5.335,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "K",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:14300",
+      "last_seen": "2026-08-28",
+      "median": 2.085,
+      "n": 2,
+      "p25": 1.9375,
+      "p75": 2.2325,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "K",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
       "key": "be:grp:1431",
       "last_seen": "2026-08-28",
       "median": 16.315,
@@ -265853,12 +263879,75 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:1488",
+      "key": "be:grp:14362",
       "last_seen": "2026-08-28",
-      "median": 9.95,
+      "median": 1.165,
+      "n": 2,
+      "p25": 0.9825,
+      "p75": 1.3475,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "L",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:14418",
+      "last_seen": "2026-08-28",
+      "median": 1.54,
+      "n": 2,
+      "p25": 1.45,
+      "p75": 1.63,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "L",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:14483",
+      "last_seen": "2026-08-28",
+      "median": 1.13,
+      "n": 2,
+      "p25": 0.895,
+      "p75": 1.365,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "L",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:14518",
+      "last_seen": "2026-08-28",
+      "median": 7.35,
       "n": 3,
-      "p25": 8.7,
-      "p75": 14.2,
+      "p25": 7.35,
+      "p75": 8.4,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -265874,15 +263963,15 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:1498",
+      "key": "be:grp:14530",
       "last_seen": "2026-08-28",
-      "median": 0.0745,
+      "median": 0.715,
       "n": 2,
-      "p25": 0.0518,
-      "p75": 0.0973,
+      "p25": 0.6575,
+      "p75": 0.7725,
       "pack_unit": null,
       "pack_value": null,
-      "unit": "S",
+      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -265895,15 +263984,99 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:1533",
+      "key": "be:grp:14542",
       "last_seen": "2026-08-28",
-      "median": 35.93,
+      "median": 10.825,
       "n": 2,
-      "p25": 24.895,
-      "p75": 46.965,
+      "p25": 10.4025,
+      "p75": 11.2475,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "L",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:14925",
+      "last_seen": "2026-08-28",
+      "median": 0.327,
+      "n": 2,
+      "p25": 0.2705,
+      "p75": 0.3835,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "L",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:14959",
+      "last_seen": "2026-08-28",
+      "median": 3.16,
+      "n": 2,
+      "p25": 2.925,
+      "p75": 3.395,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:14983",
+      "last_seen": "2026-08-28",
+      "median": 0.29,
+      "n": 3,
+      "p25": 0.24,
+      "p75": 0.294,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "L",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:15012",
+      "last_seen": "2026-08-28",
+      "median": 1.21,
+      "n": 4,
+      "p25": 0.845,
+      "p75": 1.63,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -265958,6 +264131,27 @@
         "scraped"
       ],
       "currency": "EUR",
+      "key": "be:grp:15578",
+      "last_seen": "2026-08-28",
+      "median": 9.975,
+      "n": 2,
+      "p25": 9.2125,
+      "p75": 10.7375,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "L",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
       "key": "be:grp:1559",
       "last_seen": "2026-08-28",
       "median": 1.2,
@@ -265981,52 +264175,10 @@
       "currency": "EUR",
       "key": "be:grp:1562",
       "last_seen": "2026-08-28",
-      "median": 0.99,
-      "n": 11,
-      "p25": 0.595,
-      "p75": 1.4,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1563",
-      "last_seen": "2026-08-28",
-      "median": 0.58,
-      "n": 2,
-      "p25": 0.555,
-      "p75": 0.605,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1565",
-      "last_seen": "2026-08-28",
-      "median": 0.9,
-      "n": 3,
-      "p25": 0.6245,
-      "p75": 0.91,
+      "median": 1.045,
+      "n": 4,
+      "p25": 0.9175,
+      "p75": 1.255,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -266063,15 +264215,15 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:1618",
+      "key": "be:grp:15732",
       "last_seen": "2026-08-28",
-      "median": 20.65,
+      "median": 2.47,
       "n": 2,
-      "p25": 16.525,
-      "p75": 24.775,
+      "p25": 2.315,
+      "p75": 2.625,
       "pack_unit": null,
       "pack_value": null,
-      "unit": "K",
+      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -266084,15 +264236,15 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:1621",
+      "key": "be:grp:16316",
       "last_seen": "2026-08-28",
-      "median": 8.315,
+      "median": 1.26,
       "n": 2,
-      "p25": 7.4825,
-      "p75": 9.1475,
+      "p25": 1.105,
+      "p75": 1.415,
       "pack_unit": null,
       "pack_value": null,
-      "unit": "K",
+      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -266149,52 +264301,10 @@
       "currency": "EUR",
       "key": "be:grp:1640",
       "last_seen": "2026-08-28",
-      "median": 7.77,
-      "n": 3,
-      "p25": 7.515,
-      "p75": 18.665,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1671",
-      "last_seen": "2026-08-28",
-      "median": 13.4,
-      "n": 3,
-      "p25": 9.7,
-      "p75": 20.1,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1681",
-      "last_seen": "2026-08-28",
-      "median": 11.23,
+      "median": 7.515,
       "n": 2,
-      "p25": 9.865,
-      "p75": 12.595,
+      "p25": 7.3875,
+      "p75": 7.6425,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -266210,15 +264320,99 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:1687",
+      "key": "be:grp:16448",
       "last_seen": "2026-08-28",
-      "median": 1.54,
+      "median": 1.185,
       "n": 2,
-      "p25": 1.52,
-      "p75": 1.56,
+      "p25": 1.0275,
+      "p75": 1.3425,
       "pack_unit": null,
       "pack_value": null,
-      "unit": "K",
+      "unit": "L",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:16592",
+      "last_seen": "2026-08-28",
+      "median": 0.925,
+      "n": 4,
+      "p25": 0.7025,
+      "p75": 1.19,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "L",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:16650",
+      "last_seen": "2026-08-28",
+      "median": 3.14,
+      "n": 2,
+      "p25": 3.03,
+      "p75": 3.25,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "L",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:16702",
+      "last_seen": "2026-08-28",
+      "median": 15.485,
+      "n": 2,
+      "p25": 15.2375,
+      "p75": 15.7325,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "L",
+      "week": "2026-W35"
+    },
+    {
+      "basis": "indicatief",
+      "brand": null,
+      "bron_ids": [
+        "bucket-belgiannoise"
+      ],
+      "bron_tiers": [
+        "scraped"
+      ],
+      "currency": "EUR",
+      "key": "be:grp:16917",
+      "last_seen": "2026-08-28",
+      "median": 0.68,
+      "n": 2,
+      "p25": 0.6,
+      "p75": 0.76,
+      "pack_unit": null,
+      "pack_value": null,
+      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -266359,10 +264553,10 @@
       "currency": "EUR",
       "key": "be:grp:1726",
       "last_seen": "2026-08-28",
-      "median": 49.89,
-      "n": 3,
-      "p25": 49.62,
-      "p75": 59.645,
+      "median": 49.62,
+      "n": 2,
+      "p25": 49.485,
+      "p75": 49.755,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -266464,10 +264658,10 @@
       "currency": "EUR",
       "key": "be:grp:1796",
       "last_seen": "2026-08-28",
-      "median": 7.12,
-      "n": 3,
-      "p25": 5.105,
-      "p75": 7.165,
+      "median": 7.165,
+      "n": 2,
+      "p25": 7.1425,
+      "p75": 7.1875,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -266504,48 +264698,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:1820",
-      "last_seen": "2026-08-28",
-      "median": 8.99,
-      "n": 2,
-      "p25": 8.155,
-      "p75": 9.825,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1824",
-      "last_seen": "2026-08-28",
-      "median": 10.52,
-      "n": 2,
-      "p25": 9.92,
-      "p75": 11.12,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:1825",
       "last_seen": "2026-08-28",
       "median": 13.38,
@@ -266555,69 +264707,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1866",
-      "last_seen": "2026-08-28",
-      "median": 17.99,
-      "n": 2,
-      "p25": 17.655,
-      "p75": 18.325,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1872",
-      "last_seen": "2026-08-28",
-      "median": 45.655,
-      "n": 4,
-      "p25": 35.99,
-      "p75": 51.8075,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:1961",
-      "last_seen": "2026-08-28",
-      "median": 2.19,
-      "n": 2,
-      "p25": 2.04,
-      "p75": 2.34,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
       "week": "2026-W35"
     },
     {
@@ -266653,10 +264742,10 @@
       "currency": "EUR",
       "key": "be:grp:1968",
       "last_seen": "2026-08-28",
-      "median": 6.0,
-      "n": 3,
-      "p25": 4.98,
-      "p75": 9.89,
+      "median": 4.98,
+      "n": 2,
+      "p25": 4.47,
+      "p75": 5.49,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -266758,10 +264847,10 @@
       "currency": "EUR",
       "key": "be:grp:2068",
       "last_seen": "2026-08-28",
-      "median": 6.13,
-      "n": 3,
-      "p25": 4.94,
-      "p75": 7.965,
+      "median": 7.965,
+      "n": 2,
+      "p25": 7.0475,
+      "p75": 8.8825,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -266798,54 +264887,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:2077",
-      "last_seen": "2026-08-28",
-      "median": 8.6,
-      "n": 2,
-      "p25": 7.34,
-      "p75": 9.86,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:2081",
-      "last_seen": "2026-08-28",
-      "median": 9.65,
-      "n": 3,
-      "p25": 6.31,
-      "p75": 16.575,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:2084",
       "last_seen": "2026-08-28",
-      "median": 4.65,
-      "n": 3,
-      "p25": 3.935,
-      "p75": 4.775,
+      "median": 4.775,
+      "n": 2,
+      "p25": 4.7125,
+      "p75": 4.8375,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -266882,33 +264929,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:2125",
-      "last_seen": "2026-08-28",
-      "median": 2.69,
-      "n": 3,
-      "p25": 2.24,
-      "p75": 3.235,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:2128",
       "last_seen": "2026-08-28",
-      "median": 7.96,
-      "n": 3,
-      "p25": 4.705,
-      "p75": 9.66,
+      "median": 9.66,
+      "n": 2,
+      "p25": 8.81,
+      "p75": 10.51,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -266933,48 +264959,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:2212",
-      "last_seen": "2026-08-28",
-      "median": 8.335,
-      "n": 2,
-      "p25": 8.1275,
-      "p75": 8.5425,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:2219",
-      "last_seen": "2026-08-28",
-      "median": 49.99,
-      "n": 2,
-      "p25": 49.99,
-      "p75": 49.99,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -267092,69 +265076,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:2302",
-      "last_seen": "2026-08-28",
-      "median": 4.195,
-      "n": 2,
-      "p25": 3.0625,
-      "p75": 5.3275,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:2307",
-      "last_seen": "2026-08-28",
-      "median": 5.165,
-      "n": 2,
-      "p25": 4.7875,
-      "p75": 5.5425,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:2309",
-      "last_seen": "2026-08-28",
-      "median": 12.515,
-      "n": 2,
-      "p25": 11.3825,
-      "p75": 13.6475,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:2317",
       "last_seen": "2026-08-28",
       "median": 9.215,
@@ -267197,48 +265118,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:2367",
-      "last_seen": "2026-08-28",
-      "median": 4.575,
-      "n": 2,
-      "p25": 3.1775,
-      "p75": 5.9725,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:2371",
-      "last_seen": "2026-08-28",
-      "median": 0.5725,
-      "n": 2,
-      "p25": 0.4838,
-      "p75": 0.6613,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:2379",
       "last_seen": "2026-08-28",
       "median": 15.98,
@@ -267262,10 +265141,10 @@
       "currency": "EUR",
       "key": "be:grp:2388",
       "last_seen": "2026-08-28",
-      "median": 7.66,
-      "n": 4,
-      "p25": 5.9925,
-      "p75": 9.09,
+      "median": 9.52,
+      "n": 2,
+      "p25": 9.09,
+      "p75": 9.95,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -267302,54 +265181,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:2489",
-      "last_seen": "2026-08-28",
-      "median": 14.555,
-      "n": 2,
-      "p25": 11.6625,
-      "p75": 17.4475,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:2523",
       "last_seen": "2026-08-28",
       "median": 8.435,
       "n": 2,
       "p25": 7.3625,
       "p75": 9.5075,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:2544",
-      "last_seen": "2026-08-28",
-      "median": 24.55,
-      "n": 2,
-      "p25": 18.925,
-      "p75": 30.175,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -267659,75 +265496,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:3012",
-      "last_seen": "2026-08-28",
-      "median": 8.205,
-      "n": 2,
-      "p25": 7.0925,
-      "p75": 9.3175,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:3026",
-      "last_seen": "2026-08-28",
-      "median": 7.77,
-      "n": 2,
-      "p25": 4.715,
-      "p75": 10.825,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:3090",
       "last_seen": "2026-08-28",
       "median": 1.045,
       "n": 2,
       "p25": 0.9575,
       "p75": 1.1325,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:3095",
-      "last_seen": "2026-08-28",
-      "median": 1.27,
-      "n": 2,
-      "p25": 1.07,
-      "p75": 1.47,
       "pack_unit": null,
       "pack_value": null,
       "unit": "S",
@@ -267773,69 +265547,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:3172",
-      "last_seen": "2026-08-28",
-      "median": 0.75,
-      "n": 2,
-      "p25": 0.745,
-      "p75": 0.755,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:3178",
-      "last_seen": "2026-08-28",
-      "median": 12.05,
-      "n": 2,
-      "p25": 10.575,
-      "p75": 13.525,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:3182",
-      "last_seen": "2026-08-28",
-      "median": 12.61,
-      "n": 2,
-      "p25": 10.275,
-      "p75": 14.945,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -267932,27 +265643,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:3286",
-      "last_seen": "2026-08-28",
-      "median": 4.42,
-      "n": 2,
-      "p25": 3.65,
-      "p75": 5.19,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:3308",
       "last_seen": "2026-08-28",
       "median": 7.49,
@@ -267995,27 +265685,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:3396",
-      "last_seen": "2026-08-28",
-      "median": 1.16,
-      "n": 2,
-      "p25": 1.16,
-      "p75": 1.16,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:3402",
       "last_seen": "2026-08-28",
       "median": 10.1,
@@ -268039,10 +265708,10 @@
       "currency": "EUR",
       "key": "be:grp:3457",
       "last_seen": "2026-08-28",
-      "median": 4.99,
-      "n": 3,
-      "p25": 3.735,
-      "p75": 5.985,
+      "median": 5.985,
+      "n": 2,
+      "p25": 5.4875,
+      "p75": 6.4825,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -268067,27 +265736,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:3518",
-      "last_seen": "2026-08-28",
-      "median": 612.52,
-      "n": 2,
-      "p25": 527.69,
-      "p75": 697.35,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -268165,34 +265813,13 @@
       "currency": "EUR",
       "key": "be:grp:3573",
       "last_seen": "2026-08-28",
-      "median": 1.19,
-      "n": 3,
-      "p25": 1.095,
-      "p75": 1.255,
+      "median": 1.255,
+      "n": 2,
+      "p25": 1.2225,
+      "p75": 1.2875,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:3589",
-      "last_seen": "2026-08-28",
-      "median": 2.275,
-      "n": 4,
-      "p25": 1.9125,
-      "p75": 2.9375,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -268211,27 +265838,6 @@
       "n": 2,
       "p25": 9.665,
       "p75": 12.315,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:3658",
-      "last_seen": "2026-08-28",
-      "median": 1.9,
-      "n": 3,
-      "p25": 1.4,
-      "p75": 2.74,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -268268,54 +265874,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:3712",
-      "last_seen": "2026-08-28",
-      "median": 8.89,
-      "n": 2,
-      "p25": 7.435,
-      "p75": 10.345,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:3723",
       "last_seen": "2026-08-28",
       "median": 10.725,
       "n": 2,
       "p25": 10.3975,
       "p75": 11.0525,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:3725",
-      "last_seen": "2026-08-28",
-      "median": 22.335,
-      "n": 2,
-      "p25": 19.7925,
-      "p75": 24.8775,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -268436,54 +266000,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:3844",
-      "last_seen": "2026-08-28",
-      "median": 7.875,
-      "n": 2,
-      "p25": 6.4325,
-      "p75": 9.3175,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:3877",
       "last_seen": "2026-08-28",
-      "median": 5.0,
-      "n": 3,
-      "p25": 3.72,
-      "p75": 6.33,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:3941",
-      "last_seen": "2026-08-28",
-      "median": 24.8,
-      "n": 3,
-      "p25": 17.37,
-      "p75": 24.85,
+      "median": 3.72,
+      "n": 2,
+      "p25": 3.08,
+      "p75": 4.36,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -268501,10 +266023,10 @@
       "currency": "EUR",
       "key": "be:grp:3969",
       "last_seen": "2026-08-28",
-      "median": 3.235,
-      "n": 4,
-      "p25": 2.8225,
-      "p75": 3.77,
+      "median": 2.635,
+      "n": 2,
+      "p25": 2.4475,
+      "p75": 2.8225,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -268522,10 +266044,10 @@
       "currency": "EUR",
       "key": "be:grp:3970",
       "last_seen": "2026-08-28",
-      "median": 5.34,
-      "n": 4,
-      "p25": 4.4125,
-      "p75": 6.2025,
+      "median": 6.425,
+      "n": 2,
+      "p25": 6.2025,
+      "p75": 6.6475,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -268543,52 +266065,10 @@
       "currency": "EUR",
       "key": "be:grp:3984",
       "last_seen": "2026-08-28",
-      "median": 14.78,
-      "n": 3,
-      "p25": 13.99,
-      "p75": 57.215,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4003",
-      "last_seen": "2026-08-28",
-      "median": 6.74,
+      "median": 13.99,
       "n": 2,
-      "p25": 5.32,
-      "p75": 8.16,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4044",
-      "last_seen": "2026-08-28",
-      "median": 13.535,
-      "n": 2,
-      "p25": 13.5325,
-      "p75": 13.5375,
+      "p25": 13.595,
+      "p75": 14.385,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -268606,52 +266086,10 @@
       "currency": "EUR",
       "key": "be:grp:4046",
       "last_seen": "2026-08-28",
-      "median": 7.9,
-      "n": 3,
-      "p25": 7.27,
-      "p75": 9.395,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4053",
-      "last_seen": "2026-08-28",
-      "median": 16.2,
-      "n": 3,
-      "p25": 12.69,
-      "p75": 16.6,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4059",
-      "last_seen": "2026-08-28",
-      "median": 21.135,
+      "median": 7.27,
       "n": 2,
-      "p25": 19.2275,
-      "p75": 23.0425,
+      "p25": 6.955,
+      "p75": 7.585,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -268673,27 +266111,6 @@
       "n": 2,
       "p25": 6.23,
       "p75": 6.23,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4114",
-      "last_seen": "2026-08-28",
-      "median": 7.055,
-      "n": 2,
-      "p25": 6.6375,
-      "p75": 7.4725,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -268751,27 +266168,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:4135",
-      "last_seen": "2026-08-28",
-      "median": 72.26,
-      "n": 2,
-      "p25": 46.015,
-      "p75": 98.505,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:4157",
       "last_seen": "2026-08-28",
       "median": 82.375,
@@ -268802,48 +266198,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4176",
-      "last_seen": "2026-08-28",
-      "median": 2.135,
-      "n": 2,
-      "p25": 2.0325,
-      "p75": 2.2375,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4181",
-      "last_seen": "2026-08-28",
-      "median": 2.06,
-      "n": 2,
-      "p25": 2.02,
-      "p75": 2.1,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -268900,73 +266254,10 @@
       "currency": "EUR",
       "key": "be:grp:4206",
       "last_seen": "2026-08-28",
-      "median": 13.43,
-      "n": 3,
-      "p25": 9.85,
-      "p75": 20.255,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4207",
-      "last_seen": "2026-08-28",
-      "median": 1.84,
+      "median": 16.675,
       "n": 2,
-      "p25": 1.615,
-      "p75": 2.065,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4293",
-      "last_seen": "2026-08-28",
-      "median": 7.525,
-      "n": 2,
-      "p25": 5.8375,
-      "p75": 9.2125,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4296",
-      "last_seen": "2026-08-28",
-      "median": 9.92,
-      "n": 2,
-      "p25": 7.455,
-      "p75": 12.385,
+      "p25": 11.4725,
+      "p75": 21.8775,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -269024,57 +266315,15 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:4312",
-      "last_seen": "2026-08-28",
-      "median": 1.315,
-      "n": 4,
-      "p25": 1.18,
-      "p75": 1.42,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:4314",
       "last_seen": "2026-08-28",
-      "median": 1.33,
-      "n": 4,
-      "p25": 1.2125,
-      "p75": 1.45,
+      "median": 1.125,
+      "n": 2,
+      "p25": 1.0375,
+      "p75": 1.2125,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4324",
-      "last_seen": "2026-08-28",
-      "median": 5.76,
-      "n": 2,
-      "p25": 4.81,
-      "p75": 6.71,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -269150,27 +266399,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:4387",
-      "last_seen": "2026-08-28",
-      "median": 23.97,
-      "n": 3,
-      "p25": 22.98,
-      "p75": 24.62,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:4392",
       "last_seen": "2026-08-28",
       "median": 3.285,
@@ -269180,48 +266408,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4400",
-      "last_seen": "2026-08-28",
-      "median": 1.98,
-      "n": 3,
-      "p25": 1.47,
-      "p75": 2.2,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4405",
-      "last_seen": "2026-08-28",
-      "median": 7.51,
-      "n": 2,
-      "p25": 6.345,
-      "p75": 8.675,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -269255,33 +266441,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:4413",
-      "last_seen": "2026-08-28",
-      "median": 2.66,
-      "n": 3,
-      "p25": 2.66,
-      "p75": 7.57,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:4422",
       "last_seen": "2026-08-28",
-      "median": 10.76,
-      "n": 3,
-      "p25": 9.24,
-      "p75": 15.255,
+      "median": 13.735,
+      "n": 2,
+      "p25": 10.7275,
+      "p75": 16.7425,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -269360,48 +266525,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:4451",
-      "last_seen": "2026-08-28",
-      "median": 11.315,
-      "n": 2,
-      "p25": 8.6475,
-      "p75": 13.9825,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4453",
-      "last_seen": "2026-08-28",
-      "median": 7.25,
-      "n": 2,
-      "p25": 6.575,
-      "p75": 7.925,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:4465",
       "last_seen": "2026-08-28",
       "median": 17.79,
@@ -269423,75 +266546,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:4475",
-      "last_seen": "2026-08-28",
-      "median": 47.65,
-      "n": 2,
-      "p25": 45.855,
-      "p75": 49.445,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4515",
-      "last_seen": "2026-08-28",
-      "median": 9.01,
-      "n": 2,
-      "p25": 7.825,
-      "p75": 10.195,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:4518",
       "last_seen": "2026-08-28",
-      "median": 6.64,
-      "n": 3,
-      "p25": 4.95,
-      "p75": 8.4,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4555",
-      "last_seen": "2026-08-28",
-      "median": 1.545,
+      "median": 6.71,
       "n": 2,
-      "p25": 1.3975,
-      "p75": 1.6925,
+      "p25": 4.985,
+      "p75": 8.435,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -269528,54 +266588,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:4642",
-      "last_seen": "2026-08-28",
-      "median": 14.625,
-      "n": 2,
-      "p25": 14.1875,
-      "p75": 15.0625,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:4649",
       "last_seen": "2026-08-28",
       "median": 2.03,
       "n": 2,
       "p25": 1.795,
       "p75": 2.265,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4650",
-      "last_seen": "2026-08-28",
-      "median": 2.17,
-      "n": 2,
-      "p25": 1.765,
-      "p75": 2.575,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -269635,10 +266653,10 @@
       "currency": "EUR",
       "key": "be:grp:4655",
       "last_seen": "2026-08-28",
-      "median": 2.5,
-      "n": 3,
-      "p25": 1.98,
-      "p75": 2.73,
+      "median": 2.73,
+      "n": 2,
+      "p25": 2.615,
+      "p75": 2.845,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -269759,27 +266777,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:4786",
-      "last_seen": "2026-08-28",
-      "median": 0.434,
-      "n": 2,
-      "p25": 0.402,
-      "p75": 0.466,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:4816",
       "last_seen": "2026-08-28",
       "median": 10.86,
@@ -269843,201 +266840,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:4942",
-      "last_seen": "2026-08-28",
-      "median": 28.365,
-      "n": 2,
-      "p25": 28.0475,
-      "p75": 28.6825,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4948",
-      "last_seen": "2026-08-28",
-      "median": 17.11,
-      "n": 2,
-      "p25": 16.505,
-      "p75": 17.715,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4949",
-      "last_seen": "2026-08-28",
-      "median": 23.16,
-      "n": 3,
-      "p25": 18.53,
-      "p75": 24.76,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4958",
-      "last_seen": "2026-08-28",
-      "median": 23.95,
-      "n": 2,
-      "p25": 21.925,
-      "p75": 25.975,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:4975",
-      "last_seen": "2026-08-28",
-      "median": 27.4,
-      "n": 5,
-      "p25": 23.8,
-      "p75": 31.61,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5052",
-      "last_seen": "2026-08-28",
-      "median": 12.675,
-      "n": 2,
-      "p25": 11.5925,
-      "p75": 13.7575,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5053",
-      "last_seen": "2026-08-28",
-      "median": 16.0,
-      "n": 2,
-      "p25": 15.5,
-      "p75": 16.5,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5096",
-      "last_seen": "2026-08-28",
-      "median": 0.8045,
-      "n": 2,
-      "p25": 0.5068,
-      "p75": 1.1022,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:5099",
       "last_seen": "2026-08-28",
       "median": 5.49,
       "n": 2,
       "p25": 4.87,
       "p75": 6.11,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5138",
-      "last_seen": "2026-08-28",
-      "median": 7.51,
-      "n": 2,
-      "p25": 6.745,
-      "p75": 8.275,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -270076,73 +266884,10 @@
       "currency": "EUR",
       "key": "be:grp:5195",
       "last_seen": "2026-08-28",
-      "median": 9.02,
-      "n": 3,
-      "p25": 7.115,
-      "p75": 11.63,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5232",
-      "last_seen": "2026-08-28",
-      "median": 14.985,
-      "n": 4,
-      "p25": 14.1075,
-      "p75": 18.9675,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5246",
-      "last_seen": "2026-08-28",
-      "median": 7.68,
+      "median": 11.63,
       "n": 2,
-      "p25": 6.53,
-      "p75": 8.83,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5254",
-      "last_seen": "2026-08-28",
-      "median": 12.98,
-      "n": 2,
-      "p25": 12.98,
-      "p75": 12.98,
+      "p25": 10.325,
+      "p75": 12.935,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -270179,180 +266924,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:5269",
-      "last_seen": "2026-08-28",
-      "median": 15.52,
-      "n": 2,
-      "p25": 13.06,
-      "p75": 17.98,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5271",
-      "last_seen": "2026-08-28",
-      "median": 6.045,
-      "n": 2,
-      "p25": 5.8225,
-      "p75": 6.2675,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5275",
-      "last_seen": "2026-08-28",
-      "median": 8.55,
-      "n": 2,
-      "p25": 8.4,
-      "p75": 8.7,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5338",
-      "last_seen": "2026-08-28",
-      "median": 8.12,
-      "n": 2,
-      "p25": 6.74,
-      "p75": 9.5,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5364",
-      "last_seen": "2026-08-28",
-      "median": 8.03,
-      "n": 2,
-      "p25": 6.5,
-      "p75": 9.56,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:5374",
       "last_seen": "2026-08-28",
       "median": 10.68,
       "n": 2,
       "p25": 9.32,
       "p75": 12.04,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5401",
-      "last_seen": "2026-08-28",
-      "median": 10.08,
-      "n": 2,
-      "p25": 8.83,
-      "p75": 11.33,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5402",
-      "last_seen": "2026-08-28",
-      "median": 9.88,
-      "n": 2,
-      "p25": 8.83,
-      "p75": 10.93,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5403",
-      "last_seen": "2026-08-28",
-      "median": 8.47,
-      "n": 2,
-      "p25": 6.725,
-      "p75": 10.215,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -270391,76 +266968,13 @@
       "currency": "EUR",
       "key": "be:grp:5413",
       "last_seen": "2026-08-28",
-      "median": 5.7,
-      "n": 3,
-      "p25": 5.135,
-      "p75": 6.825,
+      "median": 6.825,
+      "n": 2,
+      "p25": 6.2625,
+      "p75": 7.3875,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5420",
-      "last_seen": "2026-08-28",
-      "median": 11.19,
-      "n": 2,
-      "p25": 10.57,
-      "p75": 11.81,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5440",
-      "last_seen": "2026-08-28",
-      "median": 1.065,
-      "n": 2,
-      "p25": 0.9275,
-      "p75": 1.2025,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5483",
-      "last_seen": "2026-08-28",
-      "median": 2.395,
-      "n": 2,
-      "p25": 2.1925,
-      "p75": 2.5975,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -270496,31 +267010,10 @@
       "currency": "EUR",
       "key": "be:grp:5499",
       "last_seen": "2026-08-28",
-      "median": 17.54,
-      "n": 3,
-      "p25": 16.83,
-      "p75": 34.27,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5510",
-      "last_seen": "2026-08-28",
-      "median": 13.32,
-      "n": 3,
-      "p25": 10.44,
-      "p75": 30.875,
+      "median": 16.83,
+      "n": 2,
+      "p25": 16.475,
+      "p75": 17.185,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -270559,52 +267052,10 @@
       "currency": "EUR",
       "key": "be:grp:5517",
       "last_seen": "2026-08-28",
-      "median": 16.44,
-      "n": 3,
-      "p25": 15.485,
-      "p75": 26.62,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5518",
-      "last_seen": "2026-08-28",
-      "median": 111.835,
+      "median": 15.485,
       "n": 2,
-      "p25": 100.2525,
-      "p75": 123.4175,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5526",
-      "last_seen": "2026-08-28",
-      "median": 11.505,
-      "n": 2,
-      "p25": 9.5225,
-      "p75": 13.4875,
+      "p25": 15.0075,
+      "p75": 15.9625,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -270622,52 +267073,10 @@
       "currency": "EUR",
       "key": "be:grp:5531",
       "last_seen": "2026-08-28",
-      "median": 42.5,
-      "n": 3,
-      "p25": 33.595,
-      "p75": 112.68,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5540",
-      "last_seen": "2026-08-28",
-      "median": 6.59,
+      "median": 33.595,
       "n": 2,
-      "p25": 5.21,
-      "p75": 7.97,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5547",
-      "last_seen": "2026-08-28",
-      "median": 32.51,
-      "n": 2,
-      "p25": 29.205,
-      "p75": 35.815,
+      "p25": 29.1425,
+      "p75": 38.0475,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -270706,31 +267115,10 @@
       "currency": "EUR",
       "key": "be:grp:5593",
       "last_seen": "2026-08-28",
-      "median": 5.58,
-      "n": 3,
-      "p25": 3.68,
-      "p75": 7.54,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5595",
-      "last_seen": "2026-08-28",
-      "median": 1.275,
+      "median": 7.54,
       "n": 2,
-      "p25": 1.0825,
-      "p75": 1.4675,
+      "p25": 6.56,
+      "p75": 8.52,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -270767,75 +267155,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:5604",
-      "last_seen": "2026-08-28",
-      "median": 5.98,
-      "n": 9,
-      "p25": 3.63,
-      "p75": 7.35,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5612",
-      "last_seen": "2026-08-28",
-      "median": 11.89,
-      "n": 3,
-      "p25": 7.76,
-      "p75": 12.31,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5613",
-      "last_seen": "2026-08-28",
-      "median": 11.855,
-      "n": 2,
-      "p25": 9.6675,
-      "p75": 14.0425,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:5686",
       "last_seen": "2026-08-28",
-      "median": 2.88,
-      "n": 3,
-      "p25": 2.2,
-      "p75": 3.85,
+      "median": 2.2,
+      "n": 2,
+      "p25": 1.86,
+      "p75": 2.54,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -270895,34 +267220,13 @@
       "currency": "EUR",
       "key": "be:grp:5733",
       "last_seen": "2026-08-28",
-      "median": 0.835,
-      "n": 6,
-      "p25": 0.635,
-      "p75": 1.3425,
+      "median": 0.4505,
+      "n": 2,
+      "p25": 0.3858,
+      "p75": 0.5152,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5756",
-      "last_seen": "2026-08-28",
-      "median": 1.415,
-      "n": 2,
-      "p25": 0.8925,
-      "p75": 1.9375,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
       "week": "2026-W35"
     },
     {
@@ -270941,27 +267245,6 @@
       "n": 2,
       "p25": 42.045,
       "p75": 69.015,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5788",
-      "last_seen": "2026-08-28",
-      "median": 2.875,
-      "n": 2,
-      "p25": 2.6225,
-      "p75": 3.1275,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -271103,159 +267386,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:5841",
-      "last_seen": "2026-08-28",
-      "median": 10.305,
-      "n": 2,
-      "p25": 7.9975,
-      "p75": 12.6125,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5848",
-      "last_seen": "2026-08-28",
-      "median": 24.63,
-      "n": 2,
-      "p25": 22.665,
-      "p75": 26.595,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5919",
-      "last_seen": "2026-08-28",
-      "median": 6.66,
-      "n": 2,
-      "p25": 4.505,
-      "p75": 8.815,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5949",
-      "last_seen": "2026-08-28",
-      "median": 10.585,
-      "n": 2,
-      "p25": 10.2875,
-      "p75": 10.8825,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:5995",
-      "last_seen": "2026-08-28",
-      "median": 5.145,
-      "n": 2,
-      "p25": 4.4675,
-      "p75": 5.8225,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6015",
-      "last_seen": "2026-08-28",
-      "median": 28.98,
-      "n": 2,
-      "p25": 27.66,
-      "p75": 30.3,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6100",
-      "last_seen": "2026-08-28",
-      "median": 3.328,
-      "n": 2,
-      "p25": 1.747,
-      "p75": 4.909,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:6121",
       "last_seen": "2026-08-28",
-      "median": 5.58,
-      "n": 3,
-      "p25": 3.78,
-      "p75": 6.77,
+      "median": 6.77,
+      "n": 2,
+      "p25": 6.175,
+      "p75": 7.365,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -271277,27 +267413,6 @@
       "n": 2,
       "p25": 3.1125,
       "p75": 3.1575,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6131",
-      "last_seen": "2026-08-28",
-      "median": 10.14,
-      "n": 3,
-      "p25": 6.4,
-      "p75": 11.945,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -271418,33 +267533,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:6215",
-      "last_seen": "2026-08-28",
-      "median": 12.285,
-      "n": 2,
-      "p25": 10.5525,
-      "p75": 14.0175,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:6216",
       "last_seen": "2026-08-28",
-      "median": 5.89,
-      "n": 3,
-      "p25": 4.94,
-      "p75": 5.935,
+      "median": 4.94,
+      "n": 2,
+      "p25": 4.465,
+      "p75": 5.415,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -271481,48 +267575,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:6221",
-      "last_seen": "2026-08-28",
-      "median": 2.8,
-      "n": 2,
-      "p25": 2.65,
-      "p75": 2.95,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6222",
-      "last_seen": "2026-08-28",
-      "median": 5.8,
-      "n": 2,
-      "p25": 4.29,
-      "p75": 7.31,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:6223",
       "last_seen": "2026-08-28",
       "median": 3.175,
@@ -271544,54 +267596,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:6223",
-      "last_seen": "2026-08-28",
-      "median": 4.985,
-      "n": 4,
-      "p25": 3.5675,
-      "p75": 6.31,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6224",
-      "last_seen": "2026-08-28",
-      "median": 5.8,
-      "n": 2,
-      "p25": 4.29,
-      "p75": 7.31,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:6252",
       "last_seen": "2026-08-28",
-      "median": 16.165,
-      "n": 4,
-      "p25": 13.805,
-      "p75": 17.6725,
+      "median": 14.46,
+      "n": 2,
+      "p25": 12.67,
+      "p75": 16.25,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -271613,48 +267623,6 @@
       "n": 2,
       "p25": 21.275,
       "p75": 23.945,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6287",
-      "last_seen": "2026-08-28",
-      "median": 17.39,
-      "n": 2,
-      "p25": 16.595,
-      "p75": 18.185,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6288",
-      "last_seen": "2026-08-28",
-      "median": 17.39,
-      "n": 6,
-      "p25": 9.8,
-      "p75": 19.895,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -271693,31 +267661,10 @@
       "currency": "EUR",
       "key": "be:grp:6397",
       "last_seen": "2026-08-28",
-      "median": 19.48,
-      "n": 3,
-      "p25": 13.23,
-      "p75": 24.69,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6399",
-      "last_seen": "2026-08-28",
-      "median": 18.165,
+      "median": 24.69,
       "n": 2,
-      "p25": 17.5075,
-      "p75": 18.8225,
+      "p25": 22.085,
+      "p75": 27.295,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -271739,27 +267686,6 @@
       "n": 2,
       "p25": 1.465,
       "p75": 1.495,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6433",
-      "last_seen": "2026-08-28",
-      "median": 2.5,
-      "n": 2,
-      "p25": 2.25,
-      "p75": 2.75,
       "pack_unit": null,
       "pack_value": null,
       "unit": "S",
@@ -271817,159 +267743,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:6467",
-      "last_seen": "2026-08-28",
-      "median": 10.52,
-      "n": 8,
-      "p25": 9.58,
-      "p75": 14.3475,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6536",
-      "last_seen": "2026-08-28",
-      "median": 14.11,
-      "n": 2,
-      "p25": 13.05,
-      "p75": 15.17,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6587",
-      "last_seen": "2026-08-28",
-      "median": 9.16,
-      "n": 3,
-      "p25": 7.64,
-      "p75": 9.36,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6589",
-      "last_seen": "2026-08-28",
-      "median": 10.88,
-      "n": 2,
-      "p25": 10.54,
-      "p75": 11.22,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:6600",
       "last_seen": "2026-08-28",
       "median": 19.25,
       "n": 2,
       "p25": 18.575,
       "p75": 19.925,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6628",
-      "last_seen": "2026-08-28",
-      "median": 5.99,
-      "n": 2,
-      "p25": 4.99,
-      "p75": 6.99,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6644",
-      "last_seen": "2026-08-28",
-      "median": 4.275,
-      "n": 2,
-      "p25": 3.7575,
-      "p75": 4.7925,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6645",
-      "last_seen": "2026-08-28",
-      "median": 9.83,
-      "n": 3,
-      "p25": 6.39,
-      "p75": 12.355,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -272008,10 +267787,10 @@
       "currency": "EUR",
       "key": "be:grp:6666",
       "last_seen": "2026-08-28",
-      "median": 7.92,
-      "n": 5,
-      "p25": 7.02,
-      "p75": 10.0,
+      "median": 8.96,
+      "n": 2,
+      "p25": 8.44,
+      "p75": 9.48,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -272048,111 +267827,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:6681",
-      "last_seen": "2026-08-28",
-      "median": 9.67,
-      "n": 2,
-      "p25": 7.78,
-      "p75": 11.56,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6690",
-      "last_seen": "2026-08-28",
-      "median": 11.945,
-      "n": 2,
-      "p25": 9.5575,
-      "p75": 14.3325,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6709",
-      "last_seen": "2026-08-28",
-      "median": 5.07,
-      "n": 2,
-      "p25": 5.02,
-      "p75": 5.12,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6728",
-      "last_seen": "2026-08-28",
-      "median": 89.22,
-      "n": 2,
-      "p25": 87.91,
-      "p75": 90.53,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6736",
-      "last_seen": "2026-08-28",
-      "median": 2.995,
-      "n": 2,
-      "p25": 2.2525,
-      "p75": 3.7375,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:6738",
       "last_seen": "2026-08-28",
       "median": 10.82,
@@ -272176,10 +267850,10 @@
       "currency": "EUR",
       "key": "be:grp:6787",
       "last_seen": "2026-08-28",
-      "median": 4.44,
-      "n": 3,
-      "p25": 4.08,
-      "p75": 4.715,
+      "median": 4.715,
+      "n": 2,
+      "p25": 4.5775,
+      "p75": 4.8525,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -272197,31 +267871,10 @@
       "currency": "EUR",
       "key": "be:grp:6814",
       "last_seen": "2026-08-28",
-      "median": 8.455,
-      "n": 4,
-      "p25": 7.525,
-      "p75": 9.1625,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6815",
-      "last_seen": "2026-08-28",
-      "median": 21.67,
-      "n": 3,
-      "p25": 12.825,
-      "p75": 24.135,
+      "median": 8.01,
+      "n": 2,
+      "p25": 7.325,
+      "p75": 8.695,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -272260,34 +267913,13 @@
       "currency": "EUR",
       "key": "be:grp:6838",
       "last_seen": "2026-08-28",
-      "median": 5.485,
-      "n": 4,
-      "p25": 3.615,
-      "p75": 7.0175,
+      "median": 5.56,
+      "n": 2,
+      "p25": 4.775,
+      "p75": 6.345,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6851",
-      "last_seen": "2026-08-28",
-      "median": 411.305,
-      "n": 2,
-      "p25": 232.2875,
-      "p75": 590.3225,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -272321,75 +267953,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:6908",
-      "last_seen": "2026-08-28",
-      "median": 17.35,
-      "n": 2,
-      "p25": 14.15,
-      "p75": 20.55,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:6910",
       "last_seen": "2026-08-28",
       "median": 45.735,
       "n": 2,
       "p25": 44.4925,
       "p75": 46.9775,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6913",
-      "last_seen": "2026-08-28",
-      "median": 33.08,
-      "n": 2,
-      "p25": 22.54,
-      "p75": 43.62,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6923",
-      "last_seen": "2026-08-28",
-      "median": 19.24,
-      "n": 3,
-      "p25": 14.605,
-      "p75": 19.62,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -272447,75 +268016,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:6994",
-      "last_seen": "2026-08-28",
-      "median": 4.72,
-      "n": 2,
-      "p25": 3.855,
-      "p75": 5.585,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:6996",
-      "last_seen": "2026-08-28",
-      "median": 3.49,
-      "n": 3,
-      "p25": 3.14,
-      "p75": 4.39,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7001",
-      "last_seen": "2026-08-28",
-      "median": 2.55,
-      "n": 3,
-      "p25": 2.22,
-      "p75": 3.17,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:7007",
       "last_seen": "2026-08-28",
-      "median": 10.78,
-      "n": 9,
-      "p25": 9.98,
-      "p75": 14.99,
+      "median": 10.38,
+      "n": 2,
+      "p25": 10.18,
+      "p75": 10.58,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -272537,27 +268043,6 @@
       "n": 2,
       "p25": 13.54,
       "p75": 13.54,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7097",
-      "last_seen": "2026-08-28",
-      "median": 28.09,
-      "n": 2,
-      "p25": 26.155,
-      "p75": 30.025,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -272617,34 +268102,13 @@
       "currency": "EUR",
       "key": "be:grp:7120",
       "last_seen": "2026-08-28",
-      "median": 2.48,
-      "n": 3,
-      "p25": 2.365,
-      "p75": 2.525,
+      "median": 2.525,
+      "n": 4,
+      "p25": 2.2,
+      "p75": 2.905,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7140",
-      "last_seen": "2026-08-28",
-      "median": 157.845,
-      "n": 2,
-      "p25": 128.0175,
-      "p75": 187.6725,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -272687,174 +268151,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7184",
-      "last_seen": "2026-08-28",
-      "median": 26.065,
-      "n": 2,
-      "p25": 25.5075,
-      "p75": 26.6225,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7237",
-      "last_seen": "2026-08-28",
-      "median": 14.255,
-      "n": 2,
-      "p25": 13.2625,
-      "p75": 15.2475,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7245",
-      "last_seen": "2026-08-28",
-      "median": 12.86,
-      "n": 2,
-      "p25": 11.77,
-      "p75": 13.95,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7247",
-      "last_seen": "2026-08-28",
-      "median": 17.31,
-      "n": 2,
-      "p25": 14.985,
-      "p75": 19.635,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7248",
-      "last_seen": "2026-08-28",
-      "median": 4.49,
-      "n": 2,
-      "p25": 4.24,
-      "p75": 4.74,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7256",
-      "last_seen": "2026-08-28",
-      "median": 7.75,
-      "n": 2,
-      "p25": 6.85,
-      "p75": 8.65,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7261",
-      "last_seen": "2026-08-28",
-      "median": 5.375,
-      "n": 2,
-      "p25": 3.4275,
-      "p75": 7.3225,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7273",
-      "last_seen": "2026-08-28",
-      "median": 4.44,
-      "n": 2,
-      "p25": 3.715,
-      "p75": 5.165,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -272974,10 +268270,10 @@
       "currency": "EUR",
       "key": "be:grp:7310",
       "last_seen": "2026-08-28",
-      "median": 9.415,
-      "n": 8,
-      "p25": 8.6875,
-      "p75": 20.43,
+      "median": 9.38,
+      "n": 3,
+      "p25": 8.34,
+      "p75": 14.065,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -272995,52 +268291,10 @@
       "currency": "EUR",
       "key": "be:grp:7312",
       "last_seen": "2026-08-28",
-      "median": 5.82,
-      "n": 3,
-      "p25": 5.2,
-      "p75": 7.395,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7358",
-      "last_seen": "2026-08-28",
-      "median": 2.28,
+      "median": 7.395,
       "n": 2,
-      "p25": 1.93,
-      "p75": 2.63,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7359",
-      "last_seen": "2026-08-28",
-      "median": 3.31,
-      "n": 2,
-      "p25": 2.795,
-      "p75": 3.825,
+      "p25": 6.6075,
+      "p75": 8.1825,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -273062,48 +268316,6 @@
       "n": 2,
       "p25": 6.1325,
       "p75": 6.1975,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7395",
-      "last_seen": "2026-08-28",
-      "median": 2.995,
-      "n": 2,
-      "p25": 2.3725,
-      "p75": 3.6175,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7400",
-      "last_seen": "2026-08-28",
-      "median": 4.48,
-      "n": 2,
-      "p25": 4.295,
-      "p75": 4.665,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -273247,10 +268459,10 @@
       "currency": "EUR",
       "key": "be:grp:7532",
       "last_seen": "2026-08-28",
-      "median": 3.79,
-      "n": 3,
-      "p25": 3.14,
-      "p75": 6.145,
+      "median": 6.145,
+      "n": 2,
+      "p25": 4.9675,
+      "p75": 7.3225,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -273268,10 +268480,10 @@
       "currency": "EUR",
       "key": "be:grp:7587",
       "last_seen": "2026-08-28",
-      "median": 9.105,
-      "n": 4,
-      "p25": 7.9,
-      "p75": 10.37,
+      "median": 13.235,
+      "n": 2,
+      "p25": 10.4775,
+      "p75": 15.9925,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -273308,54 +268520,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:7609",
-      "last_seen": "2026-08-28",
-      "median": 3.9,
-      "n": 2,
-      "p25": 3.605,
-      "p75": 4.195,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7611",
-      "last_seen": "2026-08-28",
-      "median": 2.76,
-      "n": 3,
-      "p25": 2.67,
-      "p75": 2.98,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:7612",
       "last_seen": "2026-08-28",
-      "median": 2.605,
-      "n": 4,
-      "p25": 2.505,
-      "p75": 2.6825,
+      "median": 2.535,
+      "n": 2,
+      "p25": 2.4675,
+      "p75": 2.6025,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -273373,52 +268543,10 @@
       "currency": "EUR",
       "key": "be:grp:7613",
       "last_seen": "2026-08-28",
-      "median": 2.92,
-      "n": 9,
-      "p25": 2.68,
-      "p75": 3.31,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7639",
-      "last_seen": "2026-08-28",
-      "median": 10.74,
-      "n": 3,
-      "p25": 9.215,
-      "p75": 11.07,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7656",
-      "last_seen": "2026-08-28",
-      "median": 8.605,
-      "n": 2,
-      "p25": 8.2725,
-      "p75": 8.9375,
+      "median": 2.995,
+      "n": 4,
+      "p25": 2.6325,
+      "p75": 3.3975,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -273455,54 +268583,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:7699",
-      "last_seen": "2026-08-28",
-      "median": 10.36,
-      "n": 2,
-      "p25": 8.495,
-      "p75": 12.225,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7708",
-      "last_seen": "2026-08-28",
-      "median": 10.82,
-      "n": 3,
-      "p25": 7.51,
-      "p75": 12.28,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:7754",
       "last_seen": "2026-08-28",
-      "median": 0.62,
-      "n": 25,
-      "p25": 0.46,
-      "p75": 0.92,
+      "median": 0.3625,
+      "n": 4,
+      "p25": 0.2548,
+      "p75": 0.5375,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -273541,10 +268627,10 @@
       "currency": "EUR",
       "key": "be:grp:7756",
       "last_seen": "2026-08-28",
-      "median": 0.92,
-      "n": 3,
-      "p25": 0.91,
-      "p75": 1.395,
+      "median": 1.395,
+      "n": 2,
+      "p25": 1.1575,
+      "p75": 1.6325,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -273728,48 +268814,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:7837",
-      "last_seen": "2026-08-28",
-      "median": 33.635,
-      "n": 2,
-      "p25": 32.1175,
-      "p75": 35.1525,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7956",
-      "last_seen": "2026-08-28",
-      "median": 2.985,
-      "n": 2,
-      "p25": 2.7325,
-      "p75": 3.2375,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:7959",
       "last_seen": "2026-08-28",
       "median": 11.355,
@@ -273797,69 +268841,6 @@
       "n": 2,
       "p25": 6.36,
       "p75": 6.38,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:7994",
-      "last_seen": "2026-08-28",
-      "median": 7.03,
-      "n": 2,
-      "p25": 6.0,
-      "p75": 8.06,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8060",
-      "last_seen": "2026-08-28",
-      "median": 8.68,
-      "n": 3,
-      "p25": 6.23,
-      "p75": 11.715,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8067",
-      "last_seen": "2026-08-28",
-      "median": 10.64,
-      "n": 4,
-      "p25": 10.12,
-      "p75": 10.9975,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -273961,34 +268942,13 @@
       "currency": "EUR",
       "key": "be:grp:8105",
       "last_seen": "2026-08-28",
-      "median": 12.73,
-      "n": 3,
-      "p25": 10.555,
-      "p75": 16.3,
+      "median": 16.3,
+      "n": 2,
+      "p25": 14.515,
+      "p75": 18.085,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8162",
-      "last_seen": "2026-08-28",
-      "median": 7.48,
-      "n": 2,
-      "p25": 6.605,
-      "p75": 8.355,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -274085,27 +269045,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:8312",
-      "last_seen": "2026-08-28",
-      "median": 5.96,
-      "n": 2,
-      "p25": 4.96,
-      "p75": 6.96,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:8316",
       "last_seen": "2026-08-28",
       "median": 0.0785,
@@ -274129,52 +269068,10 @@
       "currency": "EUR",
       "key": "be:grp:8320",
       "last_seen": "2026-08-28",
-      "median": 2.38,
-      "n": 5,
-      "p25": 2.24,
-      "p75": 6.69,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8328",
-      "last_seen": "2026-08-28",
-      "median": 6.7,
+      "median": 7.035,
       "n": 2,
-      "p25": 5.1,
-      "p75": 8.3,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8331",
-      "last_seen": "2026-08-28",
-      "median": 5.94,
-      "n": 2,
-      "p25": 4.42,
-      "p75": 7.46,
+      "p25": 6.8625,
+      "p75": 7.2075,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -274192,31 +269089,10 @@
       "currency": "EUR",
       "key": "be:grp:8335",
       "last_seen": "2026-08-28",
-      "median": 6.19,
-      "n": 3,
-      "p25": 4.34,
-      "p75": 6.385,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8341",
-      "last_seen": "2026-08-28",
-      "median": 4.02,
+      "median": 6.385,
       "n": 2,
-      "p25": 4.0,
-      "p75": 4.04,
+      "p25": 6.2875,
+      "p75": 6.4825,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -274234,9 +269110,9 @@
       "currency": "EUR",
       "key": "be:grp:8343",
       "last_seen": "2026-08-28",
-      "median": 4.77,
-      "n": 5,
-      "p25": 2.99,
+      "median": 5.5,
+      "n": 3,
+      "p25": 5.135,
       "p75": 5.5,
       "pack_unit": null,
       "pack_value": null,
@@ -274295,27 +269171,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:8395",
-      "last_seen": "2026-08-28",
-      "median": 2.745,
-      "n": 2,
-      "p25": 2.0575,
-      "p75": 3.4325,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:8396",
       "last_seen": "2026-08-28",
       "median": 3.74,
@@ -274325,69 +269180,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8404",
-      "last_seen": "2026-08-28",
-      "median": 1.64,
-      "n": 2,
-      "p25": 1.565,
-      "p75": 1.715,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8407",
-      "last_seen": "2026-08-28",
-      "median": 11.07,
-      "n": 3,
-      "p25": 10.66,
-      "p75": 13.195,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8437",
-      "last_seen": "2026-08-28",
-      "median": 7.52,
-      "n": 2,
-      "p25": 5.62,
-      "p75": 9.42,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -274444,76 +269236,13 @@
       "currency": "EUR",
       "key": "be:grp:8455",
       "last_seen": "2026-08-28",
-      "median": 4.75,
-      "n": 3,
-      "p25": 4.665,
-      "p75": 6.535,
+      "median": 4.665,
+      "n": 2,
+      "p25": 4.6225,
+      "p75": 4.7075,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8462",
-      "last_seen": "2026-08-28",
-      "median": 8.27,
-      "n": 2,
-      "p25": 5.13,
-      "p75": 11.41,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8464",
-      "last_seen": "2026-08-28",
-      "median": 4.49,
-      "n": 3,
-      "p25": 4.24,
-      "p75": 9.52,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8474",
-      "last_seen": "2026-08-28",
-      "median": 7.055,
-      "n": 2,
-      "p25": 6.1875,
-      "p75": 7.9225,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -274549,157 +269278,10 @@
       "currency": "EUR",
       "key": "be:grp:8506",
       "last_seen": "2026-08-28",
-      "median": 5.13,
-      "n": 3,
-      "p25": 5.06,
-      "p75": 6.56,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8524",
-      "last_seen": "2026-08-28",
-      "median": 6.97,
+      "median": 6.56,
       "n": 2,
-      "p25": 5.465,
-      "p75": 8.475,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8605",
-      "last_seen": "2026-08-28",
-      "median": 15.5,
-      "n": 2,
-      "p25": 11.75,
-      "p75": 19.25,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8622",
-      "last_seen": "2026-08-28",
-      "median": 13.58,
-      "n": 2,
-      "p25": 12.035,
-      "p75": 15.125,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8637",
-      "last_seen": "2026-08-28",
-      "median": 13.56,
-      "n": 3,
-      "p25": 11.33,
-      "p75": 17.405,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8648",
-      "last_seen": "2026-08-28",
-      "median": 14.565,
-      "n": 2,
-      "p25": 11.9725,
-      "p75": 17.1575,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8655",
-      "last_seen": "2026-08-28",
-      "median": 19.475,
-      "n": 2,
-      "p25": 13.4625,
-      "p75": 25.4875,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8704",
-      "last_seen": "2026-08-28",
-      "median": 29.575,
-      "n": 2,
-      "p25": 17.7275,
-      "p75": 41.4225,
+      "p25": 5.845,
+      "p75": 7.275,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -274717,10 +269299,10 @@
       "currency": "EUR",
       "key": "be:grp:8707",
       "last_seen": "2026-08-28",
-      "median": 6.64,
-      "n": 5,
-      "p25": 5.98,
-      "p75": 8.45,
+      "median": 4.805,
+      "n": 2,
+      "p25": 4.2175,
+      "p75": 5.3925,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -274759,31 +269341,10 @@
       "currency": "EUR",
       "key": "be:grp:8725",
       "last_seen": "2026-08-28",
-      "median": 9.32,
-      "n": 3,
-      "p25": 5.79,
-      "p75": 9.645,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8727",
-      "last_seen": "2026-08-28",
-      "median": 8.305,
+      "median": 9.645,
       "n": 2,
-      "p25": 7.4725,
-      "p75": 9.1375,
+      "p25": 9.4825,
+      "p75": 9.8075,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -274820,75 +269381,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:8753",
-      "last_seen": "2026-08-28",
-      "median": 6.84,
-      "n": 3,
-      "p25": 5.265,
-      "p75": 9.17,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8758",
-      "last_seen": "2026-08-28",
-      "median": 5.71,
-      "n": 2,
-      "p25": 4.575,
-      "p75": 6.845,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:8766",
       "last_seen": "2026-08-28",
       "median": 8.65,
       "n": 2,
       "p25": 7.655,
       "p75": 9.645,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8801",
-      "last_seen": "2026-08-28",
-      "median": 7.95,
-      "n": 3,
-      "p25": 7.95,
-      "p75": 21.63,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -274913,48 +269411,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8828",
-      "last_seen": "2026-08-28",
-      "median": 14.69,
-      "n": 2,
-      "p25": 12.34,
-      "p75": 17.04,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8845",
-      "last_seen": "2026-08-28",
-      "median": 10.74,
-      "n": 2,
-      "p25": 7.84,
-      "p75": 13.64,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -275009,54 +269465,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:8878",
-      "last_seen": "2026-08-28",
-      "median": 19.99,
-      "n": 2,
-      "p25": 19.275,
-      "p75": 20.705,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:8964",
       "last_seen": "2026-08-28",
       "median": 14.935,
       "n": 2,
       "p25": 14.9025,
       "p75": 14.9675,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:8992",
-      "last_seen": "2026-08-28",
-      "median": 22.955,
-      "n": 2,
-      "p25": 18.4525,
-      "p75": 27.4575,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -275093,75 +269507,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:9036",
-      "last_seen": "2026-08-28",
-      "median": 7.32,
-      "n": 2,
-      "p25": 6.32,
-      "p75": 8.32,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9054",
-      "last_seen": "2026-08-28",
-      "median": 9.445,
-      "n": 2,
-      "p25": 6.8675,
-      "p75": 12.0225,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9057",
-      "last_seen": "2026-08-28",
-      "median": 2.78,
-      "n": 2,
-      "p25": 2.375,
-      "p75": 3.185,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:9058",
       "last_seen": "2026-08-28",
-      "median": 1.24,
-      "n": 3,
-      "p25": 1.235,
-      "p75": 1.545,
+      "median": 1.235,
+      "n": 2,
+      "p25": 1.2325,
+      "p75": 1.2375,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -275198,96 +269549,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:9076",
-      "last_seen": "2026-08-28",
-      "median": 6.61,
-      "n": 2,
-      "p25": 6.255,
-      "p75": 6.965,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9101",
-      "last_seen": "2026-08-28",
-      "median": 2.5,
-      "n": 3,
-      "p25": 2.24,
-      "p75": 3.7,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9115",
-      "last_seen": "2026-08-28",
-      "median": 3.735,
-      "n": 2,
-      "p25": 3.2575,
-      "p75": 4.2125,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:9160",
       "last_seen": "2026-08-28",
       "median": 23.5,
       "n": 2,
       "p25": 20.21,
       "p75": 26.79,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9162",
-      "last_seen": "2026-08-28",
-      "median": 30.34,
-      "n": 3,
-      "p25": 18.895,
-      "p75": 31.005,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
@@ -275345,48 +269612,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:9233",
-      "last_seen": "2026-08-28",
-      "median": 22.5,
-      "n": 3,
-      "p25": 21.05,
-      "p75": 28.35,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9241",
-      "last_seen": "2026-08-28",
-      "median": 4.29,
-      "n": 2,
-      "p25": 4.125,
-      "p75": 4.455,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:9308",
       "last_seen": "2026-08-28",
       "median": 34.935,
@@ -275417,27 +269642,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9312",
-      "last_seen": "2026-08-28",
-      "median": 3.54,
-      "n": 2,
-      "p25": 2.915,
-      "p75": 4.165,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -275513,138 +269717,12 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:9356",
-      "last_seen": "2026-08-28",
-      "median": 2.05,
-      "n": 2,
-      "p25": 1.75,
-      "p75": 2.35,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9358",
-      "last_seen": "2026-08-28",
-      "median": 21.16,
-      "n": 3,
-      "p25": 13.56,
-      "p75": 22.2,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9360",
-      "last_seen": "2026-08-28",
-      "median": 10.815,
-      "n": 2,
-      "p25": 7.3575,
-      "p75": 14.2725,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9396",
-      "last_seen": "2026-08-28",
-      "median": 1.98,
-      "n": 5,
-      "p25": 1.78,
-      "p75": 2.5,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9400",
-      "last_seen": "2026-08-28",
-      "median": 8.405,
-      "n": 2,
-      "p25": 7.0625,
-      "p75": 9.7475,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9414",
-      "last_seen": "2026-08-28",
-      "median": 2.28,
-      "n": 2,
-      "p25": 2.13,
-      "p75": 2.43,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:9422",
       "last_seen": "2026-08-28",
-      "median": 9.27,
-      "n": 3,
-      "p25": 9.27,
-      "p75": 10.36,
+      "median": 10.36,
+      "n": 2,
+      "p25": 9.815,
+      "p75": 10.905,
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
@@ -275681,120 +269759,15 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:9426",
-      "last_seen": "2026-08-28",
-      "median": 7.855,
-      "n": 2,
-      "p25": 7.1225,
-      "p75": 8.5875,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:9445",
       "last_seen": "2026-08-28",
-      "median": 7.86,
-      "n": 8,
-      "p25": 5.5825,
-      "p75": 10.355,
+      "median": 5.575,
+      "n": 2,
+      "p25": 5.5675,
+      "p75": 5.5825,
       "pack_unit": null,
       "pack_value": null,
       "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9466",
-      "last_seen": "2026-08-28",
-      "median": 5.43,
-      "n": 2,
-      "p25": 5.06,
-      "p75": 5.8,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9530",
-      "last_seen": "2026-08-28",
-      "median": 8.24,
-      "n": 2,
-      "p25": 8.01,
-      "p75": 8.47,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9536",
-      "last_seen": "2026-08-28",
-      "median": 9.98,
-      "n": 2,
-      "p25": 9.98,
-      "p75": 9.98,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9562",
-      "last_seen": "2026-08-28",
-      "median": 7.91,
-      "n": 2,
-      "p25": 7.285,
-      "p75": 8.535,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     },
     {
@@ -275849,27 +269822,6 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:9669",
-      "last_seen": "2026-08-28",
-      "median": 12.49,
-      "n": 3,
-      "p25": 9.995,
-      "p75": 15.22,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:9675",
       "last_seen": "2026-08-28",
       "median": 6.945,
@@ -275879,27 +269831,6 @@
       "pack_unit": null,
       "pack_value": null,
       "unit": "L",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9688",
-      "last_seen": "2026-08-28",
-      "median": 1.44,
-      "n": 2,
-      "p25": 1.215,
-      "p75": 1.665,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
       "week": "2026-W35"
     },
     {
@@ -275975,99 +269906,15 @@
         "scraped"
       ],
       "currency": "EUR",
-      "key": "be:grp:9779",
-      "last_seen": "2026-08-28",
-      "median": 24.195,
-      "n": 2,
-      "p25": 23.1575,
-      "p75": 25.2325,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "K",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
       "key": "be:grp:9797",
       "last_seen": "2026-08-28",
       "median": 0.575,
-      "n": 4,
-      "p25": 0.514,
-      "p75": 0.6225,
+      "n": 2,
+      "p25": 0.5625,
+      "p75": 0.5875,
       "pack_unit": null,
       "pack_value": null,
       "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9825",
-      "last_seen": "2026-08-28",
-      "median": 0.1655,
-      "n": 2,
-      "p25": 0.1598,
-      "p75": 0.1712,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9826",
-      "last_seen": "2026-08-28",
-      "median": 0.215,
-      "n": 2,
-      "p25": 0.19,
-      "p75": 0.24,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "S",
-      "week": "2026-W35"
-    },
-    {
-      "basis": "indicatief",
-      "brand": null,
-      "bron_ids": [
-        "bucket-belgiannoise"
-      ],
-      "bron_tiers": [
-        "scraped"
-      ],
-      "currency": "EUR",
-      "key": "be:grp:9946",
-      "last_seen": "2026-08-28",
-      "median": 33.17,
-      "n": 2,
-      "p25": 32.265,
-      "p75": 34.075,
-      "pack_unit": null,
-      "pack_value": null,
-      "unit": "L",
       "week": "2026-W35"
     }
   ],
