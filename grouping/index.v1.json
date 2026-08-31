@@ -1,0 +1,13 @@
+{
+  "data_version": "2026-08-30",
+  "entries": [
+    {
+      "content_sha256": "59d9cf106dcf0db7d861af3602cd593cd9bfe632735404f0f2f69afbdee7a534",
+      "market": "BE",
+      "path": "grouping/BE.v1.json",
+      "provenance": "curated",
+      "schema_version": 1
+    }
+  ],
+  "schema_version": 1
+}
