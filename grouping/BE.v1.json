@@ -1,6 +1,6 @@
 {
-  "content_sha256": "59d9cf106dcf0db7d861af3602cd593cd9bfe632735404f0f2f69afbdee7a534",
-  "data_version": "2026-08-30",
+  "content_sha256": "699e8a683761aa019adeee4f21b56c1381515f9c5b1af1d4e9c393131e4bec9b",
+  "data_version": "2026-09-03",
   "groups": [
     {
       "categorie": "dairy",
@@ -158758,24 +158758,6 @@
     },
     {
       "categorie": "dairy",
-      "display_name": "Yoghurt | Plantaardig | Ananas PassievruchtYoghurt | Plantaardig | Ananas Passievrucht",
-      "match_keys": [
-        "alpro:yoghurt | plantaardig | ananas passievruchtyoghurt | plantaardig | ananas passievrucht"
-      ],
-      "members": [
-        {
-          "brand": "Alpro",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Yoghurt | Plantaardig | Ananas PassievruchtYoghurt | Plantaardig | Ananas Passievrucht",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:17202"
-    },
-    {
-      "categorie": "dairy",
       "display_name": "| Soja | Cuisine",
       "match_keys": [
         "alpro:| soja | cuisine"
@@ -159241,24 +159223,6 @@
         }
       ],
       "root_id": "be:grp:17226"
-    },
-    {
-      "categorie": "meat",
-      "display_name": "Fuet | Salami",
-      "match_keys": [
-        "aoste:fuet | salami"
-      ],
-      "members": [
-        {
-          "brand": "Aoste",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Fuet | Salami",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:17227"
     },
     {
       "categorie": "meat",
@@ -160021,24 +159985,6 @@
         }
       ],
       "root_id": "be:grp:17264"
-    },
-    {
-      "categorie": "beverages",
-      "display_name": "Red peach | PET",
-      "match_keys": [
-        "aquarius:red peach | pet"
-      ],
-      "members": [
-        {
-          "brand": "Aquarius",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Red peach | PET",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:17265"
     },
     {
       "categorie": "beverages",
@@ -161407,24 +161353,6 @@
       "root_id": "be:grp:17333"
     },
     {
-      "categorie": "dairy",
-      "display_name": "Opgeklopte boter |Half-zout",
-      "match_keys": [
-        "balade:opgeklopte boter |half-zout"
-      ],
-      "members": [
-        {
-          "brand": "Balade",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Opgeklopte boter |Half-zout",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:17334"
-    },
-    {
       "categorie": null,
       "display_name": "Room | 12% | 1L | Eco",
       "match_keys": [
@@ -162359,24 +162287,6 @@
         }
       ],
       "root_id": "be:grp:17381"
-    },
-    {
-      "categorie": "pantry",
-      "display_name": "Pasta | Risoni",
-      "match_keys": [
-        "barilla:pasta | risoni"
-      ],
-      "members": [
-        {
-          "brand": "Barilla",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Pasta | Risoni",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:17382"
     },
     {
       "categorie": "pantry",
@@ -164277,24 +164187,6 @@
       "root_id": "be:grp:17478"
     },
     {
-      "categorie": "pantry",
-      "display_name": "Rijst | Voorgestoomde | Basmati",
-      "match_keys": [
-        "ben's original:rijst | voorgestoomde | basmati"
-      ],
-      "members": [
-        {
-          "brand": "Ben's Original",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Rijst | Voorgestoomde | Basmati",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:17479"
-    },
-    {
       "categorie": "beverages",
       "display_name": "Caps Single-Or.Colombia 7",
       "match_keys": [
@@ -164329,24 +164221,6 @@
         }
       ],
       "root_id": "be:grp:17480"
-    },
-    {
-      "categorie": "pantry",
-      "display_name": "Rijst | Voorgestoomde | Langkorrel",
-      "match_keys": [
-        "ben's original:rijst | voorgestoomde | langkorrel"
-      ],
-      "members": [
-        {
-          "brand": "Ben's Original",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Rijst | Voorgestoomde | Langkorrel",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:17481"
     },
     {
       "categorie": "saucesCondiments",
@@ -168310,24 +168184,6 @@
     },
     {
       "categorie": "beverages",
-      "display_name": "Mineraalwater | Licht bruisend | PET",
-      "match_keys": [
-        "bru:mineraalwater | licht bruisend | pet"
-      ],
-      "members": [
-        {
-          "brand": "Bru",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Mineraalwater | Licht bruisend | PET",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:17682"
-    },
-    {
-      "categorie": "beverages",
       "display_name": "Mineraalwater | Natuurlijk Bruisend",
       "match_keys": [
         "bru:mineraalwater | natuurlijk bruisend"
@@ -171504,24 +171360,6 @@
     },
     {
       "categorie": "cheese",
-      "display_name": "Geitenkaas | Romig",
-      "match_keys": [
-        "chavroux:geitenkaas | romig"
-      ],
-      "members": [
-        {
-          "brand": "Chavroux",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Geitenkaas | Romig",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:17844"
-    },
-    {
-      "categorie": "cheese",
       "display_name": "Geitenkaas | Salade",
       "match_keys": [
         "chavroux:geitenkaas | salade"
@@ -173472,24 +173310,6 @@
     },
     {
       "categorie": "beverages",
-      "display_name": "Original | Blik",
-      "match_keys": [
-        "coca-cola:original | blik"
-      ],
-      "members": [
-        {
-          "brand": "Coca-Cola",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Original | Blik",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:17942"
-    },
-    {
-      "categorie": "beverages",
       "display_name": "Zero Caffeine | Blik",
       "match_keys": [
         "coca-cola:zero caffeine | blik"
@@ -173541,24 +173361,6 @@
         }
       ],
       "root_id": "be:grp:17945"
-    },
-    {
-      "categorie": "beverages",
-      "display_name": "Zero Sugar | Cherry | Blik",
-      "match_keys": [
-        "coca-cola:zero sugar | cherry | blik"
-      ],
-      "members": [
-        {
-          "brand": "Coca-Cola",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Zero Sugar | Cherry | Blik",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:17946"
     },
     {
       "categorie": "beverages",
@@ -176975,24 +176777,6 @@
         }
       ],
       "root_id": "be:grp:18117"
-    },
-    {
-      "categorie": "dairy",
-      "display_name": "Verse Kaas Specialiteit | Peer-Appel-Banaan",
-      "match_keys": [
-        "danio:verse kaas specialiteit | peer-appel-banaan"
-      ],
-      "members": [
-        {
-          "brand": "Danio",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Verse Kaas Specialiteit | Peer-Appel-Banaan",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:18118"
     },
     {
       "categorie": "dairy",
@@ -180441,24 +180225,6 @@
       "root_id": "be:grp:18292"
     },
     {
-      "categorie": "fruit",
-      "display_name": "Appels | Jonagold | Verpakt | Bio",
-      "match_keys": [
-        "delhaize:appels | jonagold | verpakt | bio"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Appels | Jonagold | Verpakt | Bio",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:18293"
-    },
-    {
       "categorie": "beverages",
       "display_name": "Appelsap",
       "match_keys": [
@@ -180907,24 +180673,6 @@
         }
       ],
       "root_id": "be:grp:18316"
-    },
-    {
-      "categorie": "fruit",
-      "display_name": "Avocado eetklaar",
-      "match_keys": [
-        "delhaize:avocado eetklaar"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Avocado eetklaar",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:18317"
     },
     {
       "categorie": "fruit",
@@ -188125,42 +187873,6 @@
       "root_id": "be:grp:18681"
     },
     {
-      "categorie": "beverages",
-      "display_name": "Cold brew karamel",
-      "match_keys": [
-        "delhaize:cold brew karamel"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Cold brew karamel",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:18682"
-    },
-    {
-      "categorie": "beverages",
-      "display_name": "Cold brew vanille",
-      "match_keys": [
-        "delhaize:cold brew vanille"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Cold brew vanille",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:18683"
-    },
-    {
       "categorie": null,
       "display_name": "Comté | AOP | Blok | Bio",
       "match_keys": [
@@ -189026,24 +188738,6 @@
     },
     {
       "categorie": "snacksSweets",
-      "display_name": "Crackers | Classic",
-      "match_keys": [
-        "delhaize:crackers | classic"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Crackers | Classic",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:18728"
-    },
-    {
-      "categorie": "snacksSweets",
       "display_name": "Crackers | Nature",
       "match_keys": [
         "delhaize:crackers | nature"
@@ -189275,24 +188969,6 @@
         }
       ],
       "root_id": "be:grp:1874"
-    },
-    {
-      "categorie": "bread",
-      "display_name": "Crisps | LInzen | Sweet Chili | Proteine",
-      "match_keys": [
-        "delhaize:crisps | linzen | sweet chili | proteine"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Crisps | LInzen | Sweet Chili | Proteine",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:18740"
     },
     {
       "categorie": "meat",
@@ -190517,42 +190193,6 @@
         }
       ],
       "root_id": "be:grp:18802"
-    },
-    {
-      "categorie": "dairy",
-      "display_name": "Drinkyoghurt | Aardbei | Immuniteit",
-      "match_keys": [
-        "delhaize:drinkyoghurt | aardbei | immuniteit"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Drinkyoghurt | Aardbei | Immuniteit",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:18803"
-    },
-    {
-      "categorie": "dairy",
-      "display_name": "Drinkyoghurt | Multivruchten | Immuniteit",
-      "match_keys": [
-        "delhaize:drinkyoghurt | multivruchten | immuniteit"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Drinkyoghurt | Multivruchten | Immuniteit",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:18804"
     },
     {
       "categorie": "dairy",
@@ -196146,11 +195786,11 @@
       "categorie": "cheese",
       "display_name": "GRANA PADANO BOB",
       "match_keys": [
-        "delhaize:grana padano bob"
+        "gta:grana padano bob"
       ],
       "members": [
         {
-          "brand": "Delhaize",
+          "brand": "GTA",
           "chain": "delhaize",
           "ean": null,
           "provenance": "scraped",
@@ -200240,11 +199880,11 @@
       "categorie": "meat",
       "display_name": "Kip | Curry",
       "match_keys": [
-        "delhaize:kip | curry"
+        "no brand:kip | curry"
       ],
       "members": [
         {
-          "brand": "Delhaize",
+          "brand": "No Brand",
           "chain": "delhaize",
           "ean": null,
           "provenance": "scraped",
@@ -203377,24 +203017,6 @@
       "root_id": "be:grp:19451"
     },
     {
-      "categorie": "meat",
-      "display_name": "Kookhamblokjes",
-      "match_keys": [
-        "delhaize:kookhamblokjes"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Kookhamblokjes",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:19452"
-    },
-    {
       "categorie": "vegetables",
       "display_name": "Koolrabi",
       "match_keys": [
@@ -203686,11 +203308,11 @@
       "categorie": "meat",
       "display_name": "Krab | King",
       "match_keys": [
-        "delhaize:krab | king"
+        "no brand:krab | king"
       ],
       "members": [
         {
-          "brand": "Delhaize",
+          "brand": "No Brand",
           "chain": "delhaize",
           "ean": null,
           "provenance": "scraped",
@@ -206921,24 +206543,6 @@
         }
       ],
       "root_id": "be:grp:19630"
-    },
-    {
-      "categorie": null,
-      "display_name": "Maaltijdbox | Zoetzure wok",
-      "match_keys": [
-        "delhaize:maaltijdbox | zoetzure wok"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Maaltijdbox | Zoetzure wok",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:19631"
     },
     {
       "categorie": "snacksSweets",
@@ -210476,11 +210080,11 @@
       "categorie": "meat",
       "display_name": "Noordzee",
       "match_keys": [
-        "delhaize:noordzee"
+        "no brand:noordzee"
       ],
       "members": [
         {
-          "brand": "Delhaize",
+          "brand": "No Brand",
           "chain": "delhaize",
           "ean": null,
           "provenance": "scraped",
@@ -213390,24 +212994,6 @@
     },
     {
       "categorie": "fruit",
-      "display_name": "Passievrucht | Cat1",
-      "match_keys": [
-        "delhaize:passievrucht | cat1"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Passievrucht | Cat1",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:19960"
-    },
-    {
-      "categorie": "fruit",
       "display_name": "Passievruchten | Verpakt per",
       "match_keys": [
         "delhaize:passievruchten | verpakt per"
@@ -214467,24 +214053,6 @@
         }
       ],
       "root_id": "be:grp:20015"
-    },
-    {
-      "categorie": "dairy",
-      "display_name": "Petit suisse | Mager",
-      "match_keys": [
-        "delhaize:petit suisse | mager"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Petit suisse | Mager",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:20016"
     },
     {
       "categorie": "vegetables",
@@ -217278,24 +216846,6 @@
     },
     {
       "categorie": "pantry",
-      "display_name": "Rijst | Basmati | Fairtrade",
-      "match_keys": [
-        "delhaize:rijst | basmati | fairtrade"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Rijst | Basmati | Fairtrade",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:20158"
-    },
-    {
-      "categorie": "pantry",
       "display_name": "Rijst | Bruine | Longkorrel",
       "match_keys": [
         "delhaize:rijst | bruine | longkorrel"
@@ -219566,11 +219116,11 @@
       "categorie": "meat",
       "display_name": "Salade | Tonijn | Maxi pack | MSC",
       "match_keys": [
-        "delhaize:salade | tonijn | maxi pack | msc"
+        "no brand:salade | tonijn | maxi pack | msc"
       ],
       "members": [
         {
-          "brand": "Delhaize",
+          "brand": "No Brand",
           "chain": "delhaize",
           "ean": null,
           "provenance": "scraped",
@@ -219584,11 +219134,11 @@
       "categorie": "meat",
       "display_name": "Salade | Tonijn | MSC",
       "match_keys": [
-        "delhaize:salade | tonijn | msc"
+        "no brand:salade | tonijn | msc"
       ],
       "members": [
         {
-          "brand": "Delhaize",
+          "brand": "No Brand",
           "chain": "delhaize",
           "ean": null,
           "provenance": "scraped",
@@ -220333,24 +219883,6 @@
         }
       ],
       "root_id": "be:grp:20311"
-    },
-    {
-      "categorie": "beverages",
-      "display_name": "Sap | Groenten | Rise n'shine",
-      "match_keys": [
-        "delhaize:sap | groenten | rise n'shine"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Sap | Groenten | Rise n'shine",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:20312"
     },
     {
       "categorie": "beverages",
@@ -224527,7 +224059,7 @@
       "root_id": "be:grp:20522"
     },
     {
-      "categorie": null,
+      "categorie": "pantry",
       "display_name": "Soep | Minestrone",
       "match_keys": [
         "delhaize:soep | minestrone"
@@ -225011,24 +224543,6 @@
         }
       ],
       "root_id": "be:grp:20547"
-    },
-    {
-      "categorie": "frozenMeals",
-      "display_name": "Sorbet | Mango | Passievrucht",
-      "match_keys": [
-        "delhaize:sorbet | mango | passievrucht"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Sorbet | Mango | Passievrucht",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:20548"
     },
     {
       "categorie": "dairy",
@@ -227750,11 +227264,11 @@
       "categorie": "meat",
       "display_name": "Tonijn | Natuur",
       "match_keys": [
-        "delhaize:tonijn | natuur"
+        "no brand:tonijn | natuur"
       ],
       "members": [
         {
-          "brand": "Delhaize",
+          "brand": "No Brand",
           "chain": "delhaize",
           "ean": null,
           "provenance": "scraped",
@@ -229710,11 +229224,11 @@
       "categorie": "meat",
       "display_name": "Vlees | Salade | Huis",
       "match_keys": [
-        "delhaize:vlees | salade | huis"
+        "no brand:vlees | salade | huis"
       ],
       "members": [
         {
-          "brand": "Delhaize",
+          "brand": "No Brand",
           "chain": "delhaize",
           "ean": null,
           "provenance": "scraped",
@@ -231647,24 +231161,6 @@
         }
       ],
       "root_id": "be:grp:2088"
-    },
-    {
-      "categorie": "dairy",
-      "display_name": "Yoghurt | Greek Style | Vol | Citroen",
-      "match_keys": [
-        "delhaize:yoghurt | greek style | vol | citroen"
-      ],
-      "members": [
-        {
-          "brand": "Delhaize",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Yoghurt | Greek Style | Vol | Citroen",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:20880"
     },
     {
       "categorie": "dairy",
@@ -235635,24 +235131,6 @@
       "root_id": "be:grp:21081"
     },
     {
-      "categorie": "cheese",
-      "display_name": "Verse Kaas | lactosevrij",
-      "match_keys": [
-        "dilea:verse kaas | lactosevrij"
-      ],
-      "members": [
-        {
-          "brand": "Dilea",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Verse Kaas | lactosevrij",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:21082"
-    },
-    {
       "categorie": "dairy",
       "display_name": "Verse kaas | Mager | zonder lactose",
       "match_keys": [
@@ -238012,24 +237490,6 @@
     },
     {
       "categorie": "beverages",
-      "display_name": "Regular | Blik",
-      "match_keys": [
-        "dr. pepper:regular | blik"
-      ],
-      "members": [
-        {
-          "brand": "Dr. Pepper",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Regular | Blik",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:21203"
-    },
-    {
-      "categorie": "beverages",
       "display_name": "Zero",
       "match_keys": [
         "dr. pepper:zero"
@@ -238855,24 +238315,6 @@
         }
       ],
       "root_id": "be:grp:21245"
-    },
-    {
-      "categorie": "snacksSweets",
-      "display_name": "Bretzels | Honey & Mustard",
-      "match_keys": [
-        "elephant:bretzels | honey & mustard"
-      ],
-      "members": [
-        {
-          "brand": "Elephant",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Bretzels | Honey & Mustard",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:21246"
     },
     {
       "categorie": "snacksSweets",
@@ -240632,14 +240074,6 @@
           "provenance": "scraped",
           "variant": "Olijfolie | Extra vierge",
           "variant_key": null
-        },
-        {
-          "brand": "Filippo Berio",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Olijfolie | Extra vièrge",
-          "variant_key": null
         }
       ],
       "root_id": "be:grp:21336"
@@ -242374,24 +241808,6 @@
     },
     {
       "categorie": "beverages",
-      "display_name": "Bruisend | Lemon | PET",
-      "match_keys": [
-        "fuze tea:bruisend | lemon | pet"
-      ],
-      "members": [
-        {
-          "brand": "Fuze Tea",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Bruisend | Lemon | PET",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:21424"
-    },
-    {
-      "categorie": "beverages",
       "display_name": "Bruisend | Zwarte thee | Lemon | Blik",
       "match_keys": [
         "fuze tea:bruisend | zwarte thee | lemon | blik"
@@ -242518,24 +241934,6 @@
     },
     {
       "categorie": "beverages",
-      "display_name": "Zwarte thee | Peach Hibiscus | Blik",
-      "match_keys": [
-        "fuze tea:zwarte thee | peach hibiscus | blik"
-      ],
-      "members": [
-        {
-          "brand": "Fuze Tea",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Zwarte thee | Peach Hibiscus | Blik",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:21431"
-    },
-    {
-      "categorie": "beverages",
       "display_name": "Zwarte thee | Peach Hibiscus | PET",
       "match_keys": [
         "fuze tea:zwarte thee | peach hibiscus | pet"
@@ -242569,24 +241967,6 @@
         }
       ],
       "root_id": "be:grp:21433"
-    },
-    {
-      "categorie": "fish",
-      "display_name": "Lompviseieren | Rood",
-      "match_keys": [
-        "gabriel:lompviseieren | rood"
-      ],
-      "members": [
-        {
-          "brand": "Gabriel",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Lompviseieren | Rood",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:21434"
     },
     {
       "categorie": "fish",
@@ -254491,24 +253871,6 @@
       "root_id": "be:grp:22038"
     },
     {
-      "categorie": "beverages",
-      "display_name": "Kombucha | Citroengras gember | Bio",
-      "match_keys": [
-        "kazidomi:kombucha | citroengras gember | bio"
-      ],
-      "members": [
-        {
-          "brand": "Kazidomi",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Kombucha | Citroengras gember | Bio",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:22039"
-    },
-    {
       "categorie": null,
       "display_name": "Cocktail Trostomaten",
       "match_keys": [
@@ -254561,24 +253923,6 @@
         }
       ],
       "root_id": "be:grp:22041"
-    },
-    {
-      "categorie": "beverages",
-      "display_name": "Kombucha | Passievrucht & citroen | Bio",
-      "match_keys": [
-        "kazidomi:kombucha | passievrucht & citroen | bio"
-      ],
-      "members": [
-        {
-          "brand": "Kazidomi",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Kombucha | Passievrucht & citroen | Bio",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:22042"
     },
     {
       "categorie": "pantry",
@@ -255659,24 +255003,6 @@
         }
       ],
       "root_id": "be:grp:22098"
-    },
-    {
-      "categorie": "snacksSweets",
-      "display_name": "Repen | Granen | Melkchocolade",
-      "match_keys": [
-        "kellogg's:repen | granen | melkchocolade"
-      ],
-      "members": [
-        {
-          "brand": "Kellogg's",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Repen | Granen | Melkchocolade",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:22099"
     },
     {
       "categorie": "pantry",
@@ -258807,24 +258133,6 @@
         }
       ],
       "root_id": "be:grp:22258"
-    },
-    {
-      "categorie": "beverages",
-      "display_name": "Kefir | Framboos | Bio",
-      "match_keys": [
-        "kult:kefir | framboos | bio"
-      ],
-      "members": [
-        {
-          "brand": "Kult",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Kefir | Framboos | Bio",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:22259"
     },
     {
       "categorie": "beverages",
@@ -268356,24 +267664,6 @@
     },
     {
       "categorie": "snacksSweets",
-      "display_name": "Ontbijtkoeken | Chocolade stukjes",
-      "match_keys": [
-        "lu:ontbijtkoeken | chocolade stukjes"
-      ],
-      "members": [
-        {
-          "brand": "LU",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Ontbijtkoeken | Chocolade stukjes",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:22741"
-    },
-    {
-      "categorie": "snacksSweets",
       "display_name": "Ontbijtkoeken | Chocolade | Hazelnoot",
       "match_keys": [
         "lu:ontbijtkoeken | chocolade | hazelnoot"
@@ -269415,24 +268705,6 @@
         }
       ],
       "root_id": "be:grp:22795"
-    },
-    {
-      "categorie": "meat",
-      "display_name": "Pollo Arrosto",
-      "match_keys": [
-        "macellaria toscana:pollo arrosto"
-      ],
-      "members": [
-        {
-          "brand": "Macellaria Toscana",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Pollo Arrosto",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:22796"
     },
     {
       "categorie": "meat",
@@ -271187,24 +270459,6 @@
         }
       ],
       "root_id": "be:grp:22884"
-    },
-    {
-      "categorie": "saucesCondiments",
-      "display_name": "Carbonarasaus",
-      "match_keys": [
-        "manna:carbonarasaus"
-      ],
-      "members": [
-        {
-          "brand": "Manna",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Carbonarasaus",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:22885"
     },
     {
       "categorie": "saucesCondiments",
@@ -273193,24 +272447,6 @@
         }
       ],
       "root_id": "be:grp:22985"
-    },
-    {
-      "categorie": "saucesCondiments",
-      "display_name": "Kruiden | Vampire Killer",
-      "match_keys": [
-        "medline:kruiden | vampire killer"
-      ],
-      "members": [
-        {
-          "brand": "Medline",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Kruiden | Vampire Killer",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:22986"
     },
     {
       "categorie": "fish",
@@ -276128,24 +275364,6 @@
     },
     {
       "categorie": "beverages",
-      "display_name": "Sap | Multivitamines | PET",
-      "match_keys": [
-        "minute maid:sap | multivitamines | pet"
-      ],
-      "members": [
-        {
-          "brand": "Minute Maid",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Sap | Multivitamines | PET",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23133"
-    },
-    {
-      "categorie": "beverages",
       "display_name": "Sap | Tropical",
       "match_keys": [
         "minute maid:sap | tropical"
@@ -276925,24 +276143,6 @@
         }
       ],
       "root_id": "be:grp:23172"
-    },
-    {
-      "categorie": "frozenMeals",
-      "display_name": "4 Garnaalkroketten | Oven",
-      "match_keys": [
-        "mora:4 garnaalkroketten | oven"
-      ],
-      "members": [
-        {
-          "brand": "Mora",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "4 Garnaalkroketten | Oven",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23173"
     },
     {
       "categorie": "frozenMeals",
@@ -278149,24 +277349,6 @@
         }
       ],
       "root_id": "be:grp:23234"
-    },
-    {
-      "categorie": "pantry",
-      "display_name": "ROZENWATER",
-      "match_keys": [
-        "nadia & merijn's souq:rozenwater"
-      ],
-      "members": [
-        {
-          "brand": "Nadia & Merijn's Souq",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "ROZENWATER",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23235"
     },
     {
       "categorie": "pantry",
@@ -280949,24 +280131,6 @@
       "root_id": "be:grp:23377"
     },
     {
-      "categorie": "beverages",
-      "display_name": "Mineraalwater | Niet bruisend | PET",
-      "match_keys": [
-        "nestle:mineraalwater | niet bruisend | pet"
-      ],
-      "members": [
-        {
-          "brand": "Nestlé",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Mineraalwater | Niet bruisend | PET",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23378"
-    },
-    {
       "categorie": "pantry",
       "display_name": "Ontbijtgranen | 6-Pack | Mini",
       "match_keys": [
@@ -281705,60 +280869,6 @@
       "root_id": "be:grp:23416"
     },
     {
-      "categorie": "bread",
-      "display_name": "Tortilla wraps | Paprika chili",
-      "match_keys": [
-        "no fairytales:tortilla wraps | paprika chili"
-      ],
-      "members": [
-        {
-          "brand": "No Fairytales",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Tortilla wraps | Paprika chili",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23417"
-    },
-    {
-      "categorie": "bread",
-      "display_name": "Tortilla wraps | Wortel",
-      "match_keys": [
-        "no fairytales:tortilla wraps | wortel"
-      ],
-      "members": [
-        {
-          "brand": "No Fairytales",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Tortilla wraps | Wortel",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23418"
-    },
-    {
-      "categorie": "bread",
-      "display_name": "Tortilla wraps | Zoete aardappel",
-      "match_keys": [
-        "no fairytales:tortilla wraps | zoete aardappel"
-      ],
-      "members": [
-        {
-          "brand": "No Fairytales",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Tortilla wraps | Zoete aardappel",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23419"
-    },
-    {
       "categorie": null,
       "display_name": "Cookie Dough Swich Up",
       "match_keys": [
@@ -282275,6 +281385,14 @@
           "ean": null,
           "provenance": "scraped",
           "variant": "Koekje | Chocolade-Hazelnoot",
+          "variant_key": null
+        },
+        {
+          "brand": "Nutella",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Koekje | Chocolade-hazelnoot",
           "variant_key": null
         }
       ],
@@ -284216,24 +283334,6 @@
     },
     {
       "categorie": "snacksSweets",
-      "display_name": "Koekjes | Golden | Vanille",
-      "match_keys": [
-        "oreo:koekjes | golden | vanille"
-      ],
-      "members": [
-        {
-          "brand": "Oreo",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Koekjes | Golden | Vanille",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23543"
-    },
-    {
-      "categorie": "snacksSweets",
       "display_name": "Koekjes | Mini | Original",
       "match_keys": [
         "oreo:koekjes | mini | original"
@@ -284702,24 +283802,6 @@
     },
     {
       "categorie": "beverages",
-      "display_name": "Chicorei | Fijn",
-      "match_keys": [
-        "pacha:chicorei | fijn"
-      ],
-      "members": [
-        {
-          "brand": "Pacha",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Chicorei | Fijn",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23568"
-    },
-    {
-      "categorie": "beverages",
       "display_name": "Cichorei | Instant | Poeder",
       "match_keys": [
         "pacha:cichorei | instant | poeder"
@@ -285077,24 +284159,6 @@
         }
       ],
       "root_id": "be:grp:23586"
-    },
-    {
-      "categorie": "cheese",
-      "display_name": "Classic | 5+1GR | SN",
-      "match_keys": [
-        "passendale:classic | 5+1gr | sn"
-      ],
-      "members": [
-        {
-          "brand": "Passendale",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Classic | 5+1GR | SN",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23587"
     },
     {
       "categorie": "cheese",
@@ -286013,24 +285077,6 @@
         }
       ],
       "root_id": "be:grp:23634"
-    },
-    {
-      "categorie": "beverages",
-      "display_name": "Cola | Zero | Sleek Can",
-      "match_keys": [
-        "pepsi:cola | zero | sleek can"
-      ],
-      "members": [
-        {
-          "brand": "Pepsi",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Cola | Zero | Sleek Can",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23635"
     },
     {
       "categorie": "beverages",
@@ -287757,24 +286803,6 @@
         }
       ],
       "root_id": "be:grp:23721"
-    },
-    {
-      "categorie": "fruit",
-      "display_name": "Appel | |",
-      "match_keys": [
-        "primo:appel | |"
-      ],
-      "members": [
-        {
-          "brand": "Primo",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Appel | Primo | 4ST",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23722"
     },
     {
       "categorie": "snacksSweets",
@@ -291232,24 +290260,6 @@
     },
     {
       "categorie": "beverages",
-      "display_name": "Koffie | Dessert | Barista | 32 | Pads",
-      "match_keys": [
-        "rombouts:koffie | dessert | barista | 32 | pads"
-      ],
-      "members": [
-        {
-          "brand": "Rombouts",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Koffie | Dessert | Barista | 32 | Pads",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:23900"
-    },
-    {
-      "categorie": "beverages",
       "display_name": "Koffie | Dessert | Bonen",
       "match_keys": [
         "rombouts:koffie | dessert | bonen"
@@ -293485,24 +292495,6 @@
         }
       ],
       "root_id": "be:grp:24012"
-    },
-    {
-      "categorie": "pantry",
-      "display_name": "Bonen | Chili",
-      "match_keys": [
-        "santa maria:bonen | chili"
-      ],
-      "members": [
-        {
-          "brand": "Santa Maria",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Bonen | Chili",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:24013"
     },
     {
       "categorie": "pantry",
@@ -297700,24 +296692,6 @@
     },
     {
       "categorie": "beverages",
-      "display_name": "440ml | Pepsi | Max",
-      "match_keys": [
-        "sodastream:440ml | pepsi | max"
-      ],
-      "members": [
-        {
-          "brand": "Sodastream",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "440ml | Pepsi | Max",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:24226"
-    },
-    {
-      "categorie": "beverages",
       "display_name": "Pepsi limoen",
       "match_keys": [
         "sodastream:pepsi limoen"
@@ -299325,24 +298299,6 @@
         }
       ],
       "root_id": "be:grp:24307"
-    },
-    {
-      "categorie": "beverages",
-      "display_name": "Water | Bruisend | Pompelmoes | 5+1",
-      "match_keys": [
-        "spa:water | bruisend | pompelmoes | 5+1"
-      ],
-      "members": [
-        {
-          "brand": "Spa",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Water | Bruisend | Pompelmoes | 5+1",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:24308"
     },
     {
       "categorie": "snacksSweets",
@@ -303107,24 +302063,6 @@
       "root_id": "be:grp:24498"
     },
     {
-      "categorie": "beverages",
-      "display_name": "Siroop | Appel - Bessen | Zonder suiker",
-      "match_keys": [
-        "teisseire:siroop | appel - bessen | zonder suiker"
-      ],
-      "members": [
-        {
-          "brand": "Teisseire",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Siroop | Appel - Bessen | Zonder suiker",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:24499"
-    },
-    {
       "categorie": "bread",
       "display_name": "cracotte gourmande 250 g V",
       "match_keys": [
@@ -304879,24 +303817,6 @@
       "root_id": "be:grp:24588"
     },
     {
-      "categorie": "beverages",
-      "display_name": "Multivitamins | Sap | Fruit",
-      "match_keys": [
-        "tropicana:multivitamins | sap | fruit"
-      ],
-      "members": [
-        {
-          "brand": "Tropicana",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Multivitamins  | Sap | Fruit",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:24589"
-    },
-    {
       "categorie": null,
       "display_name": "Creamy kip",
       "match_keys": [
@@ -305039,24 +303959,6 @@
         }
       ],
       "root_id": "be:grp:24596"
-    },
-    {
-      "categorie": "beverages",
-      "display_name": "Sap | Sinaasappel zonder pulp",
-      "match_keys": [
-        "tropicana:sap | sinaasappel zonder pulp"
-      ],
-      "members": [
-        {
-          "brand": "Tropicana",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Sap | Sinaasappel zonder pulp",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:24597"
     },
     {
       "categorie": "beverages",
@@ -307387,24 +306289,6 @@
         }
       ],
       "root_id": "be:grp:24714"
-    },
-    {
-      "categorie": "cheese",
-      "display_name": "Origineel | Geraspt",
-      "match_keys": [
-        "violife:origineel | geraspt"
-      ],
-      "members": [
-        {
-          "brand": "Violife",
-          "chain": "delhaize",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "Origineel | Geraspt",
-          "variant_key": null
-        }
-      ],
-      "root_id": "be:grp:24715"
     },
     {
       "categorie": "beverages",
@@ -311705,6 +310589,150 @@
       "root_id": "be:grp:24931"
     },
     {
+      "categorie": "pantry",
+      "display_name": "Rijst | Mediterraan",
+      "match_keys": [
+        "ben's original:rijst | mediterraan"
+      ],
+      "members": [
+        {
+          "brand": "Ben's Original",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Rijst | Mediterraan",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24932"
+    },
+    {
+      "categorie": "meat",
+      "display_name": "Sea sticks | Vegan",
+      "match_keys": [
+        "bonmush:sea sticks | vegan"
+      ],
+      "members": [
+        {
+          "brand": "Bonmush",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Sea sticks | Vegan",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24933"
+    },
+    {
+      "categorie": "bread",
+      "display_name": "| Aardbei |",
+      "match_keys": [
+        "brioche pasquier:| aardbei |"
+      ],
+      "members": [
+        {
+          "brand": "Brioche Pasquier",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Brioche | Aardbei | 6st",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24934"
+    },
+    {
+      "categorie": "bread",
+      "display_name": "| 9+2",
+      "match_keys": [
+        "brugse pannenkoeken:| 9+2"
+      ],
+      "members": [
+        {
+          "brand": "Brugse pannenkoeken",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Brugse pannenkoeken | 9+2",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24935"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Multivitamin | Zéro",
+      "match_keys": [
+        "capri-sun:multivitamin | zero"
+      ],
+      "members": [
+        {
+          "brand": "Capri-Sun",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Multivitamin | Zéro",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24936"
+    },
+    {
+      "categorie": "frozenMeals",
+      "display_name": "Chicken | Tender | Spicy",
+      "match_keys": [
+        "delhaize:chicken | tender | spicy"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Chicken | Tender | Spicy",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24937"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "CITRUS ZERO",
+      "match_keys": [
+        "delhaize:citrus zero"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "CITRUS ZERO",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24938"
+    },
+    {
+      "categorie": "frozenMeals",
+      "display_name": "Frietjes | Zoete aardappel",
+      "match_keys": [
+        "delhaize:frietjes | zoete aardappel"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Frietjes | Zoete aardappel",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24939"
+    },
+    {
       "categorie": "alcohol",
       "display_name": "Crianza Rioja",
       "match_keys": [
@@ -311721,6 +310749,186 @@
         }
       ],
       "root_id": "be:grp:2494"
+    },
+    {
+      "categorie": "fish",
+      "display_name": "Haringfilets | Ui",
+      "match_keys": [
+        "delhaize:haringfilets | ui"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Haringfilets | Ui",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24940"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "ICE TEA CITRoeN",
+      "match_keys": [
+        "delhaize:ice tea citroen"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "ICE TEA CITRoeN",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24941"
+    },
+    {
+      "categorie": null,
+      "display_name": "Kipstukjes | Vegan",
+      "match_keys": [
+        "delhaize:kipstukjes | vegan"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Kipstukjes | Vegan",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24942"
+    },
+    {
+      "categorie": "snacksSweets",
+      "display_name": "Koekjes | Mini Lions",
+      "match_keys": [
+        "delhaize:koekjes | mini lions"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Koekjes | Mini Lions",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24943"
+    },
+    {
+      "categorie": "meat",
+      "display_name": "Nuggets | Vegan",
+      "match_keys": [
+        "delhaize:nuggets | vegan"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Nuggets | Vegan",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24944"
+    },
+    {
+      "categorie": "saucesCondiments",
+      "display_name": "Olijfolie | Extra vierge| Grieks",
+      "match_keys": [
+        "delhaize:olijfolie | extra vierge| grieks"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Olijfolie | Extra vierge| Grieks",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24945"
+    },
+    {
+      "categorie": "vegetables",
+      "display_name": "Preiwit",
+      "match_keys": [
+        "delhaize:preiwit"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Preiwit",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24946"
+    },
+    {
+      "categorie": "frozenMeals",
+      "display_name": "Puree | Broccoli",
+      "match_keys": [
+        "delhaize:puree | broccoli"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Puree | Broccoli",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24947"
+    },
+    {
+      "categorie": null,
+      "display_name": "Room | Haver | Bio",
+      "match_keys": [
+        "delhaize:room | haver | bio"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Room | Haver | Bio",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24948"
+    },
+    {
+      "categorie": null,
+      "display_name": "Room | Kokosnoot | Bio",
+      "match_keys": [
+        "delhaize:room | kokosnoot | bio"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Room | Kokosnoot | Bio",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24949"
     },
     {
       "categorie": null,
@@ -311741,6 +310949,186 @@
       "root_id": "be:grp:2495"
     },
     {
+      "categorie": null,
+      "display_name": "Schnitzel | Vegan",
+      "match_keys": [
+        "delhaize:schnitzel | vegan"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Schnitzel | Vegan",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24950"
+    },
+    {
+      "categorie": "dairy",
+      "display_name": "Skyr | Natuur | High Protein | 0% | FP",
+      "match_keys": [
+        "delhaize:skyr | natuur | high protein | 0% | fp"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Skyr | Natuur | High Protein | 0% | FP",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24951"
+    },
+    {
+      "categorie": null,
+      "display_name": "Tofu | Vegan | Bio",
+      "match_keys": [
+        "delhaize:tofu | vegan | bio"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Tofu | Vegan | Bio",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24952"
+    },
+    {
+      "categorie": "vegetables",
+      "display_name": "Tomatenbesjes",
+      "match_keys": [
+        "delhaize:tomatenbesjes"
+      ],
+      "members": [
+        {
+          "brand": "Delhaize",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Tomatenbesjes",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24953"
+    },
+    {
+      "categorie": "dairy",
+      "display_name": "Proteïne snack | Chocolade | Brownie",
+      "match_keys": [
+        "eatwow:proteine snack | chocolade | brownie"
+      ],
+      "members": [
+        {
+          "brand": "Eatwow",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Proteïne snack | Chocolade | Brownie",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24954"
+    },
+    {
+      "categorie": "frozenMeals",
+      "display_name": "Framboos | Melkchocolade",
+      "match_keys": [
+        "franui:framboos | melkchocolade"
+      ],
+      "members": [
+        {
+          "brand": "Franui",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Framboos | Melkchocolade",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24955"
+    },
+    {
+      "categorie": "frozenMeals",
+      "display_name": "Framboos | Pure chocolade",
+      "match_keys": [
+        "franui:framboos | pure chocolade"
+      ],
+      "members": [
+        {
+          "brand": "Franui",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Framboos | Pure chocolade",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24956"
+    },
+    {
+      "categorie": "meat",
+      "display_name": "Tapas | Ham | Rozemarijn",
+      "match_keys": [
+        "ganda:tapas | ham | rozemarijn"
+      ],
+      "members": [
+        {
+          "brand": "Ganda",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Tapas | Ham | Rozemarijn",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24957"
+    },
+    {
+      "categorie": "meat",
+      "display_name": "Filet pur | Iberico",
+      "match_keys": [
+        "iberiq:filet pur | iberico"
+      ],
+      "members": [
+        {
+          "brand": "Iberiq",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Filet pur | Iberico",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24958"
+    },
+    {
+      "categorie": "meat",
+      "display_name": "Koteletten | Varken | Iberico",
+      "match_keys": [
+        "iberiq:koteletten | varken | iberico"
+      ],
+      "members": [
+        {
+          "brand": "Iberiq",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Koteletten | Varken | Iberico",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24959"
+    },
+    {
       "categorie": "beverages",
       "display_name": "Crime Of Passion 7,2%",
       "match_keys": [
@@ -311757,6 +311145,186 @@
         }
       ],
       "root_id": "be:grp:2496"
+    },
+    {
+      "categorie": "meat",
+      "display_name": "Medaillon | Iberico",
+      "match_keys": [
+        "iberiq:medaillon | iberico"
+      ],
+      "members": [
+        {
+          "brand": "Iberiq",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Medaillon | Iberico",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24960"
+    },
+    {
+      "categorie": "meat",
+      "display_name": "Secreto | Iberico",
+      "match_keys": [
+        "iberiq:secreto | iberico"
+      ],
+      "members": [
+        {
+          "brand": "Iberiq",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Secreto | Iberico",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24961"
+    },
+    {
+      "categorie": "dairy",
+      "display_name": "| gebakken appel",
+      "match_keys": [
+        "isey skyr:| gebakken appel"
+      ],
+      "members": [
+        {
+          "brand": "Isey skyr",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Skyr | gebakken appel",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24962"
+    },
+    {
+      "categorie": "dairy",
+      "display_name": "| Passievrucht | Opgeklopt",
+      "match_keys": [
+        "isey skyr:| passievrucht | opgeklopt"
+      ],
+      "members": [
+        {
+          "brand": "Isey skyr",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Skyr | Passievrucht | Opgeklopt",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24963"
+    },
+    {
+      "categorie": "dairy",
+      "display_name": "| stracciatella | opgeklopt",
+      "match_keys": [
+        "isey skyr:| stracciatella | opgeklopt"
+      ],
+      "members": [
+        {
+          "brand": "Isey skyr",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Skyr | stracciatella | opgeklopt",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24964"
+    },
+    {
+      "categorie": "snacksSweets",
+      "display_name": "Crispy | Reep |",
+      "match_keys": [
+        "kinder:crispy | reep |"
+      ],
+      "members": [
+        {
+          "brand": "Kinder",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Crispy | Reep | 5 stuks",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24965"
+    },
+    {
+      "categorie": "bread",
+      "display_name": "Kaneelbollen",
+      "match_keys": [
+        "la lorraine:kaneelbollen"
+      ],
+      "members": [
+        {
+          "brand": "La Lorraine",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Kaneelbollen",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24966"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Koffie | Crema e Gusto | Gemalen",
+      "match_keys": [
+        "lavazza:koffie | crema e gusto | gemalen"
+      ],
+      "members": [
+        {
+          "brand": "Lavazza",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Koffie | Crema e Gusto | Gemalen",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24967"
+    },
+    {
+      "categorie": "snacksSweets",
+      "display_name": "Koekjes | Start | Ontbijt | Naturel",
+      "match_keys": [
+        "lu:koekjes | start | ontbijt | naturel"
+      ],
+      "members": [
+        {
+          "brand": "LU",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Koekjes | Start | Ontbijt | Naturel",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24968"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Gearomatiseerd water | Bruisend | Limoen",
+      "match_keys": [
+        "maison perrier:gearomatiseerd water | bruisend | limoen"
+      ],
+      "members": [
+        {
+          "brand": "Maison Perrier",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Gearomatiseerd water | Bruisend | Limoen",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24969"
     },
     {
       "categorie": "bread",
@@ -311777,6 +311345,186 @@
       "root_id": "be:grp:2497"
     },
     {
+      "categorie": "dairy",
+      "display_name": "Yoghurt | Banaan",
+      "match_keys": [
+        "melkunie:yoghurt | banaan"
+      ],
+      "members": [
+        {
+          "brand": "Melkunie",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Yoghurt | Banaan",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24970"
+    },
+    {
+      "categorie": "pantry",
+      "display_name": "Honing | Bloemenn | Vloeibaar",
+      "match_keys": [
+        "miel l'apiculteur:honing | bloemenn | vloeibaar"
+      ],
+      "members": [
+        {
+          "brand": "Miel l'Apiculteur",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Honing | Bloemenn | Vloeibaar",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24971"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Café | Au | Lait | 2X300G | 2Ahpr",
+      "match_keys": [
+        "nescafe:cafe | au | lait | 2x300g | 2ahpr"
+      ],
+      "members": [
+        {
+          "brand": "Nescafé",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Café | Au | Lait | 2X300G | 2Ahpr",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24972"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Koffie | Cappuccino | 2 1/2P",
+      "match_keys": [
+        "nescafe:koffie | cappuccino | 2 1/2p"
+      ],
+      "members": [
+        {
+          "brand": "Nescafé",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Koffie | Cappuccino | 2 1/2P",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24973"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Koffie | Espresso | Inso | 2 | 1/2P",
+      "match_keys": [
+        "nescafe:koffie | espresso | inso | 2 | 1/2p"
+      ],
+      "members": [
+        {
+          "brand": "Nescafé",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Koffie | Espresso | Inso | 2 | 1/2P",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24974"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Koffie | Latte Macchiato Caramel | DG",
+      "match_keys": [
+        "nescafe:koffie | latte macchiato caramel | dg"
+      ],
+      "members": [
+        {
+          "brand": "Nescafé",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Koffie | Latte Macchiato Caramel | DG",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24975"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Koffie | Latte | Mac | 2 | 1/2P",
+      "match_keys": [
+        "nescafe:koffie | latte | mac | 2 | 1/2p"
+      ],
+      "members": [
+        {
+          "brand": "Nescafé",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Koffie | Latte | Mac | 2 | 1/2P",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24976"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Koffie | Lungo | |2 |1/2P",
+      "match_keys": [
+        "nescafe:koffie | lungo | |2 |1/2p"
+      ],
+      "members": [
+        {
+          "brand": "Nescafé",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Koffie | Lungo | |2  |1/2P",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24977"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Koffie | Grande | 2 | 1/2P",
+      "match_keys": [
+        "nestle:koffie | grande | 2 | 1/2p"
+      ],
+      "members": [
+        {
+          "brand": "Nestlé",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Koffie | Grande | 2 | 1/2P",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24978"
+    },
+    {
+      "categorie": "meat",
+      "display_name": "Kip | Hawai",
+      "match_keys": [
+        "no brand:kip | hawai"
+      ],
+      "members": [
+        {
+          "brand": "No Brand",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Kip | Hawai",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24979"
+    },
+    {
       "categorie": "bread",
       "display_name": "Crisp's Maiswaf.bieslook ui",
       "match_keys": [
@@ -311793,6 +311541,168 @@
         }
       ],
       "root_id": "be:grp:2498"
+    },
+    {
+      "categorie": "meat",
+      "display_name": "Zalm | Surimi",
+      "match_keys": [
+        "no brand:zalm | surimi"
+      ],
+      "members": [
+        {
+          "brand": "No Brand",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Zalm | Surimi",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24980"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Mineraalwater | Bruisend | PET",
+      "match_keys": [
+        "perrier:mineraalwater | bruisend | pet"
+      ],
+      "members": [
+        {
+          "brand": "Perrier",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Mineraalwater | Bruisend | PET",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24981"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Summer Ed 2026| Sudachi Limoen",
+      "match_keys": [
+        "red bull:summer ed 2026| sudachi limoen"
+      ],
+      "members": [
+        {
+          "brand": "Red Bull",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Summer Ed 2026| Sudachi Limoen",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24982"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Limonade | Aranciata Rossa",
+      "match_keys": [
+        "san pellegrino:limonade | aranciata rossa"
+      ],
+      "members": [
+        {
+          "brand": "San Pellegrino",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Limonade | Aranciata Rossa",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24983"
+    },
+    {
+      "categorie": "frozenMeals",
+      "display_name": "Ijs | Mini Stick | Exotic | Berry",
+      "match_keys": [
+        "solero:ijs | mini stick | exotic | berry"
+      ],
+      "members": [
+        {
+          "brand": "Solero",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Ijs | Mini Stick | Exotic | Berry",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24984"
+    },
+    {
+      "categorie": "cheese",
+      "display_name": "Kaasstengels",
+      "match_keys": [
+        "vache bleue:kaasstengels"
+      ],
+      "members": [
+        {
+          "brand": "Vache Bleue",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Kaasstengels",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24985"
+    },
+    {
+      "categorie": "meat",
+      "display_name": "Kipstukjes | Vegan",
+      "match_keys": [
+        "vivera:kipstukjes | vegan"
+      ],
+      "members": [
+        {
+          "brand": "Vivera",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Kipstukjes | Vegan",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24986"
+    },
+    {
+      "categorie": "meat",
+      "display_name": "Super Gehakt | Vegan",
+      "match_keys": [
+        "vivera:super gehakt | vegan"
+      ],
+      "members": [
+        {
+          "brand": "Vivera",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Super Gehakt | Vegan",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24987"
+    },
+    {
+      "categorie": "beverages",
+      "display_name": "Super Soda | Passievrucht | Bio",
+      "match_keys": [
+        "yugen:super soda | passievrucht | bio"
+      ],
+      "members": [
+        {
+          "brand": "Yugen",
+          "chain": "delhaize",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Super Soda | Passievrucht | Bio",
+          "variant_key": null
+        }
+      ],
+      "root_id": "be:grp:24988"
     },
     {
       "categorie": "bread",
