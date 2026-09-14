@@ -1,6 +1,6 @@
 {
-  "content_sha256": "867a06cc26eb7b0e0a36cf62c87ea17dd4df15e2b79f379f789a92854f2cda38",
-  "data_version": "2026-09-10",
+  "content_sha256": "a5f69a5a370cac3f6aafa7a94b0b942bab4f48028fa4db9c60e9d343a30d747f",
+  "data_version": "2026-09-13",
   "groups": [
     {
       "categorie": "dairy",
@@ -3805,25 +3805,6 @@
       "root_id": "be:grp:0212"
     },
     {
-      "categorie": "vegetables",
-      "concept": "potato",
-      "display_name": "aardappelen primeur",
-      "match_keys": [
-        "boni bio:aardappelen primeur"
-      ],
-      "members": [
-        {
-          "brand": "BONI BIO",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI BIO aardappelen primeur 2,5kg",
-          "variant_key": "colruyt:3680388"
-        }
-      ],
-      "root_id": "be:grp:0214"
-    },
-    {
       "categorie": null,
       "concept": null,
       "display_name": "aardappelgolfjes",
@@ -6386,25 +6367,6 @@
         }
       ],
       "root_id": "be:grp:0359"
-    },
-    {
-      "categorie": "household",
-      "concept": "dish-soap",
-      "display_name": "afwasmiddel lemongrass spray",
-      "match_keys": [
-        "eezym:afwasmiddel lemongrass spray"
-      ],
-      "members": [
-        {
-          "brand": "EEZYM",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "EEZYM afwasmiddel lemongrass spray 500ml",
-          "variant_key": "colruyt:4824540"
-        }
-      ],
-      "root_id": "be:grp:0360"
     },
     {
       "categorie": "household",
@@ -9183,25 +9145,6 @@
       "root_id": "be:grp:0510"
     },
     {
-      "categorie": "pantry",
-      "concept": null,
-      "display_name": "ananas sticks sap blik",
-      "match_keys": [
-        "del monte:ananas sticks sap blik"
-      ],
-      "members": [
-        {
-          "brand": "DEL MONTE",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "DEL MONTE ananas sticks sap blik 435g",
-          "variant_key": "colruyt:4950639"
-        }
-      ],
-      "root_id": "be:grp:0511"
-    },
-    {
       "categorie": "frozenMeals",
       "concept": null,
       "display_name": "ananas stukjes",
@@ -10573,25 +10516,6 @@
         }
       ],
       "root_id": "be:grp:0588"
-    },
-    {
-      "categorie": "snacksSweets",
-      "concept": null,
-      "display_name": "Appel Bessen",
-      "match_keys": [
-        "jordans granola:appel bessen"
-      ],
-      "members": [
-        {
-          "brand": "JORDANS GRANOLA",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "JORDANS GRANOLA Appel Bessen 400g",
-          "variant_key": "colruyt:4815410"
-        }
-      ],
-      "root_id": "be:grp:0589"
     },
     {
       "categorie": "pantry",
@@ -12662,25 +12586,6 @@
         }
       ],
       "root_id": "be:grp:0699"
-    },
-    {
-      "categorie": null,
-      "concept": null,
-      "display_name": "Attraps smoelentrekkers",
-      "match_keys": [
-        "kathy:attraps smoelentrekkers"
-      ],
-      "members": [
-        {
-          "brand": "KATHY",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "KATHY Attraps smoelentrekkers 200g",
-          "variant_key": "colruyt:4802835"
-        }
-      ],
-      "root_id": "be:grp:0700"
     },
     {
       "categorie": "vegetables",
@@ -19460,14 +19365,6 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "HEINZ Tomato ketchup 5,1L",
-          "variant_key": "colruyt:3041716"
-        },
-        {
-          "brand": "HEINZ",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
           "variant": "HEINZ Tomato ketchup 500ml",
           "variant_key": "colruyt:2374645"
         },
@@ -19580,7 +19477,7 @@
     {
       "categorie": "beverages",
       "concept": "tonic",
-      "display_name": "tonic",
+      "display_name": "Tonic",
       "match_keys": [
         "boni:tonic"
       ],
@@ -19590,7 +19487,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "BONI tonic 50cl",
+          "variant": "BONI Tonic 50cl",
           "variant_key": "colruyt:1350951"
         }
       ],
@@ -19699,7 +19596,7 @@
     {
       "categorie": "beverages",
       "concept": "tonic",
-      "display_name": "tonic zero",
+      "display_name": "Tonic Zero",
       "match_keys": [
         "boni:tonic zero"
       ],
@@ -19709,7 +19606,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "BONI tonic zero 50cl",
+          "variant": "BONI Tonic Zero 50cl",
           "variant_key": "colruyt:3734468"
         }
       ],
@@ -21403,25 +21300,6 @@
     {
       "categorie": "alcohol",
       "concept": "beer",
-      "display_name": "Trappist 150 10%",
-      "match_keys": [
-        "chimay:trappist 150 10%"
-      ],
-      "members": [
-        {
-          "brand": "CHIMAY",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "CHIMAY Trappist 150 10% 4x33cl",
-          "variant_key": "colruyt:4867851"
-        }
-      ],
-      "root_id": "be:grp:10193"
-    },
-    {
-      "categorie": "alcohol",
-      "concept": "beer",
       "display_name": "trappist 6,2%vol",
       "match_keys": [
         "orval:trappist 6,2%vol"
@@ -21589,6 +21467,25 @@
         }
       ],
       "root_id": "be:grp:10201"
+    },
+    {
+      "categorie": "alcohol",
+      "concept": "beer",
+      "display_name": "Trappist rood 7,0%",
+      "match_keys": [
+        "chimay:trappist rood 7,0%"
+      ],
+      "members": [
+        {
+          "brand": "CHIMAY",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "CHIMAY Trappist rood 7,0% 6x33cl",
+          "variant_key": "colruyt:4972886"
+        }
+      ],
+      "root_id": "be:grp:10202"
     },
     {
       "categorie": "alcohol",
@@ -22437,6 +22334,25 @@
     {
       "categorie": "personalCare",
       "concept": null,
+      "display_name": "triple energy",
+      "match_keys": [
+        "biover:triple energy"
+      ],
+      "members": [
+        {
+          "brand": "BIOVER",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BIOVER triple energy 20st",
+          "variant_key": "colruyt:4659819"
+        }
+      ],
+      "root_id": "be:grp:10247"
+    },
+    {
+      "categorie": "personalCare",
+      "concept": null,
       "display_name": "triple magnesium",
       "match_keys": [
         "biover:triple magnesium"
@@ -22452,25 +22368,6 @@
         }
       ],
       "root_id": "be:grp:10248"
-    },
-    {
-      "categorie": "frozenMeals",
-      "concept": null,
-      "display_name": "Triple Meat",
-      "match_keys": [
-        "dr.oetker big americans:triple meat"
-      ],
-      "members": [
-        {
-          "brand": "DR.OETKER BIG AMERICANS",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "DR.OETKER BIG AMERICANS Triple Meat 565g",
-          "variant_key": "colruyt:4958685"
-        }
-      ],
-      "root_id": "be:grp:10249"
     },
     {
       "categorie": "personalCare",
@@ -27486,25 +27383,6 @@
         }
       ],
       "root_id": "be:grp:10503"
-    },
-    {
-      "categorie": "cheese",
-      "concept": null,
-      "display_name": "Vers geitenkaas rozemarijn",
-      "match_keys": [
-        "rians:vers geitenkaas rozemarijn"
-      ],
-      "members": [
-        {
-          "brand": "RIANS",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "RIANS Vers geitenkaas rozemarijn 125g",
-          "variant_key": "colruyt:4948158"
-        }
-      ],
-      "root_id": "be:grp:10504"
     },
     {
       "categorie": "bakingFlour",
@@ -33402,25 +33280,6 @@
         }
       ],
       "root_id": "be:grp:10801"
-    },
-    {
-      "categorie": null,
-      "concept": null,
-      "display_name": "Voorruit 130x60cm",
-      "match_keys": [
-        "boni:voorruit 130x60cm"
-      ],
-      "members": [
-        {
-          "brand": "BONI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI Voorruit 130x60cm",
-          "variant_key": "colruyt:4783655"
-        }
-      ],
-      "root_id": "be:grp:10803"
     },
     {
       "categorie": "household",
@@ -44375,25 +44234,6 @@
       "root_id": "be:grp:11346"
     },
     {
-      "categorie": "fish",
-      "concept": null,
-      "display_name": "Zalmbrazade",
-      "match_keys": [
-        "boni:zalmbrazade"
-      ],
-      "members": [
-        {
-          "brand": "BONI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI Zalmbrazade ±250g",
-          "variant_key": "colruyt:4791172"
-        }
-      ],
-      "root_id": "be:grp:11347"
-    },
-    {
       "categorie": "frozenMeals",
       "concept": null,
       "display_name": "Zalmburger",
@@ -46490,6 +46330,25 @@
       "root_id": "be:grp:11442"
     },
     {
+      "categorie": "beverages",
+      "concept": null,
+      "display_name": "Zestra 0,3%",
+      "match_keys": [
+        "troubadour:zestra 0,3%"
+      ],
+      "members": [
+        {
+          "brand": "TROUBADOUR",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "TROUBADOUR Zestra 0,3% 4x33cl",
+          "variant_key": "colruyt:4971091"
+        }
+      ],
+      "root_id": "be:grp:11443"
+    },
+    {
       "categorie": "pantry",
       "concept": null,
       "display_name": "zetmeel aardappel",
@@ -48228,6 +48087,14 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
+          "variant": "LA CROIX allesreiniger met javel 1,5L",
+          "variant_key": "colruyt:4974927"
+        },
+        {
+          "brand": "LA CROIX",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
           "variant": "LA CROIX allesreiniger met javel 5L",
           "variant_key": "colruyt:4972553"
         }
@@ -49594,7 +49461,7 @@
           "ean": null,
           "provenance": "scraped",
           "variant": "KASTEEL Donker 11% 6x33cl",
-          "variant_key": "colruyt:5277"
+          "variant_key": "colruyt:4975084"
         }
       ],
       "root_id": "be:grp:11609"
@@ -51065,9 +50932,10 @@
     {
       "categorie": null,
       "concept": null,
-      "display_name": "kastanjepompoen",
+      "display_name": "Kastanjepompoen",
       "match_keys": [
-        "boni bio:kastanjepompoen"
+        "boni bio:kastanjepompoen",
+        "kastanjepompoen"
       ],
       "members": [
         {
@@ -51077,6 +50945,14 @@
           "provenance": "scraped",
           "variant": "BONI BIO kastanjepompoen",
           "variant_key": "colruyt:2199631"
+        },
+        {
+          "brand": "",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Kastanjepompoen",
+          "variant_key": "colruyt:1466009"
         }
       ],
       "root_id": "be:grp:11683"
@@ -53975,6 +53851,25 @@
       "root_id": "be:grp:11822"
     },
     {
+      "categorie": "alcohol",
+      "concept": "beer",
+      "display_name": "Scotch Ale 8%",
+      "match_keys": [
+        "gordon:scotch ale 8%"
+      ],
+      "members": [
+        {
+          "brand": "GORDON",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "GORDON Scotch Ale 8% 6x33cl",
+          "variant_key": "colruyt:4975032"
+        }
+      ],
+      "root_id": "be:grp:11823"
+    },
+    {
       "categorie": "personalCare",
       "concept": null,
       "display_name": "serum Lipstick 002 Maybe It s",
@@ -54361,25 +54256,6 @@
         }
       ],
       "root_id": "be:grp:11841"
-    },
-    {
-      "categorie": "beverages",
-      "concept": null,
-      "display_name": "Special Export 8%",
-      "match_keys": [
-        "guinness:special export 8%"
-      ],
-      "members": [
-        {
-          "brand": "GUINNESS",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "GUINNESS Special Export 8% 6x33cl",
-          "variant_key": "colruyt:5109"
-        }
-      ],
-      "root_id": "be:grp:11842"
     },
     {
       "categorie": "personalCare",
@@ -54855,25 +54731,6 @@
         }
       ],
       "root_id": "be:grp:11866"
-    },
-    {
-      "categorie": "pantry",
-      "concept": "soup",
-      "display_name": "Tomatensoep kippenballetjes",
-      "match_keys": [
-        "liebig:tomatensoep kippenballetjes"
-      ],
-      "members": [
-        {
-          "brand": "LIEBIG",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "LIEBIG Tomatensoep kippenballetjes 500ml",
-          "variant_key": "colruyt:4741581"
-        }
-      ],
-      "root_id": "be:grp:11867"
     },
     {
       "categorie": "personalCare",
@@ -58269,25 +58126,6 @@
         }
       ],
       "root_id": "be:grp:12029"
-    },
-    {
-      "categorie": "alcohol",
-      "concept": null,
-      "display_name": "Blaye Bio",
-      "match_keys": [
-        "ch.de castets:blaye bio"
-      ],
-      "members": [
-        {
-          "brand": "CH.DE CASTETS",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "CH.DE CASTETS Blaye Bio 75cl",
-          "variant_key": "colruyt:4910318"
-        }
-      ],
-      "root_id": "be:grp:1203"
     },
     {
       "categorie": "dairy",
@@ -95245,25 +95083,6 @@
       "root_id": "be:grp:13799"
     },
     {
-      "categorie": "dairy",
-      "concept": null,
-      "display_name": "bosv/vijg/fram/prui/rab",
-      "match_keys": [
-        "activia:bosv/vijg/fram/prui/rab"
-      ],
-      "members": [
-        {
-          "brand": "ACTIVIA",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "ACTIVIA bosv/vijg/fram/prui/rab 8x125g",
-          "variant_key": "colruyt:3021240"
-        }
-      ],
-      "root_id": "be:grp:1380"
-    },
-    {
       "categorie": "meat",
       "concept": null,
       "display_name": "Varkens en kalfschipolata gerold bel",
@@ -105754,25 +105573,6 @@
         }
       ],
       "root_id": "be:grp:14298"
-    },
-    {
-      "categorie": "vegetables",
-      "concept": "potato",
-      "display_name": "primeur krielaardappelen",
-      "match_keys": [
-        "boni:primeur krielaardappelen"
-      ],
-      "members": [
-        {
-          "brand": "BONI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI primeur krielaardappelen 2kg",
-          "variant_key": "colruyt:2472764"
-        }
-      ],
-      "root_id": "be:grp:14299"
     },
     {
       "categorie": "saucesCondiments",
@@ -116935,25 +116735,6 @@
     },
     {
       "categorie": "household",
-      "concept": "cleaner",
-      "display_name": "allesreiniger",
-      "match_keys": [
-        "eezym:allesreiniger"
-      ],
-      "members": [
-        {
-          "brand": "EEZYM",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "EEZYM allesreiniger 1L",
-          "variant_key": "colruyt:4828314"
-        }
-      ],
-      "root_id": "be:grp:14836"
-    },
-    {
-      "categorie": "household",
       "concept": null,
       "display_name": "Wasmachinereiniger",
       "match_keys": [
@@ -118568,25 +118349,6 @@
       "root_id": "be:grp:14913"
     },
     {
-      "categorie": "frozenMeals",
-      "concept": "croquette",
-      "display_name": "aardappelkroketten",
-      "match_keys": [
-        "everyday:aardappelkroketten"
-      ],
-      "members": [
-        {
-          "brand": "EVERYDAY",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "EVERYDAY aardappelkroketten 2,5kg",
-          "variant_key": "colruyt:3052282"
-        }
-      ],
-      "root_id": "be:grp:14914"
-    },
-    {
       "categorie": "household",
       "concept": "dish-soap",
       "display_name": "afwasmiddel citroen",
@@ -119781,11 +119543,11 @@
       "root_id": "be:grp:14971"
     },
     {
-      "categorie": "saucesCondiments",
+      "categorie": null,
       "concept": null,
-      "display_name": "nootmuskaat gemalen",
+      "display_name": "Nootmuskaatmengel.Gemalen",
       "match_keys": [
-        "everyday:nootmuskaat gemalen"
+        "everyday:nootmuskaatmengel.gemalen"
       ],
       "members": [
         {
@@ -119793,7 +119555,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "EVERYDAY nootmuskaat gemalen 105g",
+          "variant": "EVERYDAY Nootmuskaatmengel.Gemalen 105g",
           "variant_key": "colruyt:4776900"
         }
       ],
@@ -119988,25 +119750,6 @@
         }
       ],
       "root_id": "be:grp:14981"
-    },
-    {
-      "categorie": "fruit",
-      "concept": "peach",
-      "display_name": "perziken",
-      "match_keys": [
-        "everyday:perziken"
-      ],
-      "members": [
-        {
-          "brand": "EVERYDAY",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "EVERYDAY perziken 1kg",
-          "variant_key": "colruyt:2514241"
-        }
-      ],
-      "root_id": "be:grp:14982"
     },
     {
       "categorie": "beverages",
@@ -122640,14 +122383,6 @@
         "galbani:burrata"
       ],
       "members": [
-        {
-          "brand": "GALBANI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "GALBANI Burrata 100g",
-          "variant_key": "colruyt:4945411"
-        },
         {
           "brand": "Galbani",
           "chain": "ah",
@@ -133201,10 +132936,10 @@
     },
     {
       "categorie": "beverages",
-      "concept": "coffee",
-      "display_name": "Bonen Espresso",
+      "concept": null,
+      "display_name": "Bonen Espresso Ita.Aromatico",
       "match_keys": [
-        "lavazza:bonen espresso"
+        "lavazza:bonen espresso ita.aromatico"
       ],
       "members": [
         {
@@ -133212,7 +132947,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "LAVAZZA Bonen Espresso 1kg",
+          "variant": "LAVAZZA Bonen Espresso Ita.Aromatico 1kg",
           "variant_key": "colruyt:4588116"
         }
       ],
@@ -133625,7 +133360,7 @@
     {
       "categorie": "beverages",
       "concept": "sparkling-water",
-      "display_name": "bruisend water citroen",
+      "display_name": "Bruisend water citroen",
       "match_keys": [
         "boni:bruisend water citroen"
       ],
@@ -133635,7 +133370,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "BONI bruisend water citroen 50cl",
+          "variant": "BONI Bruisend water citroen 50cl",
           "variant_key": "colruyt:3480081"
         }
       ],
@@ -137417,25 +137152,6 @@
       "root_id": "be:grp:15809"
     },
     {
-      "categorie": "snacksSweets",
-      "concept": null,
-      "display_name": "BTS Limited Edition",
-      "match_keys": [
-        "oreo:bts limited edition"
-      ],
-      "members": [
-        {
-          "brand": "OREO",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "OREO BTS Limited Edition 157g",
-          "variant_key": "colruyt:4968238"
-        }
-      ],
-      "root_id": "be:grp:1581"
-    },
-    {
       "categorie": "dairy",
       "concept": null,
       "display_name": "Protein aardbei & framboos shake",
@@ -139885,25 +139601,6 @@
         }
       ],
       "root_id": "be:grp:15929"
-    },
-    {
-      "categorie": "dairy",
-      "concept": null,
-      "display_name": "buffelmozzarel.vlecht",
-      "match_keys": [
-        "la contadina:buffelmozzarel.vlecht"
-      ],
-      "members": [
-        {
-          "brand": "LA CONTADINA",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "LA CONTADINA buffelmozzarel.vlecht 250g",
-          "variant_key": "colruyt:3131010"
-        }
-      ],
-      "root_id": "be:grp:1593"
     },
     {
       "categorie": "saucesCondiments",
@@ -145454,25 +145151,6 @@
       "root_id": "be:grp:16199"
     },
     {
-      "categorie": "cheese",
-      "concept": "burrata",
-      "display_name": "Burrata met basilicum",
-      "match_keys": [
-        "ignalat:burrata met basilicum"
-      ],
-      "members": [
-        {
-          "brand": "IGNALAT",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "IGNALAT Burrata met basilicum 125g",
-          "variant_key": "colruyt:4949385"
-        }
-      ],
-      "root_id": "be:grp:1620"
-    },
-    {
       "categorie": "baby",
       "concept": "baby-food",
       "display_name": "Knijpfruit apple, peach & mango 12m+",
@@ -150489,25 +150167,6 @@
         }
       ],
       "root_id": "be:grp:1644"
-    },
-    {
-      "categorie": "dairy",
-      "concept": null,
-      "display_name": "light",
-      "match_keys": [
-        "salakis:light"
-      ],
-      "members": [
-        {
-          "brand": "SALAKIS",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "SALAKIS light 200g",
-          "variant_key": "colruyt:4100760"
-        }
-      ],
-      "root_id": "be:grp:16440"
     },
     {
       "categorie": "meat",
@@ -303802,25 +303461,6 @@
       "root_id": "be:grp:23909"
     },
     {
-      "categorie": "alcohol",
-      "concept": "wine",
-      "display_name": "Côtes du Rhône wit",
-      "match_keys": [
-        "la fanfinette:cotes du rhone wit"
-      ],
-      "members": [
-        {
-          "brand": "LA FANFINETTE",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "LA FANFINETTE Côtes du Rhône wit 75cl",
-          "variant_key": "colruyt:4089758"
-        }
-      ],
-      "root_id": "be:grp:2391"
-    },
-    {
       "categorie": "meat",
       "concept": null,
       "display_name": "Amatriciana",
@@ -329722,6 +329362,120 @@
       "root_id": "be:grp:25163"
     },
     {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "Pompoen Net Cacoa Fantasy",
+      "match_keys": [
+        "abs sweets:pompoen net cacoa fantasy"
+      ],
+      "members": [
+        {
+          "brand": "ABS SWEETS",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "ABS SWEETS Pompoen Net Cacoa Fantasy 80g",
+          "variant_key": "colruyt:4960239"
+        }
+      ],
+      "root_id": "be:grp:25164"
+    },
+    {
+      "categorie": "dairy",
+      "concept": null,
+      "display_name": "Kefir perzik passievrucht",
+      "match_keys": [
+        "activia:kefir perzik passievrucht"
+      ],
+      "members": [
+        {
+          "brand": "ACTIVIA",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "ACTIVIA Kefir perzik passievrucht 4x125g",
+          "variant_key": "colruyt:4979264"
+        }
+      ],
+      "root_id": "be:grp:25165"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "halloween chocoladem.",
+      "match_keys": [
+        "albert premier:halloween chocoladem."
+      ],
+      "members": [
+        {
+          "brand": "ALBERT PREMIER",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "ALBERT PREMIER halloween chocoladem. 75g",
+          "variant_key": "colruyt:4841540"
+        }
+      ],
+      "root_id": "be:grp:25166"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "Reep Peanut Butter",
+      "match_keys": [
+        "amanda:reep peanut butter"
+      ],
+      "members": [
+        {
+          "brand": "AMANDA",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "AMANDA Reep Peanut Butter 35g",
+          "variant_key": "colruyt:4976284"
+        }
+      ],
+      "root_id": "be:grp:25167"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "Reep Raspberry",
+      "match_keys": [
+        "amanda:reep raspberry"
+      ],
+      "members": [
+        {
+          "brand": "AMANDA",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "AMANDA Reep Raspberry 35g",
+          "variant_key": "colruyt:4976286"
+        }
+      ],
+      "root_id": "be:grp:25168"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "Gum Halloween Witche.Noodle Cup",
+      "match_keys": [
+        "bip:gum halloween witche.noodle cup"
+      ],
+      "members": [
+        {
+          "brand": "BIP",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BIP Gum Halloween Witche.Noodle Cup 100g",
+          "variant_key": "colruyt:4959946"
+        }
+      ],
+      "root_id": "be:grp:25169"
+    },
+    {
       "categorie": "pantry",
       "concept": null,
       "display_name": "Crispy chilli",
@@ -329739,6 +329493,196 @@
         }
       ],
       "root_id": "be:grp:2517"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "Lolly Halloween Pop Up",
+      "match_keys": [
+        "bip:lolly halloween pop up"
+      ],
+      "members": [
+        {
+          "brand": "BIP",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BIP Lolly Halloween Pop Up 10g",
+          "variant_key": "colruyt:4739912"
+        }
+      ],
+      "root_id": "be:grp:25170"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "boerenkool",
+      "match_keys": [
+        "boerenkool"
+      ],
+      "members": [
+        {
+          "brand": "",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "boerenkool 350g",
+          "variant_key": "colruyt:3405977"
+        }
+      ],
+      "root_id": "be:grp:25171"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "aardappel",
+      "match_keys": [
+        "boni bio:aardappel"
+      ],
+      "members": [
+        {
+          "brand": "BONI BIO",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BONI BIO aardappel 2,5kg",
+          "variant_key": "colruyt:3458126"
+        }
+      ],
+      "root_id": "be:grp:25172"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "aardappel vastkokend",
+      "match_keys": [
+        "boni bio:aardappel vastkokend"
+      ],
+      "members": [
+        {
+          "brand": "BONI BIO",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BONI BIO aardappel vastkokend 2,5kg",
+          "variant_key": "colruyt:4020422"
+        }
+      ],
+      "root_id": "be:grp:25173"
+    },
+    {
+      "categorie": "vegetables",
+      "concept": "potato",
+      "display_name": "krielaardappelen",
+      "match_keys": [
+        "boni bio:krielaardappelen"
+      ],
+      "members": [
+        {
+          "brand": "BONI BIO",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BONI BIO krielaardappelen 1kg",
+          "variant_key": "colruyt:1884840"
+        }
+      ],
+      "root_id": "be:grp:25174"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "Belg.krieken ontpit siroop bok",
+      "match_keys": [
+        "boni:belg.krieken ontpit siroop bok"
+      ],
+      "members": [
+        {
+          "brand": "BONI",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BONI Belg.krieken ontpit siroop bok 340g",
+          "variant_key": "colruyt:3358009"
+        }
+      ],
+      "root_id": "be:grp:25175"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "gekleurde wortelen",
+      "match_keys": [
+        "boni:gekleurde wortelen"
+      ],
+      "members": [
+        {
+          "brand": "BONI",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BONI gekleurde wortelen 600g",
+          "variant_key": "colruyt:3773607"
+        }
+      ],
+      "root_id": "be:grp:25176"
+    },
+    {
+      "categorie": "vegetables",
+      "concept": "potato",
+      "display_name": "krielaardappelen",
+      "match_keys": [
+        "boni:krielaardappelen"
+      ],
+      "members": [
+        {
+          "brand": "BONI",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BONI krielaardappelen 2kg",
+          "variant_key": "colruyt:1889971"
+        }
+      ],
+      "root_id": "be:grp:25177"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "Laurette aardappelen",
+      "match_keys": [
+        "boni:laurette aardappelen"
+      ],
+      "members": [
+        {
+          "brand": "BONI",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BONI Laurette aardappelen 2,5kg",
+          "variant_key": "colruyt:3331449"
+        }
+      ],
+      "root_id": "be:grp:25178"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "ringschrift comm geruit A4",
+      "match_keys": [
+        "boni:ringschrift comm geruit a4"
+      ],
+      "members": [
+        {
+          "brand": "BONI",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BONI ringschrift comm geruit A4",
+          "variant_key": "colruyt:4854195"
+        }
+      ],
+      "root_id": "be:grp:25179"
     },
     {
       "categorie": "snacksSweets",
@@ -329760,6 +329704,196 @@
       "root_id": "be:grp:2518"
     },
     {
+      "categorie": null,
+      "concept": null,
+      "display_name": "schelvishaasje graatl. MSC",
+      "match_keys": [
+        "boni:schelvishaasje graatl. msc"
+      ],
+      "members": [
+        {
+          "brand": "BONI",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BONI schelvishaasje graatl. MSC ±250g",
+          "variant_key": "colruyt:3458880"
+        }
+      ],
+      "root_id": "be:grp:25180"
+    },
+    {
+      "categorie": "dairy",
+      "concept": null,
+      "display_name": "Skyr Aardbei",
+      "match_keys": [
+        "boni:skyr aardbei"
+      ],
+      "members": [
+        {
+          "brand": "BONI",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BONI Skyr Aardbei 500g",
+          "variant_key": "colruyt:4948903"
+        }
+      ],
+      "root_id": "be:grp:25181"
+    },
+    {
+      "categorie": "dairy",
+      "concept": null,
+      "display_name": "Skyr Vanille",
+      "match_keys": [
+        "boni:skyr vanille"
+      ],
+      "members": [
+        {
+          "brand": "BONI",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "BONI Skyr Vanille 500g",
+          "variant_key": "colruyt:4948890"
+        }
+      ],
+      "root_id": "be:grp:25182"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "Ghost Pops | Halloween",
+      "match_keys": [
+        "cand'art:ghost pops | halloween"
+      ],
+      "members": [
+        {
+          "brand": "CAND'ART",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "CAND'ART Ghost Pops | Halloween 100g",
+          "variant_key": "colruyt:4822609"
+        }
+      ],
+      "root_id": "be:grp:25183"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "Marshmalloween",
+      "match_keys": [
+        "candypack:marshmalloween"
+      ],
+      "members": [
+        {
+          "brand": "CANDYPACK",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "CANDYPACK Marshmalloween 150g",
+          "variant_key": "colruyt:4966218"
+        }
+      ],
+      "root_id": "be:grp:25184"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "Puntzakje met snoepmix",
+      "match_keys": [
+        "candypack:puntzakje met snoepmix"
+      ],
+      "members": [
+        {
+          "brand": "CANDYPACK",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "CANDYPACK Puntzakje met snoepmix 150g",
+          "variant_key": "colruyt:4962290"
+        }
+      ],
+      "root_id": "be:grp:25185"
+    },
+    {
+      "categorie": "personalCare",
+      "concept": null,
+      "display_name": "tandpasta max coffe",
+      "match_keys": [
+        "colgate:tandpasta max coffe"
+      ],
+      "members": [
+        {
+          "brand": "COLGATE",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "COLGATE tandpasta max coffe 75ml",
+          "variant_key": "colruyt:4951072"
+        }
+      ],
+      "root_id": "be:grp:25186"
+    },
+    {
+      "categorie": "dairy",
+      "concept": null,
+      "display_name": "Yoghurt vanille",
+      "match_keys": [
+        "danone grecque:yoghurt vanille"
+      ],
+      "members": [
+        {
+          "brand": "DANONE GRECQUE",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "DANONE GRECQUE Yoghurt vanille 4x110g",
+          "variant_key": "colruyt:4972415"
+        }
+      ],
+      "root_id": "be:grp:25187"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "sh.color vive / nutri-gloss",
+      "match_keys": [
+        "elseve:sh.color vive / nutri-gloss"
+      ],
+      "members": [
+        {
+          "brand": "ELSEVE",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "ELSEVE sh.color vive / nutri-gloss 500ml",
+          "variant_key": "colruyt:4879569"
+        }
+      ],
+      "root_id": "be:grp:25188"
+    },
+    {
+      "categorie": "pantry",
+      "concept": null,
+      "display_name": "ramen wasser pro",
+      "match_keys": [
+        "eres:ramen wasser pro"
+      ],
+      "members": [
+        {
+          "brand": "ERES",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "ERES ramen wasser pro 750ml",
+          "variant_key": "colruyt:4976110"
+        }
+      ],
+      "root_id": "be:grp:25189"
+    },
+    {
       "categorie": "meat",
       "concept": "chicken",
       "display_name": "Crispy Drumz",
@@ -329777,6 +329911,196 @@
         }
       ],
       "root_id": "be:grp:2519"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "aardappelen vastkokend",
+      "match_keys": [
+        "everyday:aardappelen vastkokend"
+      ],
+      "members": [
+        {
+          "brand": "EVERYDAY",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "EVERYDAY aardappelen vastkokend 5kg",
+          "variant_key": "colruyt:1385684"
+        }
+      ],
+      "root_id": "be:grp:25190"
+    },
+    {
+      "categorie": "cheese",
+      "concept": null,
+      "display_name": "Gouda sneetjes",
+      "match_keys": [
+        "fairebel:gouda sneetjes"
+      ],
+      "members": [
+        {
+          "brand": "FAIREBEL",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "FAIREBEL Gouda sneetjes 170g",
+          "variant_key": "colruyt:4926735"
+        }
+      ],
+      "root_id": "be:grp:25191"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "Hosties Tongue Painter Ufo",
+      "match_keys": [
+        "frisia:hosties tongue painter ufo"
+      ],
+      "members": [
+        {
+          "brand": "FRISIA",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "FRISIA Hosties Tongue Painter Ufo 40g",
+          "variant_key": "colruyt:4914987"
+        }
+      ],
+      "root_id": "be:grp:25192"
+    },
+    {
+      "categorie": "beverages",
+      "concept": null,
+      "display_name": "Trip+onderlegg.gr.",
+      "match_keys": [
+        "gouden carolus:trip+onderlegg.gr."
+      ],
+      "members": [
+        {
+          "brand": "GOUDEN CAROLUS",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "GOUDEN CAROLUS Trip+onderlegg.gr. 4x33cl",
+          "variant_key": "colruyt:4955719"
+        }
+      ],
+      "root_id": "be:grp:25193"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "Groen kool Savooikool",
+      "match_keys": [
+        "groen kool savooikool"
+      ],
+      "members": [
+        {
+          "brand": "",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Groen kool Savooikool 1st",
+          "variant_key": "colruyt:29663"
+        }
+      ],
+      "root_id": "be:grp:25194"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "Trick or Treat",
+      "match_keys": [
+        "haribo:trick or treat"
+      ],
+      "members": [
+        {
+          "brand": "HARIBO",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "HARIBO Trick or Treat 512g",
+          "variant_key": "colruyt:4958932"
+        }
+      ],
+      "root_id": "be:grp:25195"
+    },
+    {
+      "categorie": "personalCare",
+      "concept": null,
+      "display_name": "Duorub Dag en nacht",
+      "match_keys": [
+        "humer:duorub dag en nacht"
+      ],
+      "members": [
+        {
+          "brand": "HUMER",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "HUMER Duorub Dag en nacht 15st",
+          "variant_key": "colruyt:4954069"
+        }
+      ],
+      "root_id": "be:grp:25196"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "Granola Prot.Cranber.Apple",
+      "match_keys": [
+        "jordans:granola prot.cranber.apple"
+      ],
+      "members": [
+        {
+          "brand": "JORDANS",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "JORDANS Granola Prot.Cranber.Apple 400g",
+          "variant_key": "colruyt:4968208"
+        }
+      ],
+      "root_id": "be:grp:25197"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "Halloween",
+      "match_keys": [
+        "joris:halloween"
+      ],
+      "members": [
+        {
+          "brand": "JORIS",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "JORIS Halloween 225g",
+          "variant_key": "colruyt:4967090"
+        }
+      ],
+      "root_id": "be:grp:25198"
+    },
+    {
+      "categorie": "alcohol",
+      "concept": null,
+      "display_name": "CDR Villages Séguret",
+      "match_keys": [
+        "les hauts rocs:cdr villages seguret"
+      ],
+      "members": [
+        {
+          "brand": "LES HAUTS ROCS",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "LES HAUTS ROCS CDR Villages Séguret 75cl",
+          "variant_key": "colruyt:4937870"
+        }
+      ],
+      "root_id": "be:grp:25199"
     },
     {
       "categorie": "frozenMeals",
@@ -329798,6 +330122,196 @@
       "root_id": "be:grp:2520"
     },
     {
+      "categorie": null,
+      "concept": null,
+      "display_name": "Cake Donut Halloween",
+      "match_keys": [
+        "lotus:cake donut halloween"
+      ],
+      "members": [
+        {
+          "brand": "LOTUS",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "LOTUS Cake Donut Halloween 6x34g",
+          "variant_key": "colruyt:4895694"
+        }
+      ],
+      "root_id": "be:grp:25200"
+    },
+    {
+      "categorie": "alcohol",
+      "concept": null,
+      "display_name": "Sparkling Extra Dry",
+      "match_keys": [
+        "manana:sparkling extra dry"
+      ],
+      "members": [
+        {
+          "brand": "MAÑANA",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "MAÑANA Sparkling Extra Dry 75cl",
+          "variant_key": "colruyt:4955457"
+        }
+      ],
+      "root_id": "be:grp:25201"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "lollies heks pompoen",
+      "match_keys": [
+        "martichoc:lollies heks pompoen"
+      ],
+      "members": [
+        {
+          "brand": "MARTICHOC",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "MARTICHOC lollies heks pompoen 20g",
+          "variant_key": "colruyt:4828071"
+        }
+      ],
+      "root_id": "be:grp:25202"
+    },
+    {
+      "categorie": "frozenMeals",
+      "concept": null,
+      "display_name": "Frieten Belgisch",
+      "match_keys": [
+        "mccain:frieten belgisch"
+      ],
+      "members": [
+        {
+          "brand": "MCCAIN",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "MCCAIN Frieten Belgisch 1050g",
+          "variant_key": "colruyt:4974597"
+        }
+      ],
+      "root_id": "be:grp:25203"
+    },
+    {
+      "categorie": "saucesCondiments",
+      "concept": null,
+      "display_name": "Tomatensaus Datterini tomaten",
+      "match_keys": [
+        "mutti:tomatensaus datterini tomaten"
+      ],
+      "members": [
+        {
+          "brand": "MUTTI",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "MUTTI Tomatensaus Datterini tomaten 400g",
+          "variant_key": "colruyt:4972823"
+        }
+      ],
+      "root_id": "be:grp:25204"
+    },
+    {
+      "categorie": "personalCare",
+      "concept": null,
+      "display_name": "deo Solar Sparks/Floral Moon",
+      "match_keys": [
+        "nivea:deo solar sparks/floral moon"
+      ],
+      "members": [
+        {
+          "brand": "NIVEA",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "NIVEA deo Solar Sparks/Floral Moon 150ml",
+          "variant_key": "colruyt:4975695"
+        }
+      ],
+      "root_id": "be:grp:25205"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "Pastinaak (los)",
+      "match_keys": [
+        "pastinaak (los)"
+      ],
+      "members": [
+        {
+          "brand": "",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Pastinaak (los)",
+          "variant_key": "colruyt:2968533"
+        }
+      ],
+      "root_id": "be:grp:25206"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "Pompoen Crown Prince Crown prince",
+      "match_keys": [
+        "pompoen crown prince crown prince"
+      ],
+      "members": [
+        {
+          "brand": "",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Pompoen Crown Prince Crown prince",
+          "variant_key": "colruyt:3485066"
+        }
+      ],
+      "root_id": "be:grp:25207"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "Sharon per stuk",
+      "match_keys": [
+        "sharon per stuk"
+      ],
+      "members": [
+        {
+          "brand": "",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Sharon per stuk 1st",
+          "variant_key": "colruyt:29772"
+        }
+      ],
+      "root_id": "be:grp:25208"
+    },
+    {
+      "categorie": "petFood",
+      "concept": null,
+      "display_name": "kat filets witvis",
+      "match_keys": [
+        "sheba:kat filets witvis"
+      ],
+      "members": [
+        {
+          "brand": "SHEBA",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "SHEBA kat filets witvis 4x60g",
+          "variant_key": "colruyt:4922091"
+        }
+      ],
+      "root_id": "be:grp:25209"
+    },
+    {
       "categorie": "frozenMeals",
       "concept": null,
       "display_name": "Crispy Fish Tomato",
@@ -329817,6 +330331,196 @@
       "root_id": "be:grp:2521"
     },
     {
+      "categorie": "beverages",
+      "concept": null,
+      "display_name": "Caps Pumpkin Spice Latte",
+      "match_keys": [
+        "starbucks:caps pumpkin spice latte"
+      ],
+      "members": [
+        {
+          "brand": "STARBUCKS",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "STARBUCKS Caps Pumpkin Spice Latte 12st",
+          "variant_key": "colruyt:4845899"
+        }
+      ],
+      "root_id": "be:grp:25210"
+    },
+    {
+      "categorie": "meat",
+      "concept": null,
+      "display_name": "sudtyrolerspeck",
+      "match_keys": [
+        "sudtyrolerspeck"
+      ],
+      "members": [
+        {
+          "brand": "",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "sudtyrolerspeck",
+          "variant_key": "colruyt:2928658"
+        }
+      ],
+      "root_id": "be:grp:25211"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "Halloween Mix",
+      "match_keys": [
+        "trolli:halloween mix"
+      ],
+      "members": [
+        {
+          "brand": "TROLLI",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "TROLLI Halloween Mix 360g",
+          "variant_key": "colruyt:4731460"
+        }
+      ],
+      "root_id": "be:grp:25212"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "Tarantula",
+      "match_keys": [
+        "trolli:tarantula"
+      ],
+      "members": [
+        {
+          "brand": "TROLLI",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "TROLLI Tarantula 150g",
+          "variant_key": "colruyt:4821790"
+        }
+      ],
+      "root_id": "be:grp:25213"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "spray kruipende insecten",
+      "match_keys": [
+        "vapona:spray kruipende insecten"
+      ],
+      "members": [
+        {
+          "brand": "VAPONA",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "VAPONA spray kruipende insecten 400ml",
+          "variant_key": "colruyt:4971049"
+        }
+      ],
+      "root_id": "be:grp:25214"
+    },
+    {
+      "categorie": null,
+      "concept": null,
+      "display_name": "verse walnoten vrac",
+      "match_keys": [
+        "verse walnoten vrac"
+      ],
+      "members": [
+        {
+          "brand": "",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "verse walnoten vrac",
+          "variant_key": "colruyt:29764"
+        }
+      ],
+      "root_id": "be:grp:25215"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "Peperkoek R.T.G.Cranb.",
+      "match_keys": [
+        "vondelmolen:peperkoek r.t.g.cranb."
+      ],
+      "members": [
+        {
+          "brand": "VONDELMOLEN",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "VONDELMOLEN Peperkoek R.T.G.Cranb. 6x30g",
+          "variant_key": "colruyt:4970155"
+        }
+      ],
+      "root_id": "be:grp:25216"
+    },
+    {
+      "categorie": "snacksSweets",
+      "concept": null,
+      "display_name": "Peperkoek R.T.G.Natuur",
+      "match_keys": [
+        "vondelmolen:peperkoek r.t.g.natuur"
+      ],
+      "members": [
+        {
+          "brand": "VONDELMOLEN",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "VONDELMOLEN Peperkoek R.T.G.Natuur 6x27g",
+          "variant_key": "colruyt:4970159"
+        }
+      ],
+      "root_id": "be:grp:25217"
+    },
+    {
+      "categorie": "household",
+      "concept": null,
+      "display_name": "charbon active whitening",
+      "match_keys": [
+        "wc net:charbon active whitening"
+      ],
+      "members": [
+        {
+          "brand": "WC NET",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "WC NET charbon active whitening 750ml",
+          "variant_key": "colruyt:4972959"
+        }
+      ],
+      "root_id": "be:grp:25218"
+    },
+    {
+      "categorie": "household",
+      "concept": null,
+      "display_name": "gel charbon actif anti geur",
+      "match_keys": [
+        "wc net:gel charbon actif anti geur"
+      ],
+      "members": [
+        {
+          "brand": "WC NET",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "WC NET gel charbon actif anti geur 750ml",
+          "variant_key": "colruyt:4972967"
+        }
+      ],
+      "root_id": "be:grp:25219"
+    },
+    {
       "categorie": "pantry",
       "concept": "canned-corn",
       "display_name": "Crispy maïs 0% zout Blik",
@@ -329834,6 +330538,25 @@
         }
       ],
       "root_id": "be:grp:2522"
+    },
+    {
+      "categorie": "meat",
+      "concept": null,
+      "display_name": "ZBH salametti",
+      "match_keys": [
+        "zbh salametti"
+      ],
+      "members": [
+        {
+          "brand": "",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "ZBH salametti 200g",
+          "variant_key": "colruyt:4727521"
+        }
+      ],
+      "root_id": "be:grp:25220"
     },
     {
       "categorie": "pantry",
@@ -338627,25 +339350,6 @@
     {
       "categorie": "snacksSweets",
       "concept": "candy",
-      "display_name": "dragibus",
-      "match_keys": [
-        "haribo:dragibus"
-      ],
-      "members": [
-        {
-          "brand": "HARIBO",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "HARIBO dragibus 350g",
-          "variant_key": "colruyt:4584725"
-        }
-      ],
-      "root_id": "be:grp:3003"
-    },
-    {
-      "categorie": "snacksSweets",
-      "concept": "candy",
       "display_name": "dragibus duomix",
       "match_keys": [
         "haribo:dragibus duomix"
@@ -344831,25 +345535,6 @@
       "root_id": "be:grp:3344"
     },
     {
-      "categorie": null,
-      "concept": null,
-      "display_name": "Fajita Dip",
-      "match_keys": [
-        "boni:fajita dip"
-      ],
-      "members": [
-        {
-          "brand": "BONI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI Fajita Dip 150g",
-          "variant_key": "colruyt:4939251"
-        }
-      ],
-      "root_id": "be:grp:3345"
-    },
-    {
       "categorie": "cheese",
       "concept": null,
       "display_name": "Fal.Feta Veg.",
@@ -344981,25 +345666,6 @@
         }
       ],
       "root_id": "be:grp:3352"
-    },
-    {
-      "categorie": "dairy",
-      "concept": null,
-      "display_name": "family pack",
-      "match_keys": [
-        "st moret:family pack"
-      ],
-      "members": [
-        {
-          "brand": "ST MORET",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "ST MORET family pack 280g",
-          "variant_key": "colruyt:4255258"
-        }
-      ],
-      "root_id": "be:grp:3353"
     },
     {
       "categorie": null,
@@ -345346,25 +346012,6 @@
     {
       "categorie": "cheese",
       "concept": null,
-      "display_name": "Feta Bio",
-      "match_keys": [
-        "salakis:feta bio"
-      ],
-      "members": [
-        {
-          "brand": "SALAKIS",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "SALAKIS Feta Bio 150g",
-          "variant_key": "colruyt:4789591"
-        }
-      ],
-      "root_id": "be:grp:3373"
-    },
-    {
-      "categorie": "cheese",
-      "concept": null,
       "display_name": "feta classic",
       "match_keys": [
         "salakis:feta classic"
@@ -345389,14 +346036,6 @@
         "philadelphia:feta komkommer"
       ],
       "members": [
-        {
-          "brand": "PHILADELPHIA",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "PHILADELPHIA Feta komkommer 175g",
-          "variant_key": "colruyt:4876207"
-        },
         {
           "brand": "Philadelphia",
           "chain": "ah",
@@ -350828,25 +351467,6 @@
       "root_id": "be:grp:3671"
     },
     {
-      "categorie": "fish",
-      "concept": "shrimp",
-      "display_name": "Gambas ASC",
-      "match_keys": [
-        "boni:gambas asc"
-      ],
-      "members": [
-        {
-          "brand": "BONI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI Gambas ASC 300g",
-          "variant_key": "colruyt:4708694"
-        }
-      ],
-      "root_id": "be:grp:3672"
-    },
-    {
       "categorie": null,
       "concept": null,
       "display_name": "Ganda Gedroogde Ham 7Sn",
@@ -352138,25 +352758,6 @@
     {
       "categorie": "cheese",
       "concept": null,
-      "display_name": "Geiten roomkaas kruiden",
-      "match_keys": [
-        "soignon:geiten roomkaas kruiden"
-      ],
-      "members": [
-        {
-          "brand": "SOIGNON",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "SOIGNON Geiten roomkaas kruiden 150g",
-          "variant_key": "colruyt:4947582"
-        }
-      ],
-      "root_id": "be:grp:3744"
-    },
-    {
-      "categorie": "cheese",
-      "concept": null,
       "display_name": "geitenkaas bieslook",
       "match_keys": [
         "chavroux:geitenkaas bieslook"
@@ -352278,25 +352879,6 @@
     },
     {
       "categorie": "cheese",
-      "concept": "goat-cheese",
-      "display_name": "Geitenkaas met vijgen",
-      "match_keys": [
-        "chavroux:geitenkaas met vijgen"
-      ],
-      "members": [
-        {
-          "brand": "CHAVROUX",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "CHAVROUX Geitenkaas met vijgen 150g",
-          "variant_key": "colruyt:4582158"
-        }
-      ],
-      "root_id": "be:grp:3751"
-    },
-    {
-      "categorie": "cheese",
       "concept": "cheese",
       "display_name": "geitenkaas natuur",
       "match_keys": [
@@ -352310,14 +352892,6 @@
           "provenance": "scraped",
           "variant": "CHAVROUX geitenkaas natuur 150g",
           "variant_key": "colruyt:26511"
-        },
-        {
-          "brand": "CHAVROUX",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "CHAVROUX geitenkaas natuur 225g",
-          "variant_key": "colruyt:4419808"
         }
       ],
       "root_id": "be:grp:3752"
@@ -352378,25 +352952,6 @@
         }
       ],
       "root_id": "be:grp:3755"
-    },
-    {
-      "categorie": "cheese",
-      "concept": "goat-cheese",
-      "display_name": "geitenkaas rozemarijn",
-      "match_keys": [
-        "landana:geitenkaas rozemarijn"
-      ],
-      "members": [
-        {
-          "brand": "LANDANA",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "LANDANA geitenkaas rozemarijn 200g",
-          "variant_key": "colruyt:4422885"
-        }
-      ],
-      "root_id": "be:grp:3756"
     },
     {
       "categorie": "cheese",
@@ -353580,25 +354135,6 @@
         }
       ],
       "root_id": "be:grp:3819"
-    },
-    {
-      "categorie": "fish",
-      "concept": "shrimp",
-      "display_name": "gemar.scampibrochette ASC",
-      "match_keys": [
-        "boni:gemar.scampibrochette asc"
-      ],
-      "members": [
-        {
-          "brand": "BONI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI gemar.scampibrochette ASC ±250g",
-          "variant_key": "colruyt:4415574"
-        }
-      ],
-      "root_id": "be:grp:3822"
     },
     {
       "categorie": "meat",
@@ -356844,25 +357380,6 @@
       "root_id": "be:grp:4009"
     },
     {
-      "categorie": null,
-      "concept": null,
-      "display_name": "gojibessen",
-      "match_keys": [
-        "boni:gojibessen"
-      ],
-      "members": [
-        {
-          "brand": "BONI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI gojibessen 140g",
-          "variant_key": "colruyt:3679857"
-        }
-      ],
-      "root_id": "be:grp:4010"
-    },
-    {
       "categorie": "alcohol",
       "concept": null,
       "display_name": "Gold Apple 4,5%vol",
@@ -357374,25 +357891,6 @@
         }
       ],
       "root_id": "be:grp:4041"
-    },
-    {
-      "categorie": "cheese",
-      "concept": null,
-      "display_name": "Gouda Brandn. Blok",
-      "match_keys": [
-        "finest selection:gouda brandn. blok"
-      ],
-      "members": [
-        {
-          "brand": "FINEST SELECTION",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "FINEST SELECTION Gouda Brandn. Blok 225g",
-          "variant_key": "colruyt:4889932"
-        }
-      ],
-      "root_id": "be:grp:4042"
     },
     {
       "categorie": "cheese",
@@ -362388,44 +362886,6 @@
         }
       ],
       "root_id": "be:grp:4316"
-    },
-    {
-      "categorie": "cheese",
-      "concept": null,
-      "display_name": "Halloumi chili",
-      "match_keys": [
-        "pindos:halloumi chili"
-      ],
-      "members": [
-        {
-          "brand": "PINDOS",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "PINDOS Halloumi chili 225g",
-          "variant_key": "colruyt:4948878"
-        }
-      ],
-      "root_id": "be:grp:4317"
-    },
-    {
-      "categorie": "cheese",
-      "concept": "cheese",
-      "display_name": "Halloumi grill kaas",
-      "match_keys": [
-        "salakis:halloumi grill kaas"
-      ],
-      "members": [
-        {
-          "brand": "SALAKIS",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "SALAKIS Halloumi grill kaas 200g",
-          "variant_key": "colruyt:4876197"
-        }
-      ],
-      "root_id": "be:grp:4318"
     },
     {
       "categorie": "vegetables",
@@ -374132,25 +374592,6 @@
     {
       "categorie": "cheese",
       "concept": "cheese",
-      "display_name": "kaas olijf-tomaat",
-      "match_keys": [
-        "landana:kaas olijf-tomaat"
-      ],
-      "members": [
-        {
-          "brand": "LANDANA",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "LANDANA kaas olijf-tomaat 150g",
-          "variant_key": "colruyt:3653497"
-        }
-      ],
-      "root_id": "be:grp:4967"
-    },
-    {
-      "categorie": "cheese",
-      "concept": "cheese",
       "display_name": "kaas oud sneetjes",
       "match_keys": [
         "brugge:kaas oud sneetjes"
@@ -379450,25 +379891,6 @@
         }
       ],
       "root_id": "be:grp:5269"
-    },
-    {
-      "categorie": "meat",
-      "concept": "meatloaf",
-      "display_name": "Kippenvleesbrood Sweet Chili",
-      "match_keys": [
-        "boni:kippenvleesbrood sweet chili"
-      ],
-      "members": [
-        {
-          "brand": "BONI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI Kippenvleesbrood Sweet Chili 150g",
-          "variant_key": "colruyt:4791240"
-        }
-      ],
-      "root_id": "be:grp:5270"
     },
     {
       "categorie": "meat",
@@ -386537,25 +386959,6 @@
       "root_id": "be:grp:5659"
     },
     {
-      "categorie": "dairy",
-      "concept": null,
-      "display_name": "Le roulé ananas",
-      "match_keys": [
-        "rians:le roule ananas"
-      ],
-      "members": [
-        {
-          "brand": "RIANS",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "RIANS Le roulé ananas 125g",
-          "variant_key": "colruyt:4885471"
-        }
-      ],
-      "root_id": "be:grp:5661"
-    },
-    {
       "categorie": "alcohol",
       "concept": "wine",
       "display_name": "Le Sablou Bergerac rood",
@@ -389189,7 +389592,7 @@
     {
       "categorie": "beverages",
       "concept": null,
-      "display_name": "limonade Tropical niet-bruis.",
+      "display_name": "Limonade Tropical niet-bruis.",
       "match_keys": [
         "boni:limonade tropical niet-bruis."
       ],
@@ -389199,7 +389602,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "BONI limonade Tropical niet-bruis. 1,5L",
+          "variant": "BONI Limonade Tropical niet-bruis. 1,5L",
           "variant_key": "colruyt:3646143"
         }
       ],
@@ -389416,7 +389819,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "Linguini Bolognese ±600g",
+          "variant": "Linguini Bolognese ±440g",
           "variant_key": "colruyt:3582445"
         }
       ],
@@ -389435,7 +389838,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "Linguini Ham-Kaas ±600g",
+          "variant": "Linguini Ham-Kaas ±490g",
           "variant_key": "colruyt:3582434"
         }
       ],
@@ -396077,25 +396480,6 @@
     {
       "categorie": null,
       "concept": null,
-      "display_name": "Max 2 Fizz Tubo",
-      "match_keys": [
-        "lutti:max 2 fizz tubo"
-      ],
-      "members": [
-        {
-          "brand": "LUTTI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "LUTTI Max 2 Fizz Tubo 500g",
-          "variant_key": "colruyt:4947339"
-        }
-      ],
-      "root_id": "be:grp:6188"
-    },
-    {
-      "categorie": null,
-      "concept": null,
       "display_name": "Max 9V",
       "match_keys": [
         "energizer:max 9v"
@@ -398097,9 +398481,10 @@
     {
       "categorie": "fruit",
       "concept": "melon",
-      "display_name": "meloen galia",
+      "display_name": "Meloen Galia",
       "match_keys": [
-        "boni:meloen galia"
+        "boni:meloen galia",
+        "meloen galia"
       ],
       "members": [
         {
@@ -398109,6 +398494,14 @@
           "provenance": "scraped",
           "variant": "BONI meloen galia",
           "variant_key": "colruyt:29229"
+        },
+        {
+          "brand": "",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "Meloen Galia",
+          "variant_key": "colruyt:4513270"
         }
       ],
       "root_id": "be:grp:6295"
@@ -401574,25 +401967,6 @@
       "root_id": "be:grp:6476"
     },
     {
-      "categorie": "dairy",
-      "concept": null,
-      "display_name": "Mini Bufala",
-      "match_keys": [
-        "galbani:mini bufala"
-      ],
-      "members": [
-        {
-          "brand": "GALBANI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "GALBANI Mini Bufala 150g",
-          "variant_key": "colruyt:4407154"
-        }
-      ],
-      "root_id": "be:grp:6477"
-    },
-    {
       "categorie": "cheese",
       "concept": "burrata",
       "display_name": "Mini burrata",
@@ -404154,25 +404528,6 @@
     {
       "categorie": "personalCare",
       "concept": "mouthwash",
-      "display_name": "mondwater Advanced White",
-      "match_keys": [
-        "listerine:mondwater advanced white"
-      ],
-      "members": [
-        {
-          "brand": "LISTERINE",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "LISTERINE mondwater Advanced White 500ml",
-          "variant_key": "colruyt:4775702"
-        }
-      ],
-      "root_id": "be:grp:6617"
-    },
-    {
-      "categorie": "personalCare",
-      "concept": "mouthwash",
       "display_name": "mondwater coolmint",
       "match_keys": [
         "listerine:mondwater coolmint"
@@ -404568,25 +404923,6 @@
         }
       ],
       "root_id": "be:grp:6639"
-    },
-    {
-      "categorie": "fish",
-      "concept": null,
-      "display_name": "Mosselkruiden",
-      "match_keys": [
-        "evlier:mosselkruiden"
-      ],
-      "members": [
-        {
-          "brand": "EVLIER",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "EVLIER Mosselkruiden 145g",
-          "variant_key": "colruyt:4954243"
-        }
-      ],
-      "root_id": "be:grp:6640"
     },
     {
       "categorie": "fish",
@@ -405718,25 +406054,6 @@
         }
       ],
       "root_id": "be:grp:6703"
-    },
-    {
-      "categorie": null,
-      "concept": null,
-      "display_name": "multi mix",
-      "match_keys": [
-        "trolli:multi mix"
-      ],
-      "members": [
-        {
-          "brand": "TROLLI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "TROLLI multi mix 500g",
-          "variant_key": "colruyt:4533451"
-        }
-      ],
-      "root_id": "be:grp:6704"
     },
     {
       "categorie": "household",
@@ -408836,25 +409153,6 @@
         }
       ],
       "root_id": "be:grp:6879"
-    },
-    {
-      "categorie": "pasta",
-      "concept": "noodle",
-      "display_name": "Noedels Spicy kung pao",
-      "match_keys": [
-        "obento:noedels spicy kung pao"
-      ],
-      "members": [
-        {
-          "brand": "OBENTO",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "OBENTO Noedels Spicy kung pao 240g",
-          "variant_key": "colruyt:4913739"
-        }
-      ],
-      "root_id": "be:grp:6880"
     },
     {
       "categorie": "pasta",
@@ -415998,25 +416296,6 @@
     {
       "categorie": "fish",
       "concept": "fish",
-      "display_name": "Pangas.brochet.African St",
-      "match_keys": [
-        "pure fish:pangas.brochet.african st"
-      ],
-      "members": [
-        {
-          "brand": "PURE FISH",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "PURE FISH Pangas.brochet.African St 280g",
-          "variant_key": "colruyt:4961155"
-        }
-      ],
-      "root_id": "be:grp:7264"
-    },
-    {
-      "categorie": "fish",
-      "concept": "fish",
       "display_name": "pangasiusf. graatl. ASC",
       "match_keys": [
         "everyday:pangasiusf. graatl. asc"
@@ -417025,25 +417304,6 @@
         }
       ],
       "root_id": "be:grp:7317"
-    },
-    {
-      "categorie": "household",
-      "concept": null,
-      "display_name": "paradise patch&flora 60d",
-      "match_keys": [
-        "soupline:paradise patch&flora 60d"
-      ],
-      "members": [
-        {
-          "brand": "SOUPLINE",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "SOUPLINE paradise patch&flora 60d 1,28L",
-          "variant_key": "colruyt:4887276"
-        }
-      ],
-      "root_id": "be:grp:7318"
     },
     {
       "categorie": null,
@@ -420849,14 +421109,6 @@
         "boni:perziken"
       ],
       "members": [
-        {
-          "brand": "BONI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI perziken",
-          "variant_key": "colruyt:29736"
-        },
         {
           "brand": "BONI",
           "chain": "colruyt",
@@ -424854,9 +425106,9 @@
     {
       "categorie": "baby",
       "concept": null,
-      "display_name": "plastiekvrije doekjes",
+      "display_name": "Plastic Free Baby Wipes",
       "match_keys": [
-        "naif:plastiekvrije doekjes"
+        "naif:plastic free baby wipes"
       ],
       "members": [
         {
@@ -424864,7 +425116,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "NAIF plastiekvrije doekjes 54st",
+          "variant": "NAIF Plastic Free Baby Wipes 3st",
           "variant_key": "colruyt:4601733"
         }
       ],
@@ -424873,7 +425125,7 @@
     {
       "categorie": "beverages",
       "concept": "water",
-      "display_name": "plat water",
+      "display_name": "Plat water",
       "match_keys": [
         "boni:plat water"
       ],
@@ -424883,7 +425135,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "BONI plat water 1,5L",
+          "variant": "BONI Plat water 1,5L",
           "variant_key": "colruyt:5091"
         },
         {
@@ -424891,7 +425143,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "BONI plat water 1L",
+          "variant": "BONI Plat water 1L",
           "variant_key": "colruyt:3288694"
         },
         {
@@ -424914,11 +425166,11 @@
       "root_id": "be:grp:7754"
     },
     {
-      "categorie": "beverages",
-      "concept": "water",
-      "display_name": "Plat water Eco Pack",
+      "categorie": null,
+      "concept": null,
+      "display_name": "Plat water BIB",
       "match_keys": [
-        "spa reine:plat water eco pack"
+        "spa reine:plat water bib"
       ],
       "members": [
         {
@@ -424926,7 +425178,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "SPA REINE Plat water Eco Pack 10L",
+          "variant": "SPA REINE Plat water BIB 10L",
           "variant_key": "colruyt:4724549"
         },
         {
@@ -424934,7 +425186,7 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "SPA REINE Plat water Eco Pack 5L",
+          "variant": "SPA REINE Plat water BIB 5L",
           "variant_key": "colruyt:4585036"
         }
       ],
@@ -425008,7 +425260,7 @@
     {
       "categorie": "beverages",
       "concept": "water",
-      "display_name": "plat water sportdop",
+      "display_name": "Plat water sportdop",
       "match_keys": [
         "boni:plat water sportdop"
       ],
@@ -425018,16 +425270,16 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "BONI plat water sportdop 33cl",
-          "variant_key": "colruyt:1765496"
+          "variant": "BONI Plat water sportdop 50cl",
+          "variant_key": "colruyt:1350965"
         },
         {
           "brand": "BONI",
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "BONI plat water sportdop 50cl",
-          "variant_key": "colruyt:1350965"
+          "variant": "BONI plat water sportdop 33cl",
+          "variant_key": "colruyt:1765496"
         }
       ],
       "root_id": "be:grp:7759"
@@ -426791,14 +427043,6 @@
           "provenance": "scraped",
           "variant": "BONI Pompoenpitten 290g",
           "variant_key": "colruyt:4955535"
-        },
-        {
-          "brand": "BONI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI pompoenpitten 290g",
-          "variant_key": "colruyt:3312637"
         }
       ],
       "root_id": "be:grp:7850"
@@ -426840,25 +427084,6 @@
         }
       ],
       "root_id": "be:grp:7852"
-    },
-    {
-      "categorie": null,
-      "concept": null,
-      "display_name": "Pop Bar Cocoa",
-      "match_keys": [
-        "kriket:pop bar cocoa"
-      ],
-      "members": [
-        {
-          "brand": "KRIKET",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "KRIKET Pop Bar Cocoa 35g",
-          "variant_key": "colruyt:4864541"
-        }
-      ],
-      "root_id": "be:grp:7853"
     },
     {
       "categorie": "snacksSweets",
@@ -428514,25 +428739,6 @@
       "root_id": "be:grp:7945"
     },
     {
-      "categorie": "vegetables",
-      "concept": "potato",
-      "display_name": "prim.aardappelen vastkok.",
-      "match_keys": [
-        "boni bio:prim.aardappelen vastkok."
-      ],
-      "members": [
-        {
-          "brand": "BONI BIO",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI BIO prim.aardappelen vastkok. 2,5kg",
-          "variant_key": "colruyt:4020436"
-        }
-      ],
-      "root_id": "be:grp:7946"
-    },
-    {
       "categorie": "baby",
       "concept": null,
       "display_name": "Primea groeimelk 3 Bio",
@@ -428649,25 +428855,6 @@
     {
       "categorie": "vegetables",
       "concept": "potato",
-      "display_name": "primeur charlotte",
-      "match_keys": [
-        "boni:primeur charlotte"
-      ],
-      "members": [
-        {
-          "brand": "BONI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI primeur charlotte 5kg",
-          "variant_key": "colruyt:28064"
-        }
-      ],
-      "root_id": "be:grp:7953"
-    },
-    {
-      "categorie": "vegetables",
-      "concept": "potato",
       "display_name": "primeur Franceline",
       "match_keys": [
         "boni:primeur franceline"
@@ -428702,25 +428889,6 @@
         }
       ],
       "root_id": "be:grp:7955"
-    },
-    {
-      "categorie": "vegetables",
-      "concept": "potato",
-      "display_name": "primeur krielaardappelen",
-      "match_keys": [
-        "boni bio:primeur krielaardappelen"
-      ],
-      "members": [
-        {
-          "brand": "BONI BIO",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "BONI BIO primeur krielaardappelen 1kg",
-          "variant_key": "colruyt:2407085"
-        }
-      ],
-      "root_id": "be:grp:7956"
     },
     {
       "categorie": "petFood",
@@ -428768,6 +428936,14 @@
         "masso antico:primitivo"
       ],
       "members": [
+        {
+          "brand": "MASSO ANTICO",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "MASSO ANTICO Primitivo 1,5L",
+          "variant_key": "colruyt:4129017"
+        },
         {
           "brand": "MASSO ANTICO",
           "chain": "colruyt",
@@ -430246,25 +430422,6 @@
         }
       ],
       "root_id": "be:grp:8043"
-    },
-    {
-      "categorie": "snacksSweets",
-      "concept": "protein-bar",
-      "display_name": "proteïnereep zw.bes-pure cho.",
-      "match_keys": [
-        "kriket:proteinereep zw.bes-pure cho."
-      ],
-      "members": [
-        {
-          "brand": "KRIKET",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "KRIKET proteïnereep zw.bes-pure cho. 50g",
-          "variant_key": "colruyt:4708964"
-        }
-      ],
-      "root_id": "be:grp:8044"
     },
     {
       "categorie": "baby",
@@ -433932,14 +434089,6 @@
           "chain": "colruyt",
           "ean": null,
           "provenance": "scraped",
-          "variant": "COCA-COLA Regular Original Taste 15cl",
-          "variant_key": "colruyt:2249043"
-        },
-        {
-          "brand": "COCA-COLA",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
           "variant": "COCA-COLA Regular Original Taste 1L",
           "variant_key": "colruyt:1651905"
         },
@@ -435342,25 +435491,6 @@
         }
       ],
       "root_id": "be:grp:8309"
-    },
-    {
-      "categorie": "cheese",
-      "concept": null,
-      "display_name": "Ricetta Mascarpone Pomodoro",
-      "match_keys": [
-        "sacla:ricetta mascarpone pomodoro"
-      ],
-      "members": [
-        {
-          "brand": "SACLA",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "SACLA Ricetta Mascarpone Pomodoro 190g",
-          "variant_key": "colruyt:4918148"
-        }
-      ],
-      "root_id": "be:grp:8310"
     },
     {
       "categorie": "alcohol",
@@ -437580,25 +437710,6 @@
         }
       ],
       "root_id": "be:grp:8427"
-    },
-    {
-      "categorie": "pantry",
-      "concept": null,
-      "display_name": "rond chilipep.",
-      "match_keys": [
-        "conserve della nonna:rond chilipep."
-      ],
-      "members": [
-        {
-          "brand": "CONSERVE DELLA NONNA",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "CONSERVE DELLA NONNA rond chilipep. 190g",
-          "variant_key": "colruyt:4937046"
-        }
-      ],
-      "root_id": "be:grp:8429"
     },
     {
       "categorie": "snacksSweets",
@@ -442747,25 +442858,6 @@
         }
       ],
       "root_id": "be:grp:8711"
-    },
-    {
-      "categorie": "frozenMeals",
-      "concept": null,
-      "display_name": "Saus bas.zvrucht.garnal.tom.",
-      "match_keys": [
-        "arbi:saus bas.zvrucht.garnal.tom."
-      ],
-      "members": [
-        {
-          "brand": "ARBI",
-          "chain": "colruyt",
-          "ean": null,
-          "provenance": "scraped",
-          "variant": "ARBI Saus bas.zvrucht.garnal.tom. 450g",
-          "variant_key": "colruyt:4944806"
-        }
-      ],
-      "root_id": "be:grp:8712"
     },
     {
       "categorie": "saucesCondiments",
@@ -458196,7 +458288,8 @@
       "concept": null,
       "display_name": "spruiten",
       "match_keys": [
-        "boni:spruiten"
+        "boni:spruiten",
+        "spruiten"
       ],
       "members": [
         {
@@ -458206,6 +458299,14 @@
           "provenance": "scraped",
           "variant": "BONI spruiten 1,5kg",
           "variant_key": "colruyt:30006"
+        },
+        {
+          "brand": "",
+          "chain": "colruyt",
+          "ean": null,
+          "provenance": "scraped",
+          "variant": "spruiten",
+          "variant_key": "colruyt:4495758"
         }
       ],
       "root_id": "be:grp:9568"
