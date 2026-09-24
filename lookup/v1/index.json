@@ -16,10 +16,10 @@
         "de"
       ],
       "schemaVersion": 1,
-      "dataVersion": "2026-09-03",
+      "dataVersion": "2026-09-03+3457205d",
       "url": "lookup/v1/locale-BE.json",
-      "sizeBytes": 471242,
-      "sha256": "b4f89b61bc4b720851a0b40402db135962cff8788ff7040bdaf06399e3d9e7b2"
+      "sizeBytes": 471251,
+      "sha256": "5b4adbe440edf8d0ad84f3502b529929effd8712954c2a71c966ebd1537dbdf4"
     },
     {
       "id": "NL",
