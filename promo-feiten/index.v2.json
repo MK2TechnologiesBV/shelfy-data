@@ -1,13 +1,13 @@
 {
-  "data_version": "2026-09-28",
+  "data_version": "2026-10-05",
   "entries": [
     {
-      "content_sha256": "a4eefb61f21b8ab6b6d2b31c08b19a60ae5b805ba0d2e8628009a31780243f36",
+      "content_sha256": "691d97dd890ed6e092ffe1b323e413ea0523241cec160290ed3e20d184be62d9",
       "market": "BE",
       "path": "promo-feiten/BE.v2.json",
       "provenance": "scraped",
       "schema_version": 2,
-      "size_bytes": 4438392
+      "size_bytes": 3786401
     }
   ],
   "schema_version": 2
