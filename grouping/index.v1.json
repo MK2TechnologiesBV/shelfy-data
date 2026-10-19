@@ -1,8 +1,8 @@
 {
-  "data_version": "2026-10-11",
+  "data_version": "2026-10-18",
   "entries": [
     {
-      "content_sha256": "004e9c2c6cd117d13aca17ff0d11e03fe0919884a4e13746355aeae54d401d52",
+      "content_sha256": "90b9db5ff2d6a929d1e1fb73adc3247c86b3b361231fc6c529cf5ecfff25fc9c",
       "market": "BE",
       "path": "grouping/BE.v1.json",
       "provenance": "curated",
