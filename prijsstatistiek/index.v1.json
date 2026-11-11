@@ -1,8 +1,8 @@
 {
-  "data_version": "2026-10-18",
+  "data_version": "2026-10-22",
   "entries": [
     {
-      "content_sha256": "4936db1f576889f036e164fd8d11db53f3c5d1e07518521d03b6f1a1195a315b",
+      "content_sha256": "a6a6ca849efa663ee2552bce63e16790540c1a1f2edfa09c897782792ddd3851",
       "market": "BE",
       "path": "prijsstatistiek/BE.v1.json",
       "provenance": "scraped",
